@@ -11,7 +11,7 @@ Core idea:
 - Cyrillic gives the language its visual identity.
 - Mixed-script forms are allowed on purpose.
 - Short forms and slang are part of the language, not mistakes.
-- The system grows by roots, prefixes, suffixes, and culture words.
+- The system grows by roots, affixes, and borrowed terms.
 CREATOR & ORIGIN
 Creator: Dani Postma
 DXN1-Language was created by Dani Postma as an English-first, Cyrillic-written,
@@ -59,9 +59,6 @@ Verb structure: root stays stable. Tense is marked by helper particles.
 Aspect markers can stack. Negation stays before the verb. Questions can use ли, intonation, or a question word.
 Default sentence skeleton: subject + tense/aspect + verb + object + place + mood marker.
 Examples: я был ид дом = I went home; мы из говор музик = we are speaking about music; ю не лайк это = you do not like this.
-WORD-BUILDING KIT
-Common DXN1 builders: re- = again/back, un- = not/reverse, no- = without/no, anti- = against, hyper- = extra strong, mega- = huge/max, micro- = tiny/small, neo- = new-style, proto- = early/first-form, ghost- = hidden/stealth, glitch- = broken/cyber, hard- = serious/intense, soft- = gentle/easy, turbo- = fast/boosted, dark- = secret/edgy, bright- = clear/obvious.
-Common suffixes: -ер = person who does a thing, -инг = ongoing action or vibe, -ед = past/done version, -ерс = plural group, -макс = maximum, -мод = mode, -вэйв = style wave/trend, -синк = sync/align, -дроп = drop/release, -лооп = repeat loop, -стрим = streaming/flow, -крафт = build/craft, -зона = area/scene, -глоу = shine/aura, -пак = bundle.
 CORE PRONOUNS & VERBS
 I - и | Meaning: я | Casual: и | Hard: и | Type: core
 he - хе | Meaning: он | Casual: хе | Hard: хе | Type: core
