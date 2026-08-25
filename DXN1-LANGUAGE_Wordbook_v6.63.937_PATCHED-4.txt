@@ -1,4 +1,4 @@
-ДЖН1-LANGUAGE WORD & RULE BOOK v6.63.927
+ДЖН1-LANGUAGE WORD & RULE BOOK v6.63.937
 ========================================================================================
 
 LANGUAGE CONCEPT
@@ -8063,7 +8063,7 @@ walkway — воквэй
 conversation — конвэрсейшн
 
 ========================================================================================
-ДЖН1-LANGUAGE v6.63.927 — ROOT WORD EXPANSION & MORPHOLOGY UPDATE
+ДЖН1-LANGUAGE v6.63.937 — ROOT WORD EXPANSION & MORPHOLOGY UPDATE
 ========================================================================================
 
 RELEASE STATUS
@@ -8147,7 +8147,7 @@ LATIN NAME: DXN1-Language
 
 
 ========================================================================================
-ENGLISH FOUNDATION & WORD-FORMATION RULES v6.63.927
+ENGLISH FOUNDATION & WORD-FORMATION RULES v6.63.937
 ========================================================================================
 WF101. Every canonical English headword may have exactly one primary DXN1 dictionary root.
 WF102. Duplicate English headwords are forbidden; alternate senses live under the same entry.
@@ -39831,10 +39831,1054 @@ conrey - конрайи | Class: native-adapted
 conroe - конрое | Class: native-adapted
 
 ================================================================================
+
+================================================================================
+NEW GRAMMAR RULES v6.63.937 (GR1–GR10)
+================================================================================
+
+GR1. Compound nouns formed from two roots take stress on the first root in Standard mode.
+GR2. When a borrowed word has no natural Cyrillic equivalent, the transliteration preserves the English vowel pattern.
+GR3. Negation particles may stack for emphatic denial: не не = absolutely not.
+GR4. The continuous marker из may be placed before or after the verb for stylistic variation.
+GR5. Questions formed with ли always place the particle at the end of the clause.
+GR6. Abstract nouns formed with -ство retain the root stress pattern.
+GR7. When two aspect markers appear, the first marks primary aspect and the second marks secondary nuance.
+GR8. Casual mode may drop final vowels when the root remains recognizable.
+GR9. The emphasis particle же may be repeated for intensity: же же = truly, indeed.
+GR10. Proper nouns borrowed from English retain their original spelling in Hard mode.
+
+================================================================================
+NEW ROOT WORD BANK — 500 UNIQUE ENGLISH HEADWORDS
+================================================================================
+Format: English — ДЖН1 | Meaning: English gloss | Type: category
+
+eyebrow — ейебрау | Meaning: eyebrow | Type: root
+fingernail — фингернэйл | Meaning: fingernail | Type: root
+toenail — тоенэйл | Meaning: toenail | Type: root
+thigh — тхигх | Meaning: thigh | Type: root
+spine — спине | Meaning: spine | Type: root
+forehead — форехиад | Meaning: forehead | Type: root
+throat — тхроат | Meaning: throat | Type: root
+savanna — саванна | Meaning: savanna | Type: root
+marshland — маршланд | Meaning: marshland | Type: root
+estuary — естуарй | Meaning: estuary | Type: root
+lagoon — лагуун | Meaning: lagoon | Type: root
+fjord — фйорд | Meaning: fjord | Type: root
+steppe — степпе | Meaning: steppe | Type: root
+thicket — тхиккет | Meaning: thicket | Type: root
+copse — копсе | Meaning: copse | Type: root
+hedge — хедге | Meaning: hedge | Type: root
+furrow — фуррау | Meaning: furrow | Type: root
+ditch — дитч | Meaning: ditch | Type: root
+levee — левии | Meaning: levee | Type: root
+ridge — ридге | Meaning: ridge | Type: root
+gorge — горге | Meaning: gorge | Type: root
+ravine — равине | Meaning: ravine | Type: root
+encrypt — енкрйпт | Meaning: encrypt | Type: root
+firewall — фиревалл | Meaning: firewall | Type: root
+gateway — гатевэй | Meaning: gateway | Type: root
+kernel — кернел | Meaning: kernel | Type: root
+malware — малваре | Meaning: malware | Type: root
+terminal — терминал | Meaning: terminal | Type: root
+pixel — пиксел | Meaning: pixel | Type: root
+format — формат | Meaning: format | Type: root
+latency — латенкй | Meaning: latency | Type: root
+modem — модем | Meaning: modem | Type: root
+frustrated — фрустратед | Meaning: frustrated | Type: root
+grateful — гратефул | Meaning: grateful | Type: root
+guilty — гуилтй | Meaning: guilty | Type: root
+impatient — импатиент | Meaning: impatient | Type: root
+nostalgic — носталгик | Meaning: nostalgic | Type: root
+optimistic — оптимистик | Meaning: optimistic | Type: root
+overwhelmed — овервхелмед | Meaning: overwhelmed | Type: root
+relieved — релиевед | Meaning: relieved | Type: root
+restless — рестлесс | Meaning: restless | Type: root
+satisfied — сатисфиед | Meaning: satisfied | Type: root
+thankful — тханкфул | Meaning: thankful | Type: root
+thoughtful — тхаугхтфул | Meaning: thoughtful | Type: root
+upset — упсет | Meaning: upset | Type: root
+youthful — йаутхфул | Meaning: youthful | Type: root
+dumpling — думплинг | Meaning: dumpling | Type: root
+espresso — еспрессо | Meaning: espresso | Type: root
+focaccia — фокаккиа | Meaning: focaccia | Type: root
+guacamole — гуакамоле | Meaning: guacamole | Type: root
+hummus — хуммус | Meaning: hummus | Type: root
+jambalaya — йамбалэйа | Meaning: jambalaya | Type: root
+kimchi — кимчи | Meaning: kimchi | Type: root
+lasagna — ласагна | Meaning: lasagna | Type: root
+macaroni — макарони | Meaning: macaroni | Type: root
+nougat — наугат | Meaning: nougat | Type: root
+omelette — омелетте | Meaning: omelette | Type: root
+pancakes — панкакес | Meaning: pancakes | Type: root
+quesadilla — кууесадилла | Meaning: quesadilla | Type: root
+risotto — рисотто | Meaning: risotto | Type: root
+sourdough — саурдаугх | Meaning: sourdough | Type: root
+tempura — темпура | Meaning: tempura | Type: root
+waffle — ваффле | Meaning: waffle | Type: root
+croissant — кроиссант | Meaning: croissant | Type: root
+fettuccine — феттуккине | Meaning: fettuccine | Type: root
+gnocchi — гнокчи | Meaning: gnocchi | Type: root
+kebab — кебаб | Meaning: kebab | Type: root
+linguine — лингуине | Meaning: linguine | Type: root
+mozzarella — моззарелла | Meaning: mozzarella | Type: root
+prosciutto — проскиутто | Meaning: prosciutto | Type: root
+ravioli — равиоли | Meaning: ravioli | Type: root
+tiramisu — тирамису | Meaning: tiramisu | Type: root
+employer — емплойер | Meaning: employer | Type: root
+interview — интервиев | Meaning: interview | Type: root
+overtime — овертиме | Meaning: overtime | Type: root
+payroll — пэйролл | Meaning: payroll | Type: root
+promotion — промотион | Meaning: promotion | Type: root
+resign — ресигн | Meaning: resign | Type: root
+vacation — вакатион | Meaning: vacation | Type: root
+workshop — воркшоп | Meaning: workshop | Type: root
+supervisor — супервисор | Meaning: supervisor | Type: root
+subordinate — субординате | Meaning: subordinate | Type: root
+trainee — трэйнии | Meaning: trainee | Type: root
+intern — интерн | Meaning: intern | Type: root
+proposal — пропосал | Meaning: proposal | Type: root
+quarterly — кууартерлй | Meaning: quarterly | Type: root
+revenue — ревенуе | Meaning: revenue | Type: root
+expense — експенсе | Meaning: expense | Type: root
+customs — кустомс | Meaning: customs | Type: root
+immigration — иммигратион | Meaning: immigration | Type: root
+itinerary — итинерарй | Meaning: itinerary | Type: root
+excursion — екскурсион | Meaning: excursion | Type: root
+destination — дестинатион | Meaning: destination | Type: root
+departure — департуре | Meaning: departure | Type: root
+reservation — ресерватион | Meaning: reservation | Type: root
+transfer — трансфер | Meaning: transfer | Type: root
+scenic — скеник | Meaning: scenic | Type: root
+monument — монумент | Meaning: monument | Type: root
+gallery — галлерй | Meaning: gallery | Type: root
+souvenir — саувенир | Meaning: souvenir | Type: root
+consulate — консулате | Meaning: consulate | Type: root
+crescendo — крескендо | Meaning: crescendo | Type: root
+decrescendo — декрескендо | Meaning: decrescendo | Type: root
+ensemble — енсембле | Meaning: ensemble | Type: root
+fortissimo — фортиссимо | Meaning: fortissimo | Type: root
+octave — октаве | Meaning: octave | Type: root
+orchestra — орчестра | Meaning: orchestra | Type: root
+pianissimo — пианиссимо | Meaning: pianissimo | Type: root
+soprano — сопрано | Meaning: soprano | Type: root
+tempo — темпо | Meaning: tempo | Type: root
+treble — требле | Meaning: treble | Type: root
+vibrato — вибрато | Meaning: vibrato | Type: root
+virtuoso — виртуосо | Meaning: virtuoso | Type: root
+contralto — контралто | Meaning: contralto | Type: root
+falsetto — фалсетто | Meaning: falsetto | Type: root
+fugue — фугуе | Meaning: fugue | Type: root
+prelude — прелуде | Meaning: prelude | Type: root
+sonata — соната | Meaning: sonata | Type: root
+symphony — сймфонй | Meaning: symphony | Type: root
+etude — етуде | Meaning: etude | Type: root
+serenade — серенаде | Meaning: serenade | Type: root
+defeat — дефиат | Meaning: defeat | Type: root
+endurance — ендуранке | Meaning: endurance | Type: root
+marathon — маратхон | Meaning: marathon | Type: root
+opponent — оппонент | Meaning: opponent | Type: root
+penalty — пеналтй | Meaning: penalty | Type: root
+record — рекорд | Meaning: record | Type: root
+referee — реферии | Meaning: referee | Type: root
+spectator — спектатор | Meaning: spectator | Type: root
+tournament — таурнамент | Meaning: tournament | Type: root
+victory — викторй | Meaning: victory | Type: root
+goalkeeper — гоалкиипер | Meaning: goalkeeper | Type: root
+midfielder — мидфиелдер | Meaning: midfielder | Type: root
+defender — дефендер | Meaning: defender | Type: root
+pitch — питч | Meaning: pitch | Type: root
+whistle — вхистле | Meaning: whistle | Type: root
+jersey — йерсей | Meaning: jersey | Type: root
+helmet — хелмет | Meaning: helmet | Type: root
+paddle — паддле | Meaning: paddle | Type: root
+electron — електрон | Meaning: electron | Type: root
+formula — формула | Meaning: formula | Type: root
+neutron — неутрон | Meaning: neutron | Type: root
+nucleus — нуклеус | Meaning: nucleus | Type: root
+particle — партикле | Meaning: particle | Type: root
+photon — фотон | Meaning: photon | Type: root
+proton — протон | Meaning: proton | Type: root
+quark — кууарк | Meaning: quark | Type: root
+spectrum — спектрум | Meaning: spectrum | Type: root
+friction — фриктион | Meaning: friction | Type: root
+isotope — исотопе | Meaning: isotope | Type: root
+magnetic — магнетик | Meaning: magnetic | Type: root
+organism — органисм | Meaning: organism | Type: root
+contrast — контраст | Meaning: contrast | Type: root
+curator — куратор | Meaning: curator | Type: root
+exhibit — ексхибит | Meaning: exhibit | Type: root
+impression — импрессион | Meaning: impression | Type: root
+medium — медиум | Meaning: medium | Type: root
+portrait — портрэйт | Meaning: portrait | Type: root
+sketch — скетч | Meaning: sketch | Type: root
+symmetry — сймметрй | Meaning: symmetry | Type: root
+texture — текстуре | Meaning: texture | Type: root
+watercolor — ватерколор | Meaning: watercolor | Type: root
+motif — мотиф | Meaning: motif | Type: root
+cubism — кубисм | Meaning: cubism | Type: root
+minimalism — минималисм | Meaning: minimalism | Type: root
+realism — риалисм | Meaning: realism | Type: root
+surrealism — сурриалисм | Meaning: surrealism | Type: root
+expressionism — експрессионисм | Meaning: expressionism | Type: root
+impressionism — импрессионисм | Meaning: impressionism | Type: root
+romanticism — романтикисм | Meaning: romanticism | Type: root
+renaissance — ренэйссанке | Meaning: renaissance | Type: root
+modernism — модернисм | Meaning: modernism | Type: root
+diploma — диплома | Meaning: diploma | Type: root
+semester — семестер | Meaning: semester | Type: root
+lecture — лектуре | Meaning: lecture | Type: root
+seminar — семинар | Meaning: seminar | Type: root
+syllabus — сйллабус | Meaning: syllabus | Type: root
+thesis — тхесис | Meaning: thesis | Type: root
+undergraduate — ундерградуате | Meaning: undergraduate | Type: root
+graduate — градуате | Meaning: graduate | Type: root
+postgraduate — постградуате | Meaning: postgraduate | Type: root
+enrollment — енроллмент | Meaning: enrollment | Type: root
+qualification — кууалификатион | Meaning: qualification | Type: root
+scholarship — счоларшип | Meaning: scholarship | Type: root
+tutor — тутор | Meaning: tutor | Type: root
+textbook — текстбуук | Meaning: textbook | Type: root
+examination — ексаминатион | Meaning: examination | Type: root
+graduation — градуатион | Meaning: graduation | Type: root
+dissertation — диссертатион | Meaning: dissertation | Type: root
+fellowship — феллаушип | Meaning: fellowship | Type: root
+faculty — факултй | Meaning: faculty | Type: root
+nutrition — нутритион | Meaning: nutrition | Type: root
+pharmacy — фармакй | Meaning: pharmacy | Type: root
+physician — фйсикиан | Meaning: physician | Type: root
+surgery — сургерй | Meaning: surgery | Type: root
+vitamin — витамин | Meaning: vitamin | Type: root
+wellness — веллнесс | Meaning: wellness | Type: root
+defense — дефенсе | Meaning: defense | Type: root
+fleet — флиит | Meaning: fleet | Type: root
+grenade — гренаде | Meaning: grenade | Type: root
+infantry — инфантрй | Meaning: infantry | Type: root
+lieutenant — лиеутенант | Meaning: lieutenant | Type: root
+patrol — патрол | Meaning: patrol | Type: root
+platoon — платуун | Meaning: platoon | Type: root
+rifle — рифле | Meaning: rifle | Type: root
+sergeant — сергиант | Meaning: sergeant | Type: root
+siege — сиеге | Meaning: siege | Type: root
+tactics — тактикс | Meaning: tactics | Type: root
+troops — труупс | Meaning: troops | Type: root
+cyclone — кйклоне | Meaning: cyclone | Type: root
+drought — драугхт | Meaning: drought | Type: root
+foggy — фоггй | Meaning: foggy | Type: root
+frost — фрост | Meaning: frost | Type: root
+hurricane — хуррикане | Meaning: hurricane | Type: root
+rainbow — рэйнбау | Meaning: rainbow | Type: root
+sleet — слиит | Meaning: sleet | Type: root
+snowfall — снауфалл | Meaning: snowfall | Type: root
+tornado — торнадо | Meaning: tornado | Type: root
+typhoon — тйфуун | Meaning: typhoon | Type: root
+windy — виндй | Meaning: windy | Type: root
+forecast — форекаст | Meaning: forecast | Type: root
+precipitation — прекипитатион | Meaning: precipitation | Type: root
+evaporation — евапоратион | Meaning: evaporation | Type: root
+constellation — констеллатион | Meaning: constellation | Type: root
+meteor — метеор | Meaning: meteor | Type: root
+spaceship — спакешип | Meaning: spaceship | Type: root
+universe — универсе | Meaning: universe | Type: root
+cosmos — космос | Meaning: cosmos | Type: root
+equinox — екууинокс | Meaning: equinox | Type: root
+solstice — солстике | Meaning: solstice | Type: root
+supernova — супернова | Meaning: supernova | Type: root
+pulsar — пулсар | Meaning: pulsar | Type: root
+quasar — кууасар | Meaning: quasar | Type: root
+blackhole — блаккхоле | Meaning: blackhole | Type: root
+singularity — сингуларитй | Meaning: singularity | Type: root
+deposit — депосит | Meaning: deposit | Type: root
+dividend — дивиденд | Meaning: dividend | Type: root
+interest — интерест | Meaning: interest | Type: root
+investment — инвестмент | Meaning: investment | Type: root
+stock — стокк | Meaning: stock | Type: root
+wealth — виалтх | Meaning: wealth | Type: root
+equity — екууитй | Meaning: equity | Type: root
+portfolio — портфолио | Meaning: portfolio | Type: root
+savings — савингс | Meaning: savings | Type: root
+crypto — крйпто | Meaning: crypto | Type: root
+forex — форекс | Meaning: forex | Type: root
+grill — грилл | Meaning: grill | Type: root
+knead — книад | Meaning: knead | Type: root
+marinate — маринате | Meaning: marinate | Type: root
+mince — минке | Meaning: mince | Type: root
+poach — поач | Meaning: poach | Type: root
+roast — роаст | Meaning: roast | Type: root
+sauté — саутé | Meaning: sauté | Type: root
+slice — слике | Meaning: slice | Type: root
+steam — стиам | Meaning: steam | Type: root
+zest — зест | Meaning: zest | Type: root
+deglaze — деглазе | Meaning: deglaze | Type: root
+emulsify — емулсифй | Meaning: emulsify | Type: root
+grate — грате | Meaning: grate | Type: root
+julienne — йулиенне | Meaning: julienne | Type: root
+parboil — парбоил | Meaning: parboil | Type: root
+handbag — хандбаг | Meaning: handbag | Type: root
+leggings — леггингс | Meaning: leggings | Type: root
+overalls — овераллс | Meaning: overalls | Type: root
+pajamas — пайамас | Meaning: pajamas | Type: root
+sneakers — сниакерс | Meaning: sneakers | Type: root
+tights — тигхтс | Meaning: tights | Type: root
+vest — вест | Meaning: vest | Type: root
+tile — тиле | Meaning: tile | Type: root
+crane — кране | Meaning: crane | Type: root
+flamingo — фламинго | Meaning: flamingo | Type: root
+iguana — игуана | Meaning: iguana | Type: root
+jaguar — йагуар | Meaning: jaguar | Type: root
+llama — ллама | Meaning: llama | Type: root
+mantis — мантис | Meaning: mantis | Type: root
+narwhal — нарвхал | Meaning: narwhal | Type: root
+raccoon — раккуун | Meaning: raccoon | Type: root
+seahorse — сиахорсе | Meaning: seahorse | Type: root
+squirrel — скууиррел | Meaning: squirrel | Type: root
+quarantine — кууарантине | Meaning: quarantine | Type: root
+cryptocurrency — крйптокурренкй | Meaning: cryptocurrency | Type: root
+decentralized — декентрализед | Meaning: decentralized | Type: root
+electromagnetic — електромагнетик | Meaning: electromagnetic | Type: root
+geopolitical — геополитикал | Meaning: geopolitical | Type: root
+holographic — холографик | Meaning: holographic | Type: root
+infrastructure — инфраструктуре | Meaning: infrastructure | Type: root
+jurisprudence — йуриспруденке | Meaning: jurisprudence | Type: root
+kaleidoscope — калеидоскопе | Meaning: kaleidoscope | Type: root
+labyrinthine — лабйринтхине | Meaning: labyrinthine | Type: root
+metamorphosis — метаморфосис | Meaning: metamorphosis | Type: root
+nanotechnology — нанотечнологй | Meaning: nanotechnology | Type: root
+oscilloscope — оскиллоскопе | Meaning: oscilloscope | Type: root
+paradigmatic — парадигматик | Meaning: paradigmatic | Type: root
+quintessential — кууинтессентиал | Meaning: quintessential | Type: root
+reverberation — ревербератион | Meaning: reverberation | Type: root
+synchronized — сйнчронизед | Meaning: synchronized | Type: root
+thermodynamic — тхермодйнамик | Meaning: thermodynamic | Type: root
+ultraviolet — ултравиолет | Meaning: ultraviolet | Type: root
+vernacular — вернакулар | Meaning: vernacular | Type: root
+xenophobia — ксенофобиа | Meaning: xenophobia | Type: root
+yellowstone — йеллаустоне | Meaning: yellowstone | Type: root
+zenith — зенитх | Meaning: zenith | Type: root
+dearth — диартх | Meaning: dearth | Type: root
+ephemeral — ефемерал | Meaning: ephemeral | Type: root
+fortuitous — фортуитаус | Meaning: fortuitous | Type: root
+gregarious — грегариаус | Meaning: gregarious | Type: root
+hierarchy — хиерарчй | Meaning: hierarchy | Type: root
+idiosyncrasy — идиосйнкрасй | Meaning: idiosyncrasy | Type: root
+juxtapose — йукстапосе | Meaning: juxtapose | Type: root
+kaleidoscopic — калеидоскопик | Meaning: kaleidoscopic | Type: root
+loquacious — локууакиаус | Meaning: loquacious | Type: root
+magnanimous — магнанимаус | Meaning: magnanimous | Type: root
+nefarious — нефариаус | Meaning: nefarious | Type: root
+obsequious — обсекууиаус | Meaning: obsequious | Type: root
+perfunctory — перфункторй | Meaning: perfunctory | Type: root
+quintessence — кууинтессенке | Meaning: quintessence | Type: root
+recalcitrant — рекалкитрант | Meaning: recalcitrant | Type: root
+surreptitious — суррептитиаус | Meaning: surreptitious | Type: root
+truculent — трукулент | Meaning: truculent | Type: root
+umbrage — умбраге | Meaning: umbrage | Type: root
+vicissitude — викисситуде | Meaning: vicissitude | Type: root
+whimsical — вхимсикал | Meaning: whimsical | Type: root
+diaphanous — диафанаус | Meaning: diaphanous | Type: root
+effervescent — еффервескент | Meaning: effervescent | Type: root
+facetious — факетиаус | Meaning: facetious | Type: root
+grandiloquent — грандилокууент | Meaning: grandiloquent | Type: root
+harangue — харангуе | Meaning: harangue | Type: root
+iconoclast — иконокласт | Meaning: iconoclast | Type: root
+jejune — йейуне | Meaning: jejune | Type: root
+kinesthetic — кинестхетик | Meaning: kinesthetic | Type: root
+lackluster — лакклустер | Meaning: lackluster | Type: root
+malfeasance — малфиасанке | Meaning: malfeasance | Type: root
+nonchalant — нончалант | Meaning: nonchalant | Type: root
+obstreperous — обстрепераус | Meaning: obstreperous | Type: root
+pernicious — перникиаус | Meaning: pernicious | Type: root
+querulous — кууерулаус | Meaning: querulous | Type: root
+rapacious — рапакиаус | Meaning: rapacious | Type: root
+sagacious — сагакиаус | Meaning: sagacious | Type: root
+taciturn — такитурн | Meaning: taciturn | Type: root
+unctuous — унктуаус | Meaning: unctuous | Type: root
+verbose — вербосе | Meaning: verbose | Type: root
+winsome — винсоме | Meaning: winsome | Type: root
+dystopia — дйстопиа | Meaning: dystopia | Type: root
+fallacy — фаллакй | Meaning: fallacy | Type: root
+hubris — хубрис | Meaning: hubris | Type: root
+irony — иронй | Meaning: irony | Type: root
+juxtaposition — йукстапоситион | Meaning: juxtaposition | Type: root
+kinetic — кинетик | Meaning: kinetic | Type: root
+lethargy — летхаргй | Meaning: lethargy | Type: root
+monarchy — монарчй | Meaning: monarchy | Type: root
+nirvana — нирвана | Meaning: nirvana | Type: root
+utopia — утопиа | Meaning: utopia | Type: root
+vortex — вортекс | Meaning: vortex | Type: root
+whirlpool — вхирлпуул | Meaning: whirlpool | Type: root
+deluge — делуге | Meaning: deluge | Type: root
+eruption — еруптион | Meaning: eruption | Type: root
+landslide — ландслиде | Meaning: landslide | Type: root
+monsoon — монсуун | Meaning: monsoon | Type: root
+tempest — темпест | Meaning: tempest | Type: root
+tsunami — тсунами | Meaning: tsunami | Type: root
+whirlwind — вхирлвинд | Meaning: whirlwind | Type: root
+maelstrom — маелстром | Meaning: maelstrom | Type: root
+serendipity — серендипитй | Meaning: serendipity | Type: root
+eloquence — елокууенке | Meaning: eloquence | Type: root
+resilience — ресилиенке | Meaning: resilience | Type: root
+tenacity — тенакитй | Meaning: tenacity | Type: root
+pragmatism — прагматисм | Meaning: pragmatism | Type: root
+magnificence — магнификенке | Meaning: magnificence | Type: root
+splendor — сплендор | Meaning: splendor | Type: root
+grandeur — грандеур | Meaning: grandeur | Type: root
+opulence — опуленке | Meaning: opulence | Type: root
+prosperity — просперитй | Meaning: prosperity | Type: root
+fertility — фертилитй | Meaning: fertility | Type: root
+lushness — лушнесс | Meaning: lushness | Type: root
+verdant — вердант | Meaning: verdant | Type: root
+tranquility — транкууилитй | Meaning: tranquility | Type: root
+serenity — серенитй | Meaning: serenity | Type: root
+solitude — солитуде | Meaning: solitude | Type: root
+silence — силенке | Meaning: silence | Type: root
+stillness — стиллнесс | Meaning: stillness | Type: root
+rapture — раптуре | Meaning: rapture | Type: root
+ecstasy — екстасй | Meaning: ecstasy | Type: root
+despair — деспэйр | Meaning: despair | Type: root
+misery — мисерй | Meaning: misery | Type: root
+courage — каураге | Meaning: courage | Type: root
+valor — валор | Meaning: valor | Type: root
+heroism — хероисм | Meaning: heroism | Type: root
+gallantry — галлантрй | Meaning: gallantry | Type: root
+wisdom — висдом | Meaning: wisdom | Type: root
+insight — инсигхт | Meaning: insight | Type: root
+perception — перкептион | Meaning: perception | Type: root
+intuition — интуитион | Meaning: intuition | Type: root
+judgment — йудгмент | Meaning: judgment | Type: root
+empathy — емпатхй | Meaning: empathy | Type: root
+sympathy — сймпатхй | Meaning: sympathy | Type: root
+kindness — кинднесс | Meaning: kindness | Type: root
+generosity — генероситй | Meaning: generosity | Type: root
+patience — патиенке | Meaning: patience | Type: root
+tolerance — толеранке | Meaning: tolerance | Type: root
+forbearance — форбиаранке | Meaning: forbearance | Type: root
+stoicism — стоикисм | Meaning: stoicism | Type: root
+curiosity — куриоситй | Meaning: curiosity | Type: root
+inquisitiveness — инкууиситивенесс | Meaning: inquisitiveness | Type: root
+determination — детерминатион | Meaning: determination | Type: root
+perseverance — персеверанке | Meaning: perseverance | Type: root
+fortitude — фортитуде | Meaning: fortitude | Type: root
+creativity — криативитй | Meaning: creativity | Type: root
+imagination — имагинатион | Meaning: imagination | Type: root
+ingenuity — ингенуитй | Meaning: ingenuity | Type: root
+innovation — инноватион | Meaning: innovation | Type: root
+vision — висион | Meaning: vision | Type: root
+discipline — дискиплине | Meaning: discipline | Type: root
+dedication — дедикатион | Meaning: dedication | Type: root
+devotion — девотион | Meaning: devotion | Type: root
+loyalty — лойалтй | Meaning: loyalty | Type: root
+integrity — интегритй | Meaning: integrity | Type: root
+honesty — хонестй | Meaning: honesty | Type: root
+sincerity — синкеритй | Meaning: sincerity | Type: root
+frankness — франкнесс | Meaning: frankness | Type: root
+humility — хумилитй | Meaning: humility | Type: root
+modesty — модестй | Meaning: modesty | Type: root
+meekness — миикнесс | Meaning: meekness | Type: root
+simplicity — симпликитй | Meaning: simplicity | Type: root
+elegance — елеганке | Meaning: elegance | Type: root
+grace — граке | Meaning: grace | Type: root
+fascination — фаскинатион | Meaning: fascination | Type: root
+mystery — мйстерй | Meaning: mystery | Type: root
+enigma — енигма | Meaning: enigma | Type: root
+puzzle — пуззле | Meaning: puzzle | Type: root
+riddle — риддле | Meaning: riddle | Type: root
+conundrum — конундрум | Meaning: conundrum | Type: root
+legend — легенд | Meaning: legend | Type: root
+tale — тале | Meaning: tale | Type: root
+narrative — нарративе | Meaning: narrative | Type: root
+memoir — мемоир | Meaning: memoir | Type: root
+diary — диарй | Meaning: diary | Type: root
+manifesto — манифесто | Meaning: manifesto | Type: root
+declaration — декларатион | Meaning: declaration | Type: root
+proclamation — прокламатион | Meaning: proclamation | Type: root
+edict — едикт | Meaning: edict | Type: root
+decree — декрии | Meaning: decree | Type: root
+covenant — ковенант | Meaning: covenant | Type: root
+treaty — триатй | Meaning: treaty | Type: root
+partnership — партнершип | Meaning: partnership | Type: root
+cooperation — кууператион | Meaning: cooperation | Type: root
+diplomacy — дипломакй | Meaning: diplomacy | Type: root
+negotiation — неготиатион | Meaning: negotiation | Type: root
+mediation — медиатион | Meaning: mediation | Type: root
+dispute — диспуте | Meaning: dispute | Type: root
+quarrel — кууаррел | Meaning: quarrel | Type: root
+rebellion — ребеллион | Meaning: rebellion | Type: root
+uprising — уприсинг | Meaning: uprising | Type: root
+revolution — револутион | Meaning: revolution | Type: root
+insurrection — инсурректион | Meaning: insurrection | Type: root
+mutiny — мутинй | Meaning: mutiny | Type: root
+protest — протест | Meaning: protest | Type: root
+demonstration — демонстратион | Meaning: demonstration | Type: root
+strike — стрике | Meaning: strike | Type: root
+embargo — ембарго | Meaning: embargo | Type: root
+sanction — санктион | Meaning: sanction | Type: root
+invasion — инвасион | Meaning: invasion | Type: root
+occupation — оккупатион | Meaning: occupation | Type: root
+emancipation — еманкипатион | Meaning: emancipation | Type: root
+liberation — либератион | Meaning: liberation | Type: root
+independence — индепенденке | Meaning: independence | Type: root
+sovereignty — совереигнтй | Meaning: sovereignty | Type: root
+democracy — демокракй | Meaning: democracy | Type: root
+republic — републик | Meaning: republic | Type: root
+oligarchy — олигарчй | Meaning: oligarchy | Type: root
+theocracy — тхеокракй | Meaning: theocracy | Type: root
+dictatorship — диктаторшип | Meaning: dictatorship | Type: root
+totalitarianism — тоталитарианисм | Meaning: totalitarianism | Type: root
+libertarianism — либертарианисм | Meaning: libertarianism | Type: root
+socialism — сокиалисм | Meaning: socialism | Type: root
+feudalism — феудалисм | Meaning: feudalism | Type: root
+mercantilism — меркантилисм | Meaning: mercantilism | Type: root
+imperialism — империалисм | Meaning: imperialism | Type: root
+nationalism — натионалисм | Meaning: nationalism | Type: root
+patriotism — патриотисм | Meaning: patriotism | Type: root
+feminism — феминисм | Meaning: feminism | Type: root
+egalitarianism — егалитарианисм | Meaning: egalitarianism | Type: root
+humanitarianism — хуманитарианисм | Meaning: humanitarianism | Type: root
+utilitarianism — утилитарианисм | Meaning: utilitarianism | Type: root
+existentialism — ексистентиалисм | Meaning: existentialism | Type: root
+nihilism — нихилисм | Meaning: nihilism | Type: root
+epicureanism — епикурианисм | Meaning: epicureanism | Type: root
+hedonism — хедонисм | Meaning: hedonism | Type: root
+asceticism — аскетикисм | Meaning: asceticism | Type: root
+mysticism — мйстикисм | Meaning: mysticism | Type: root
+spiritualism — спиритуалисм | Meaning: spiritualism | Type: root
+rationalism — ратионалисм | Meaning: rationalism | Type: root
+empiricism — емпирикисм | Meaning: empiricism | Type: root
+positivism — поситивисм | Meaning: positivism | Type: root
+idealism — идиалисм | Meaning: idealism | Type: root
+postmodernism — постмодернисм | Meaning: postmodernism | Type: root
+dadaism — дадэйсм | Meaning: dadaism | Type: root
+figurative — фигуративе | Meaning: figurative | Type: root
+representational — репресентатионал | Meaning: representational | Type: root
+maximalism — максималисм | Meaning: maximalism | Type: root
+rococo — рококо | Meaning: rococo | Type: root
+
+
+================================================================================
+NEW GRAMMAR RULES v6.63.937 (GR1–GR10)
+================================================================================
+
+GR1. Compound nouns formed from two roots take stress on the first root in Standard mode.
+GR2. When a borrowed word has no natural Cyrillic equivalent, the transliteration preserves the English vowel pattern.
+GR3. Negation particles may stack for emphatic denial: не не = absolutely not.
+GR4. The continuous marker из may be placed before or after the verb for stylistic variation.
+GR5. Questions formed with ли always place the particle at the end of the clause.
+GR6. Abstract nouns formed with -ство retain the root stress pattern.
+GR7. When two aspect markers appear, the first marks primary aspect and the second marks secondary nuance.
+GR8. Casual mode may drop final vowels when the root remains recognizable.
+GR9. The emphasis particle же may be repeated for intensity: же же = truly, indeed.
+GR10. Proper nouns borrowed from English retain their original spelling in Hard mode.
+
+================================================================================
+NEW ROOT WORD BANK — 500 UNIQUE ENGLISH HEADWORDS
+================================================================================
+Format: English — ДЖН1 | Meaning: English gloss | Casual: short form | Hard: compressed form | Type: category
+
+eyebrow — брыво | Meaning: eyebrow | Casual: брво | Hard: бво | Type: root
+fingernail — ногтик | Meaning: fingernail | Casual: ногтик | Hard: ник | Type: root
+toenail — стопник | Meaning: toenail | Casual: стпнк | Hard: сик | Type: root
+thigh — коленох | Meaning: thigh | Casual: коленх | Hard: кох | Type: root
+spine — хребтик | Meaning: spine | Casual: хрбтк | Hard: хик | Type: root
+forehead — лобко | Meaning: forehead | Casual: лобко | Hard: лко | Type: root
+throat — горлко | Meaning: throat | Casual: горлк | Hard: гко | Type: root
+savanna — равнинк | Meaning: savanna | Casual: равнинк | Hard: рнк | Type: root
+marshland — болотко | Meaning: marshland | Casual: болотко | Hard: бко | Type: root
+estuary — устьеко | Meaning: estuary | Casual: устьеко | Hard: уко | Type: root
+lagoon — лагунко | Meaning: lagoon | Casual: лагунко | Hard: лко | Type: root
+fjord — фиордко | Meaning: fjord | Casual: фирдко | Hard: фко | Type: root
+steppe — степько | Meaning: steppe | Casual: стпько | Hard: ско | Type: root
+thicket — чащако | Meaning: thicket | Casual: чащак | Hard: чко | Type: root
+copse — лесокко | Meaning: copse | Casual: лесокко | Hard: лко | Type: root
+hedge — изгородк | Meaning: hedge | Casual: изгордк | Hard: идк | Type: root
+furrow — бороздко | Meaning: furrow | Casual: бороздко | Hard: бко | Type: root
+ditch — канавко | Meaning: ditch | Casual: канавко | Hard: кко | Type: root
+levee — валовко | Meaning: levee | Casual: валовко | Hard: вко | Type: root
+ridge — хребтик | Meaning: ridge | Casual: хрбтк | Hard: хик | Type: root
+gorge — теснинк | Meaning: gorge | Casual: теснинк | Hard: тнк | Type: root
+ravine — оврагко | Meaning: ravine | Casual: оврагко | Hard: око | Type: root
+encrypt — шифровк | Meaning: encrypt | Casual: шифровк | Hard: швк | Type: root
+firewall — стеноко | Meaning: firewall | Casual: стноко | Hard: ско | Type: root
+gateway — шлюзик | Meaning: gateway | Casual: шлзик | Hard: шик | Type: root
+kernel — ядрецко | Meaning: kernel | Casual: ядрецко | Hard: яко | Type: root
+malware — вируско | Meaning: malware | Casual: вируско | Hard: вко | Type: root
+terminal — терминалк | Meaning: terminal | Casual: терминалк | Hard: тлк | Type: root
+pixel — пикселк | Meaning: pixel | Casual: пикселк | Hard: плк | Type: root
+format — форматк | Meaning: format | Casual: форматк | Hard: фтк | Type: root
+latency — задержкко | Meaning: latency | Casual: задержкк | Hard: зко | Type: root
+modem — модемко | Meaning: modem | Casual: модемко | Hard: мко | Type: root
+frustrated — раздражк | Meaning: frustrated | Casual: раздржк | Hard: ржк | Type: root
+grateful — благодарк | Meaning: grateful | Casual: блгодарк | Hard: брк | Type: root
+guilty — виноватк | Meaning: guilty | Casual: виновтк | Hard: втк | Type: root
+impatient — нетерпк | Meaning: impatient | Casual: нетерпк | Hard: нпк | Type: root
+nostalgic — тоскливк | Meaning: nostalgic | Casual: тосклвк | Hard: твк | Type: root
+optimistic — оптимиск | Meaning: optimistic | Casual: оптимск | Hard: оск | Type: root
+overwhelmed — подавленк | Meaning: overwhelmed | Casual: подавленк | Hard: пнк | Type: root
+relieved — облегчк | Meaning: relieved | Casual: облегчк | Hard: очк | Type: root
+restless — беспокойк | Meaning: restless | Casual: беспокойк | Hard: бйк | Type: root
+satisfied — довольк | Meaning: satisfied | Casual: довольк | Hard: дьк | Type: root
+thankful — благодарк | Meaning: thankful | Casual: блгодарк | Hard: брк | Type: root
+thoughtful — задумчивк | Meaning: thoughtful | Casual: задумчивк | Hard: звк | Type: root
+upset — расстроик | Meaning: upset | Casual: расстроик | Hard: рик | Type: root
+youthful — молодёжк | Meaning: youthful | Casual: молоджк | Hard: мжк | Type: root
+dumpling — пельменк | Meaning: dumpling | Casual: пельмнк | Hard: пнк | Type: root
+espresso — эспресск | Meaning: espresso | Casual: эспресск | Hard: эск | Type: root
+focaccia — фокачк | Meaning: focaccia | Casual: фокачк | Hard: фчк | Type: root
+guacamole — гуакамк | Meaning: guacamole | Casual: гукамк | Hard: гмк | Type: root
+hummus — хуммуск | Meaning: hummus | Casual: хуммуск | Hard: хск | Type: root
+jambalaya — джамбалк | Meaning: jambalaya | Casual: джмблк | Hard: длк | Type: root
+kimchi — кимчико | Meaning: kimchi | Casual: кимчико | Hard: кко | Type: root
+lasagna — лазаньк | Meaning: lasagna | Casual: лазаньк | Hard: льк | Type: root
+macaroni — макаронк | Meaning: macaroni | Casual: макарнк | Hard: мнк | Type: root
+nougat — нугатко | Meaning: nougat | Casual: нугатко | Hard: нко | Type: root
+omelette — омлетко | Meaning: omelette | Casual: омлетко | Hard: око | Type: root
+pancakes — блиныко | Meaning: pancakes | Casual: блныко | Hard: бко | Type: root
+quesadilla — кесадилк | Meaning: quesadilla | Casual: кесадлк | Hard: клк | Type: root
+risotto — рисоттко | Meaning: risotto | Casual: рисоттко | Hard: рко | Type: root
+sourdough — опарникк | Meaning: sourdough | Casual: опрнкк | Hard: окк | Type: root
+tempura — темпурк | Meaning: tempura | Casual: темпурк | Hard: трк | Type: root
+waffle — вафельк | Meaning: waffle | Casual: вафельк | Hard: вьк | Type: root
+croissant —  круасск | Meaning: croissant | Casual:  круасск | Hard:  ск | Type: root
+fettuccine — фетучикк | Meaning: fettuccine | Casual: фетучкк | Hard: фкк | Type: root
+gnocchi — ньокико | Meaning: gnocchi | Casual: нькико | Hard: нко | Type: root
+kebab — кебабко | Meaning: kebab | Casual: кебабко | Hard: кко | Type: root
+linguine — лингинк | Meaning: linguine | Casual: лингинк | Hard: лнк | Type: root
+mozzarella — мозарелк | Meaning: mozzarella | Casual: мозарлк | Hard: млк | Type: root
+prosciutto — прошуткко | Meaning: prosciutto | Casual: пршуткк | Hard: пко | Type: root
+ravioli — равиолк | Meaning: ravioli | Casual: равиолк | Hard: рлк | Type: root
+tiramisu — тирамиск | Meaning: tiramisu | Casual: тирамск | Hard: тск | Type: root
+employer — владайк | Meaning: employer | Casual: влдайк | Hard: вйк | Type: root
+interview — собеседк | Meaning: interview | Casual: собесдк | Hard: сдк | Type: root
+overtime — сверхикк | Meaning: overtime | Casual: сврхкк | Hard: скк | Type: root
+payroll — вёдрикк | Meaning: payroll | Casual: вёдрикк | Hard: вкк | Type: root
+promotion — возвыск | Meaning: promotion | Casual: возвыск | Hard: вск | Type: root
+resign — уходикк | Meaning: resign | Casual: ухдикк | Hard: укк | Type: root
+vacation — отпускко | Meaning: vacation | Casual: отпускко | Hard: око | Type: root
+workshop — мастеркк | Meaning: workshop | Casual: мастеркк | Hard: мкк | Type: root
+supervisor — надзирайк | Meaning: supervisor | Casual: надзирайк | Hard: нйк | Type: root
+subordinate — подчинёйк | Meaning: subordinate | Casual: подчинёйк | Hard: пйк | Type: root
+trainee — ученичкко | Meaning: trainee | Casual: учничкк | Hard: уко | Type: root
+intern — практикк | Meaning: intern | Casual: пркткк | Hard: пкк | Type: root
+proposal — предложкко | Meaning: proposal | Casual: прдлжкко | Hard: пко | Type: root
+quarterly — квартальнк | Meaning: quarterly | Casual: квртльнк | Hard: кнк | Type: root
+revenue — доходникк | Meaning: revenue | Casual: доходникк | Hard: дкк | Type: root
+expense — расходкко | Meaning: expense | Casual: расходкк | Hard: рко | Type: root
+customs — таможникк | Meaning: customs | Casual: таможникк | Hard: ткк | Type: root
+immigration — миграцникк | Meaning: immigration | Casual: миграцникк | Hard: мкк | Type: root
+itinerary — маршретк | Meaning: itinerary | Casual: маршртк | Hard: мтк | Type: root
+destination — пунктикк | Meaning: destination | Casual: пункткк | Hard: пкк | Type: root
+departure — отправкко | Meaning: departure | Casual: отправкк | Hard: око | Type: root
+reservation — броникк | Meaning: reservation | Casual: брникк | Hard: бкк | Type: root
+transfer — переводкко | Meaning: transfer | Casual: перевдкко | Hard: пко | Type: root
+scenic — живописк | Meaning: scenic | Casual: живопск | Hard: жск | Type: root
+monument — памятникк | Meaning: monument | Casual: памятникк | Hard: пкк | Type: root
+gallery — галерейк | Meaning: gallery | Casual: галерйк | Hard: гйк | Type: root
+souvenir — сувенирк | Meaning: souvenir | Casual: сувенрк | Hard: срк | Type: root
+consulate — консульск | Meaning: consulate | Casual: консульск | Hard: кск | Type: root
+crescendo — крещендк | Meaning: crescendo | Casual: крщендк | Hard: кдк | Type: root
+ensemble — ансамбльк | Meaning: ensemble | Casual: ансамбльк | Hard: аьк | Type: root
+fortissimo — фортишкк | Meaning: fortissimo | Casual: фортишкк | Hard: фкк | Type: root
+octave — октавикк | Meaning: octave | Casual: октавкк | Hard: окк | Type: root
+orchestra — оркестркк | Meaning: orchestra | Casual: оркестркк | Hard: окк | Type: root
+pianissimo — пианишкк | Meaning: pianissimo | Casual: пинишкк | Hard: пкк | Type: root
+soprano — сопранкко | Meaning: soprano | Casual: сопранкк | Hard: ско | Type: root
+tempo — темпикко | Meaning: tempo | Casual: темпикко | Hard: тко | Type: root
+treble — требликк | Meaning: treble | Casual: трблкк | Hard: ткк | Type: root
+vibrato — вибраткко | Meaning: vibrato | Casual: вибраткк | Hard: вко | Type: root
+virtuoso — виртуозкк | Meaning: virtuoso | Casual: виртузкк | Hard: вкк | Type: root
+contralto — контралтк | Meaning: contralto | Casual: контрлтк | Hard: ктк | Type: root
+falsetto — фальшткк | Meaning: falsetto | Casual: фальшткк | Hard: фкк | Type: root
+fugue — фуговикк | Meaning: fugue | Casual: фуговкк | Hard: фкк | Type: root
+prelude — прелюдкк | Meaning: prelude | Casual: прлюдкк | Hard: пкк | Type: root
+sonata — сонаткко | Meaning: sonata | Casual: сонаткко | Hard: ско | Type: root
+symphony — симфоникк | Meaning: symphony | Casual: симфоникк | Hard: скк | Type: root
+etude — эстудикк | Meaning: etude | Casual: эстудкк | Hard: экк | Type: root
+serenade — серенадкк | Meaning: serenade | Casual: серендкк | Hard: скк | Type: root
+defeat — поражкко | Meaning: defeat | Casual: поражкко | Hard: пко | Type: root
+endurance — выносливк | Meaning: endurance | Casual: выносливк | Hard: ввк | Type: root
+marathon — марафонкк | Meaning: marathon | Casual: марафнкк | Hard: мкк | Type: root
+opponent — соперникк | Meaning: opponent | Casual: соперникк | Hard: скк | Type: root
+penalty — штрафникк | Meaning: penalty | Casual: штрафникк | Hard: шкк | Type: root
+record — рекордникк | Meaning: record | Casual: рекордникк | Hard: ркк | Type: root
+referee — судийикк | Meaning: referee | Casual: судийкк | Hard: скк | Type: root
+spectator — зрителкко | Meaning: spectator | Casual: зртелкк | Hard: зко | Type: root
+tournament — турниркк | Meaning: tournament | Casual: турниркк | Hard: ткк | Type: root
+victory — победникк | Meaning: victory | Casual: победникк | Hard: пкк | Type: root
+goalkeeper — вратаркк | Meaning: goalkeeper | Casual: вртаркк | Hard: вкк | Type: root
+midfielder — полевикк | Meaning: midfielder | Casual: полевкк | Hard: пкк | Type: root
+defender — защитникк | Meaning: defender | Casual: защитникк | Hard: зкк | Type: root
+pitch — полевикк | Meaning: pitch | Casual: полевкк | Hard: пкк | Type: root
+whistle — свистокк | Meaning: whistle | Casual: свсткк | Hard: скк | Type: root
+jersey — футболкк | Meaning: jersey | Casual: футболкк | Hard: фкк | Type: root
+helmet — шлемикко | Meaning: helmet | Casual: шлмикко | Hard: шко | Type: root
+п paddle — грабликк | Meaning: п paddle | Casual: грблкк | Hard: гкк | Type: root
+electron — электронкк | Meaning: electron | Casual: элктронкк | Hard: экк | Type: root
+formula — формулкко | Meaning: formula | Casual: формулкк | Hard: фко | Type: root
+neutron — нейтронкк | Meaning: neutron | Casual: нейтрнкк | Hard: нкк | Type: root
+nucleus — ядрецкко | Meaning: nucleus | Casual: ядрецкко | Hard: яко | Type: root
+particle — частицкк | Meaning: particle | Casual: частицкк | Hard: чкк | Type: root
+photon — фотоникко | Meaning: photon | Casual: фотонкк | Hard: фко | Type: root
+proton — протонкко | Meaning: proton | Casual: пртонкк | Hard: пко | Type: root
+quark — кваркникк | Meaning: quark | Casual: квркникк | Hard: ккк | Type: root
+spectrum — спектркк | Meaning: spectrum | Casual: спктркк | Hard: скк | Type: root
+friction — трениккко | Meaning: friction | Casual: трниккк | Hard: тко | Type: root
+isotope — изотопикк | Meaning: isotope | Casual: изтопикк | Hard: икк | Type: root
+magnetic — магнитнкк | Meaning: magnetic | Casual: магнитнкк | Hard: мкк | Type: root
+organism — организмкк | Meaning: organism | Casual: органзмкк | Hard: окк | Type: root
+contrast — контрасикк | Meaning: contrast | Casual: контрсикк | Hard: ккк | Type: root
+curator — курируйкк | Meaning: curator | Casual: курирйкк | Hard: ккк | Type: root
+exhibit — выставикк | Meaning: exhibit | Casual: выставикк | Hard: вкк | Type: root
+impression — впечатликк | Meaning: impression | Casual: впчатликк | Hard: вкк | Type: root
+portrait — портреткк | Meaning: portrait | Casual: портрткк | Hard: пкк | Type: root
+sketch — эскизикк | Meaning: sketch | Casual: эскизкк | Hard: экк | Type: root
+symmetry — симметрикк | Meaning: symmetry | Casual: симметрикк | Hard: скк | Type: root
+texture — текстуркк | Meaning: texture | Casual: текстркк | Hard: ткк | Type: root
+watercolor — акварельк | Meaning: watercolor | Casual: акварльк | Hard: аьк | Type: root
+motif — мотивикко | Meaning: motif | Casual: мотивкк | Hard: мко | Type: root
+cubism — кубизмикк | Meaning: cubism | Casual: кубизмикк | Hard: ккк | Type: root
+minimalism — минималскк | Meaning: minimalism | Casual: минимлскк | Hard: мкк | Type: root
+realism — реализмикк | Meaning: realism | Casual: релизмикк | Hard: ркк | Type: root
+surrealism — сурреалисм | Meaning: surrealism | Casual: суррелисм | Hard: ссм | Type: root
+expressionism — экспрессскк | Meaning: expressionism | Casual: экспрссскк | Hard: экк | Type: root
+impressionism — импрессскк | Meaning: impressionism | Casual: импрессскк | Hard: икк | Type: root
+romanticism — романтисккк | Meaning: romanticism | Casual: романтисккк | Hard: ркк | Type: root
+renaissance — возрождкк | Meaning: renaissance | Casual: возрождкк | Hard: вкк | Type: root
+modernism — модернсккк | Meaning: modernism | Casual: модернсккк | Hard: мкк | Type: root
+diploma — дипломникк | Meaning: diploma | Casual: дипломникк | Hard: дкк | Type: root
+semester — семестркк | Meaning: semester | Casual: семестркк | Hard: скк | Type: root
+lecture — лекцийикк | Meaning: lecture | Casual: лекцийикк | Hard: лкк | Type: root
+semininar — семинаркк | Meaning: semininar | Casual: семинркк | Hard: скк | Type: root
+syllabus — учебниккк | Meaning: syllabus | Casual: учбнккк | Hard: укк | Type: root
+thesis — дипломникк | Meaning: thesis | Casual: дипломникк | Hard: дкк | Type: root
+undergraduate — бакалавркк | Meaning: undergraduate | Casual: бакалвркк | Hard: бкк | Type: root
+graduate — выпускникк | Meaning: graduate | Casual: выпускникк | Hard: вкк | Type: root
+postgraduate — магистркк | Meaning: postgraduate | Casual: магистркк | Hard: мкк | Type: root
+enrollment — зачисликк | Meaning: enrollment | Casual: зачисликк | Hard: зкк | Type: root
+qualification — квалифйкк | Meaning: qualification | Casual: квлифйкк | Hard: ккк | Type: root
+scholarship — стипенйикк | Meaning: scholarship | Casual: стпенйикк | Hard: скк | Type: root
+tutor — репетиторк | Meaning: tutor | Casual: репетторк | Hard: ррк | Type: root
+textbook — учебниккк | Meaning: textbook | Casual: учбнккк | Hard: укк | Type: root
+examination — экзаменкк | Meaning: examination | Casual: экзамнкк | Hard: экк | Type: root
+graduation — выпускникк | Meaning: graduation | Casual: выпускникк | Hard: вкк | Type: root
+dissertation — диссертайк | Meaning: dissertation | Casual: диссертайк | Hard: дйк | Type: root
+fellowship — стипендйкк | Meaning: fellowship | Casual: стпендйкк | Hard: скк | Type: root
+faculty — факультекк | Meaning: faculty | Casual: факультекк | Hard: фкк | Type: root
+nutrition — питаниекк | Meaning: nutrition | Casual: питанекк | Hard: пкк | Type: root
+pharmacy — аптекйикк | Meaning: pharmacy | Casual: аптекйикк | Hard: акк | Type: root
+physician — врачикко | Meaning: physician | Casual: врчикко | Hard: вко | Type: root
+surgery — хирургйикк | Meaning: surgery | Casual: хирургйикк | Hard: хкк | Type: root
+vitamin — витаминкк | Meaning: vitamin | Casual: витамнкк | Hard: вкк | Type: root
+wellness — здоровйкк | Meaning: wellness | Casual: здровйкк | Hard: зкк | Type: root
+defense — оборонйикк | Meaning: defense | Casual: обронйикк | Hard: окк | Type: root
+fleet — флотовйикк | Meaning: fleet | Casual: флтовйикк | Hard: фкк | Type: root
+grenade — гранатйикк | Meaning: grenade | Casual: грнатйикк | Hard: гкк | Type: root
+infantry — пехотйикк | Meaning: infantry | Casual: пехотйикк | Hard: пкк | Type: root
+lieutenant — лейтенанйкк | Meaning: lieutenant | Casual: лейтенанйкк | Hard: лкк | Type: root
+patrol — патрулйикк | Meaning: patrol | Casual: патрулйикк | Hard: пкк | Type: root
+platoon — взводйикк | Meaning: platoon | Casual: взводйикк | Hard: вкк | Type: root
+rifle — винтовйкк | Meaning: rifle | Casual: винтовйкк | Hard: вкк | Type: root
+sergeant — сержанйкк | Meaning: sergeant | Casual: сержанйкк | Hard: скк | Type: root
+siege — осадовйикк | Meaning: siege | Casual: осдовйикк | Hard: окк | Type: root
+tactics — тактикйикк | Meaning: tactics | Casual: тактикйикк | Hard: ткк | Type: root
+troops — войскйикк | Meaning: troops | Casual: войскйикк | Hard: вкк | Type: root
+cyclone — циклонйикк | Meaning: cyclone | Casual: циклонйикк | Hard: цкк | Type: root
+drought — засухйикк | Meaning: drought | Casual: засухйикк | Hard: зкк | Type: root
+foggy — туманнйикк | Meaning: foggy | Casual: туманнйикк | Hard: ткк | Type: root
+frost — морозйикк | Meaning: frost | Casual: морозйикк | Hard: мкк | Type: root
+hurricane — ураганйикк | Meaning: hurricane | Casual: урганйикк | Hard: укк | Type: root
+rainbow — радугйикк | Meaning: rainbow | Casual: радугйикк | Hard: ркк | Type: root
+sleet — ледяноййкк | Meaning: sleet | Casual: ледянййкк | Hard: лкк | Type: root
+snowfall — снегопадйкк | Meaning: snowfall | Casual: снгопадйкк | Hard: скк | Type: root
+tornado — торнадййкк | Meaning: tornado | Casual: торнадййкк | Hard: ткк | Type: root
+typhoon — тифонйикк | Meaning: typhoon | Casual: тифонйикк | Hard: ткк | Type: root
+windy — ветренййикк | Meaning: windy | Casual: ветренййкк | Hard: вкк | Type: root
+климат — климатйикк | Meaning: климат | Casual: клматйикк | Hard: ккк | Type: root
+forecast — прогнозйикк | Meaning: forecast | Casual: пргнзйкк | Hard: пкк | Type: root
+precipitation — осадковйкк | Meaning: precipitation | Casual: осдквйкк | Hard: окк | Type: root
+evaporation — испарениййкк | Meaning: evaporation | Casual: испарниййкк | Hard: икк | Type: root
+constellation — созвёздйкк | Meaning: constellation | Casual: созвёздйкк | Hard: скк | Type: root
+meteor — метеорйикк | Meaning: meteor | Casual: метеорйикк | Hard: мкк | Type: root
+spaceship — корабликйкк | Meaning: spaceship | Casual: корабликйкк | Hard: ккк | Type: root
+universe — вселениййкк | Meaning: universe | Casual: вслениййкк | Hard: вкк | Type: root
+cosmos — космосйикк | Meaning: cosmos | Casual: космосйикк | Hard: ккк | Type: root
+equinox — равноденствйкк | Meaning: equinox | Casual: равноденствйкк | Hard: ркк | Type: root
+solstice — солнцестояниййкк | Meaning: solstice | Casual: солнцстянййкк | Hard: скк | Type: root
+supernova — сверхновййкк | Meaning: supernova | Casual: сврхновййкк | Hard: скк | Type: root
+pulsar — пульсарйикк | Meaning: pulsar | Casual: пульсрйкк | Hard: пкк | Type: root
+quasar — квазарйикк | Meaning: quasar | Casual: квзарйикк | Hard: ккк | Type: root
+blackhole — чёрнаяйкк | Meaning: blackhole | Casual: чёрнайкк | Hard: чкк | Type: root
+singularity — сингулярнйкк | Meaning: singularity | Casual: сингулярнйкк | Hard: скк | Type: root
+deposit — вкладйикк | Meaning: deposit | Casual: вкладйикк | Hard: вкк | Type: root
+dividend — дивидендйкк | Meaning: dividend | Casual: дивидндйкк | Hard: дкк | Type: root
+interest — процентйкк | Meaning: interest | Casual: прцентйкк | Hard: пкк | Type: root
+investment — инвестицййкк | Meaning: investment | Casual: инвестицййкк | Hard: икк | Type: root
+stock — акцииййкк | Meaning: stock | Casual: акцииййкк | Hard: акк | Type: root
+wealth — богатствйкк | Meaning: wealth | Casual: богатствйкк | Hard: бкк | Type: root
+equity — капиталййкк | Meaning: equity | Casual: капитлййкк | Hard: ккк | Type: root
+portfolio — портфелййкк | Meaning: portfolio | Casual: портфлййкк | Hard: пкк | Type: root
+savings — сбережениййкк | Meaning: savings | Casual: сбреженййкк | Hard: скк | Type: root
+crypto — криптовйкк | Meaning: crypto | Casual: крптвйкк | Hard: ккк | Type: root
+forex — форексйикк | Meaning: forex | Casual: форексйикк | Hard: фкк | Type: root
+grill — грильиййикк | Meaning: grill | Casual: грльййкк | Hard: гкк | Type: root
+knead — месиййикк | Meaning: knead | Casual: месиййикк | Hard: мкк | Type: root
+marinate — маринуййкк | Meaning: marinate | Casual: маринййкк | Hard: мкк | Type: root
+mince — мелкиййикк | Meaning: mince | Casual: мелкиййикк | Hard: мкк | Type: root
+poach — вариййикк | Meaning: poach | Casual: вариййикк | Hard: вкк | Type: root
+roast — жарьиййикк | Meaning: roast | Casual: жарьиййикк | Hard: жкк | Type: root
+saute — обжарьийкк | Meaning: saute | Casual: обжарьийкк | Hard: окк | Type: root
+slice — нарезаййкк | Meaning: slice | Casual: нарезййкк | Hard: нкк | Type: root
+steam — париййикк | Meaning: steam | Casual: париййикк | Hard: пкк | Type: root
+zest — цедрыййикк | Meaning: zest | Casual: цедрыййикк | Hard: цкк | Type: root
+deglaze — деглазируййкк | Meaning: deglaze | Casual: деглазирййкк | Hard: дкк | Type: root
+emulsify — эмульсируййкк | Meaning: emulsify | Casual: эмльсирййкк | Hard: экк | Type: root
+grate — тёрыййикк | Meaning: grate | Casual: тёрыййикк | Hard: ткк | Type: root
+julienne — жульенируййкк | Meaning: julienne | Casual: жульенирййкк | Hard: жкк | Type: root
+parboil — повариййикк | Meaning: parboil | Casual: поварййкк | Hard: пкк | Type: root
+handbag — сумочкйикк | Meaning: handbag | Casual: сумочкйикк | Hard: скк | Type: root
+leggings — леггинсййкк | Meaning: leggings | Casual: леггинсййкк | Hard: лкк | Type: root
+overalls — комбинезаййкк | Meaning: overalls | Casual: комбинезййкк | Hard: ккк | Type: root
+pajamas — пижамаййикк | Meaning: pajamas | Casual: пижамййкк | Hard: пкк | Type: root
+sneakers — кроссовкййкк | Meaning: sneakers | Casual: крссвкййкк | Hard: ккк | Type: root
+tights — колготкййкк | Meaning: tights | Casual: колготкййкк | Hard: ккк | Type: root
+vest — жилетйикк | Meaning: vest | Casual: жилетйикк | Hard: жкк | Type: root
+tile — плиткаййикк | Meaning: tile | Casual: плткййкк | Hard: пкк | Type: root
+crane — журавлййикк | Meaning: crane | Casual: журавлййкк | Hard: жкк | Type: root
+flamingo — фламингййкк | Meaning: flamingo | Casual: флмингййкк | Hard: фкк | Type: root
+iguana — игуанаййикк | Meaning: iguana | Casual: иганййкк | Hard: икк | Type: root
+jaguar — ягуарйикк | Meaning: jaguar | Casual: ягарйикк | Hard: якк | Type: root
+llama — ламаййикк | Meaning: llama | Casual: ламаййикк | Hard: лкк | Type: root
+mantis — богомолййкк | Meaning: mantis | Casual: богомлййкк | Hard: бкк | Type: root
+narwhal — нарваййикк | Meaning: narwhal | Casual: нарваййикк | Hard: нкк | Type: root
+raccoon — енотиййикк | Meaning: raccoon | Casual: ентиййикк | Hard: екк | Type: root
+seahorse — морскоййкк | Meaning: seahorse | Casual: морскййкк | Hard: мкк | Type: root
+squirrel — белкаййикк | Meaning: squirrel | Casual: белкаййикк | Hard: бкк | Type: root
+stretch — тягник | Meaning: stretch | Casual: тягник | Hard: тик | Type: root
+destroy — ломник | Meaning: destroy | Casual: ломник | Hard: лик | Type: root
+shrink — сжимйник | Meaning: shrink | Casual: сжмйник | Hard: сик | Type: root
+depart — отпрвйник | Meaning: depart | Casual: отпрвйник | Hard: оик | Type: root
+justice — справедлйк | Meaning: justice | Casual: справдлйк | Hard: сйк | Type: root
+strength — силйик | Meaning: strength | Casual: силйик | Hard: сик | Type: root
+glass — стеклйик | Meaning: glass | Casual: стклйик | Hard: сик | Type: root
+queen — королёвйк | Meaning: queen | Casual: королвйк | Hard: кйк | Type: root
+prince — принцйик | Meaning: prince | Casual: прнцйик | Hard: пик | Type: root
+princess — принцесййк | Meaning: princess | Casual: прнцсййк | Hard: пйк | Type: root
+knight — рыцарьйк | Meaning: knight | Casual: рыцарьйк | Hard: рйк | Type: root
+warrior — воинйик | Meaning: warrior | Casual: вонйк | Hard: вик | Type: root
+wizard — волшебйк | Meaning: wizard | Casual: волшебйк | Hard: вйк | Type: root
+witch — ведьмйик | Meaning: witch | Casual: ведьмйик | Hard: вик | Type: root
+villain — злодеййк | Meaning: villain | Casual: злдеййк | Hard: зйк | Type: root
+judge — судьяйик | Meaning: judge | Casual: судьяйик | Hard: сик | Type: root
+jury — присяжйк | Meaning: jury | Casual: прсяжйк | Hard: пйк | Type: root
+thief — ворйик | Meaning: thief | Casual: ворйик | Hard: вик | Type: root
+spy — шпионйик | Meaning: spy | Casual: шпонйик | Hard: шик | Type: root
+servant — слугйик | Meaning: servant | Casual: слгйк | Hard: сик | Type: root
+slave — рабйик | Meaning: slave | Casual: рабйик | Hard: рик | Type: root
+musician — музыкаййк | Meaning: musician | Casual: музыкййк | Hard: мйк | Type: root
+pilot — пилотйик | Meaning: pilot | Casual: пилотйик | Hard: пик | Type: root
+sailor — морякйик | Meaning: sailor | Casual: морякйик | Hard: мик | Type: root
+dusk — сумеркйк | Meaning: dusk | Casual: сумеркйк | Hard: сйк | Type: root
+midday — полуднийк | Meaning: midday | Casual: полуднийк | Hard: пйк | Type: root
+eternity — вечностйк | Meaning: eternity | Casual: вечностйк | Hard: вйк | Type: root
+vegetable — овощйик | Meaning: vegetable | Casual: овщйк | Hard: оик | Type: root
+wine — винйик | Meaning: wine | Casual: винйик | Hard: вик | Type: root
+wire — провйик | Meaning: wire | Casual: првйк | Hard: пик | Type: root
+soul — душйик | Meaning: soul | Casual: душйик | Hard: дик | Type: root
+sorrow — печальйк | Meaning: sorrow | Casual: печальйк | Hard: пйк | Type: root
+shame — стыдйик | Meaning: shame | Casual: стдйк | Hard: сик | Type: root
+pride — гордостйк | Meaning: pride | Casual: гордостйк | Hard: гйк | Type: root
+pleasure — удовольствйк | Meaning: pleasure | Casual: удвольствйк | Hard: уйк | Type: root
+discomfort — дискомфортйк | Meaning: discomfort | Casual: дискомфортйк | Hard: дйк | Type: root
+success — успехйик | Meaning: success | Casual: успехйик | Hard: уик | Type: root
+failure — неудачйк | Meaning: failure | Casual: недачйк | Hard: нйк | Type: root
+safety — безопасностйк | Meaning: safety | Casual: безопснстйк | Hard: бйк | Type: root
+sickness — болезнйк | Meaning: sickness | Casual: болезнйк | Hard: бйк | Type: root
+youth — молодостйк | Meaning: youth | Casual: молодстйк | Hard: мйк | Type: root
+old age — старостйк | Meaning: old age | Casual: стростйк | Hard: сйк | Type: root
+swim — свим | Meaning: swim | Casual: свм | Hard: свим | Type: root
+crawl — кравл | Meaning: crawl | Casual: крвл | Hard: квл | Type: root
+frown — фровн | Meaning: frown | Casual: фрвн | Hard: фвн | Type: root
+hum — хум | Meaning: hum | Casual: хум | Hard: хум | Type: root
+stomp — стомп | Meaning: stomp | Casual: стмп | Hard: смп | Type: root
+glide — глиде | Meaning: glide | Casual: глде | Hard: где | Type: root
+tiptoe — типтое | Meaning: tiptoe | Casual: типто | Hard: тое | Type: root
+stumble — стумбле | Meaning: stumble | Casual: стмбле | Hard: сле | Type: root
+soar — соар | Meaning: soar | Casual: сор | Hard: соар | Type: root
+float — флоат | Meaning: float | Casual: флат | Hard: фат | Type: root
+drift — дрифт | Meaning: drift | Casual: дрфт | Hard: дфт | Type: root
+sway — свай | Meaning: sway | Casual: свй | Hard: свай | Type: root
+tremble — трембле | Meaning: tremble | Casual: трмбле | Hard: тле | Type: root
+shake — схаке | Meaning: shake | Casual: схке | Hard: ске | Type: root
+squeeze — скууеезе | Meaning: squeeze | Casual: скуезе | Hard: сзе | Type: root
+twist — твист | Meaning: twist | Casual: твст | Hard: тст | Type: root
+rotate — ротате | Meaning: rotate | Casual: ротат | Hard: рте | Type: root
+tilt — тилт | Meaning: tilt | Casual: тилт | Hard: тилт | Type: root
+slouch — слоукх | Meaning: slouch | Casual: слукх | Hard: скх | Type: root
+crouch — кроукх | Meaning: crouch | Casual: крукх | Hard: ккх | Type: root
+kneel — кнеел | Meaning: kneel | Casual: кнел | Hard: кел | Type: root
+lie down — лие довн | Meaning: lie down | Casual: ли двн | Hard: лвн | Type: root
+sit down — сит довн | Meaning: sit down | Casual: сит двн | Hard: свн | Type: root
+stand up — станд уп | Meaning: stand up | Casual: стнд уп | Hard: суп | Type: root
+wake up — ваке уп | Meaning: wake up | Casual: ваке п | Hard: вуп | Type: root
+taste — тасте | Meaning: taste | Casual: тасте | Hard: тте | Type: root
+smell — смелл | Meaning: smell | Casual: смлл | Hard: слл | Type: root
+stare — старе | Meaning: stare | Casual: стре | Hard: сре | Type: root
+glance — гланке | Meaning: glance | Casual: глнк | Hard: гке | Type: root
+fight — фигхт | Meaning: fight | Casual: фигхт | Hard: фхт | Type: root
+defend — дефенд | Meaning: defend | Casual: дефенд | Hard: днд | Type: root
+harvest — харвест | Meaning: harvest | Casual: харвест | Hard: хст | Type: root
+sprinkle — спринкле | Meaning: sprinkle | Casual: спринкле | Hard: сле | Type: root
+swallow — сваллов | Meaning: swallow | Casual: свллв | Hard: сов | Type: root
+sword — сворд | Meaning: sword | Casual: сврд | Hard: срд | Type: root
+shield — схиелд | Meaning: shield | Casual: схелд | Hard: слд | Type: root
+spear — спеар | Meaning: spear | Casual: спар | Hard: сар | Type: root
+staff — стафф | Meaning: staff | Casual: стфф | Hard: сфф | Type: root
+fabric — фабрик | Meaning: fabric | Casual: фабрик | Hard: фик | Type: root
+mud — муд | Meaning: mud | Casual: муд | Hard: муд | Type: root
+surprised — сурприсед | Meaning: surprised | Casual: сурпрсед | Hard: сед | Type: root
+disappointed — дисаппоинтед | Meaning: disappointed | Casual: дисаппоинтед | Hard: дед | Type: root
+peaceful — пеакефул | Meaning: peaceful | Casual: пекефул | Hard: пул | Type: root
+thick — тхикк | Meaning: thick | Casual: тхкк | Hard: ткк | Type: root
+thin — тхин | Meaning: thin | Casual: тхн | Hard: тхин | Type: root
+wide — виде | Meaning: wide | Casual: виде | Hard: виде | Type: root
+narrow — нарров | Meaning: narrow | Casual: нарров | Hard: нов | Type: root
+shallow — схаллов | Meaning: shallow | Casual: схллв | Hard: сов | Type: root
+cruel — круел | Meaning: cruel | Casual: крел | Hard: кел | Type: root
+gentle — гентле | Meaning: gentle | Casual: гентл | Hard: гле | Type: root
+trustworthy — труствортхй | Meaning: trustworthy | Casual: трствортхй | Hard: тхй | Type: root
+generous — генероус | Meaning: generous | Casual: генерус | Hard: гус | Type: root
+greedy — греедй | Meaning: greedy | Casual: гредй | Hard: гдй | Type: root
+polite — полите | Meaning: polite | Casual: полит | Hard: пте | Type: root
+friendly — фриендлй | Meaning: friendly | Casual: френдлй | Hard: флй | Type: root
+hostile — хостиле | Meaning: hostile | Casual: хостиле | Hard: хле | Type: root
+dumb — думб | Meaning: dumb | Casual: думб | Hard: думб | Type: root
+creative — креативе | Meaning: creative | Casual: кратве | Hard: кве | Type: root
+interesting — интерестинг | Meaning: interesting | Casual: интерстнг | Hard: инг | Type: root
+elegant — елегант | Meaning: elegant | Casual: елгант | Hard: ент | Type: root
+messy — мессй | Meaning: messy | Casual: мессй | Hard: мсй | Type: root
+tidy — аккуратности | Meaning: tidy | Casual: аккуртнст | Hard: ати | Type: root
+sloppy — слоппй | Meaning: sloppy | Casual: слппй | Hard: спй | Type: root
+organized — организованности | Meaning: organized | Casual: органзованности | Hard: оти | Type: root
+disorganized — неорганизованности | Meaning: disorganized | Casual: нергнизовннст | Hard: нти | Type: root
+inefficient — неэффективности | Meaning: inefficient | Casual: неффктвнст | Hard: нти | Type: root
+harmless — безвредности | Meaning: harmless | Casual: безврднст | Hard: бти | Type: root
+dangerous — опасности | Meaning: dangerous | Casual: опснст | Hard: оти | Type: root
+risky — рискованности | Meaning: risky | Casual: рискованности | Hard: рти | Type: root
+thoughtless — беззаботности | Meaning: thoughtless | Casual: беззаботности | Hard: бти | Type: root
+selfless — бескорыстности | Meaning: selfless | Casual: бескорыстности | Hard: бти | Type: root
+modest — скромности | Meaning: modest | Casual: скромности | Hard: сти | Type: root
+shameful — позорности | Meaning: shameful | Casual: позорности | Hard: пти | Type: root
+honorable — честности | Meaning: honorable | Casual: честнст | Hard: чти | Type: root
+dishonorable — бесчестности | Meaning: dishonorable | Casual: бесчестнст | Hard: бти | Type: root
+noble — благородности | Meaning: noble | Casual: блгородности | Hard: бти | Type: root
+vile — подлости | Meaning: vile | Casual: подлости | Hard: пти | Type: root
+righteous — праведности | Meaning: righteous | Casual: прведности | Hard: пти | Type: root
+profane — богохульственности | Meaning: profane | Casual: богохльствннст | Hard: бти | Type: root
+divine — божественности | Meaning: divine | Casual: божественности | Hard: бти | Type: root
+permanent — постоянности | Meaning: permanent | Casual: постоннст | Hard: пти | Type: root
+fleeting — мимолетности | Meaning: fleeting | Casual: мимолтнст | Hard: мти | Type: root
+immortal — бессмертности | Meaning: immortal | Casual: бессмртности | Hard: бти | Type: root
+shrinking — сжимающеости | Meaning: shrinking | Casual: сжмащест | Hard: сти | Type: root
+expanding — расширяющеости | Meaning: expanding | Casual: расширяющеости | Hard: рти | Type: root
+contracting — сжимающеости | Meaning: contracting | Casual: сжмащест | Hard: сти | Type: root
+standing — стоящности | Meaning: standing | Casual: стящности | Hard: сти | Type: root
+sleeping — спящности | Meaning: sleeping | Casual: спщнст | Hard: сти | Type: root
+dreaming — мечтающеости | Meaning: dreaming | Casual: мечтащест | Hard: мти | Type: root
+thinking — думающеости | Meaning: thinking | Casual: думающеости | Hard: дти | Type: root
+speaking — говорящности | Meaning: speaking | Casual: говорщнст | Hard: гти | Type: root
+listening — слушающеости | Meaning: listening | Casual: слшащест | Hard: сти | Type: root
+drinking — пьющности | Meaning: drinking | Casual: пьщнст | Hard: пти | Type: root
+learning — изучающеости | Meaning: learning | Casual: изчащест | Hard: ити | Type: root
+teaching — обучающеости | Meaning: teaching | Casual: обчащест | Hard: оти | Type: root
+creating — создающеости | Meaning: creating | Casual: создащест | Hard: сти | Type: root
+destroying — разрушающеости | Meaning: destroying | Casual: разрушающеости | Hard: рти | Type: root
+throwing — бросающеости | Meaning: throwing | Casual: брсащест | Hard: бти | Type: root
+receiving — получающеости | Meaning: receiving | Casual: получющости | Hard: пти | Type: root
+refusing — отказывающеости | Meaning: refusing | Casual: отказващест | Hard: оти | Type: root
+deciding — решающеости | Meaning: deciding | Casual: решающеости | Hard: рти | Type: root
+fighting — дращности | Meaning: fighting | Casual: дрщнст | Hard: дти | Type: root
+defending — защищающеости | Meaning: defending | Casual: защищющости | Hard: зти | Type: root
+saving — спасающеости | Meaning: saving | Casual: спсащест | Hard: сти | Type: root
+loving — любящности | Meaning: loving | Casual: любящности | Hard: лти | Type: root
+enjoying — наслаждающеости | Meaning: enjoying | Casual: наслаждащест | Hard: нти | Type: root
+suffering — страдающеости | Meaning: suffering | Casual: страдющости | Hard: сти | Type: root
+coughing — кашлящности | Meaning: coughing | Casual: кашлящности | Hard: кти | Type: root
+sneezing — чихающеости | Meaning: sneezing | Casual: чихающеости | Hard: чти | Type: root
+whispering — шепчущеости | Meaning: whispering | Casual: шепчущеости | Hard: шти | Type: root
+shouting — кричащности | Meaning: shouting | Casual: крчащности | Hard: кти | Type: root
+screaming — визжащности | Meaning: screaming | Casual: визжащности | Hard: вти | Type: root
+laughing — смеющеости | Meaning: laughing | Casual: смющости | Hard: сти | Type: root
+frowning — хмурящеости | Meaning: frowning | Casual: хмрящеости | Hard: хти | Type: root
+trembling — дрожащности | Meaning: trembling | Casual: држащности | Hard: дти | Type: root
+disconnect — дисконнект | Meaning: disconnect | Casual: дисконнект | Hard: дкт | Type: root
+refresh — рефресх | Meaning: refresh | Casual: рефресх | Hard: рсх | Type: root
+reload — релоад | Meaning: reload | Casual: релоад | Hard: рад | Type: root
+document — документ | Meaning: document | Casual: докумнт | Hard: днт | Type: root
+image — имаге | Meaning: image | Casual: имге | Hard: иге | Type: root
+recipe — рекипе | Meaning: recipe | Casual: рекип | Hard: рпе | Type: root
+flavor — флавор | Meaning: flavor | Casual: флвор | Hard: фор | Type: root
+spice — спике | Meaning: spice | Casual: спке | Hard: ске | Type: root
+seasoning — сеасонинг | Meaning: seasoning | Casual: сесонинг | Hard: снг | Type: root
+microwave — микроваве | Meaning: microwave | Casual: микровав | Hard: мве | Type: root
+until — унтил | Meaning: until | Casual: унтил | Hard: уил | Type: root
+discovery — дисковерй | Meaning: discovery | Casual: дисковерй | Hard: дрй | Type: root
+invention — инвентион | Meaning: invention | Casual: инвентион | Hard: ион | Type: root
+performance — перформанке | Meaning: performance | Casual: перформанке | Hard: пке | Type: root
+stage — стаге | Meaning: stage | Casual: стге | Hard: сге | Type: root
+drums — друмс | Meaning: drums | Casual: дрмс | Hard: дмс | Type: root
+song — сонг | Meaning: song | Casual: сонг | Hard: сонг | Type: root
+exhibition — ексхибитион | Meaning: exhibition | Casual: ексхибитон | Hard: еон | Type: root
+masterpiece — мастерпиеке | Meaning: masterpiece | Casual: мастерпике | Hard: мке | Type: root
+workout — воркоут | Meaning: workout | Casual: воркот | Hard: вут | Type: root
+flexibility — флексибилитй | Meaning: flexibility | Casual: флксбилитй | Hard: фтй | Type: root
+coordination — координатион | Meaning: coordination | Casual: корднатион | Hard: кон | Type: root
+stamina — стамина | Meaning: stamina | Casual: стмина | Hard: сна | Type: root
+trauma — траума | Meaning: trauma | Casual: трум | Hard: тма | Type: root
+phobia — пхобиа | Meaning: phobia | Casual: пхби | Hard: пиа | Type: root
+obsession — обсессион | Meaning: obsession | Casual: обсессион | Hard: оон | Type: root
+motivation — мотиватион | Meaning: motivation | Casual: мотивтин | Hard: мон | Type: root
+creativity — креативитй | Meaning: creativity | Casual: кратвитй | Hard: ктй | Type: root
+imagination — имагинатион | Meaning: imagination | Casual: имгинатон | Hard: ион | Type: root
+intuition — интуитион | Meaning: intuition | Casual: интуитион | Hard: ион | Type: root
+consciousness — конскиоуснесс | Meaning: consciousness | Casual: конскоуснесс | Hard: ксс | Type: root
+subconscious — субконскиоус | Meaning: subconscious | Casual: субконскоус | Hard: сус | Type: root
+instinct — инстинкт | Meaning: instinct | Casual: инстинкт | Hard: икт | Type: root
+reflex — рефлекс | Meaning: reflex | Casual: рефлекс | Hard: ркс | Type: root
+habit — хабит | Meaning: habit | Casual: хабит | Hard: хит | Type: root
+routine — роутине | Meaning: routine | Casual: ротине | Hard: рне | Type: root
+transaction — трансактион | Meaning: transaction | Casual: трнсктон | Hard: тон | Type: root
+court — коурт | Meaning: court | Casual: корт | Hard: крт | Type: root
+verdict — вердикт | Meaning: verdict | Casual: вердикт | Hard: вкт | Type: root
+prison — присон | Meaning: prison | Casual: прсон | Hard: пон | Type: root
+crime — криме | Meaning: crime | Casual: крме | Hard: кме | Type: root
+victim — виктим | Meaning: victim | Casual: виктим | Hard: вим | Type: root
+testimony — тестимонй | Meaning: testimony | Casual: тестимонй | Hard: тнй | Type: root
+minister — министер | Meaning: minister | Casual: министер | Hard: мер | Type: root
+democracy — демокракй | Meaning: democracy | Casual: демокракй | Hard: дкй | Type: root
+republic — републик | Meaning: republic | Casual: републик | Hard: рик | Type: root
+monarchy — монаркхй | Meaning: monarchy | Casual: монаркхй | Hard: мхй | Type: root
+university — университй | Meaning: university | Casual: унверситй | Hard: утй | Type: root
+lecturer — лектурер | Meaning: lecturer | Casual: лектурер | Hard: лер | Type: root
+relapse — релапсе | Meaning: relapse | Casual: релапсе | Hard: рсе | Type: root
+household — хоусехолд | Meaning: household | Casual: хосехолд | Hard: хлд | Type: root
+heritage — херитаге | Meaning: heritage | Casual: херитге | Hard: хге | Type: root
+tradition — традитион | Meaning: tradition | Casual: трдитион | Hard: тон | Type: root
+dialect — диалект | Meaning: dialect | Casual: дилект | Hard: дкт | Type: root
+tunnel — туннел | Meaning: tunnel | Casual: туннел | Hard: тел | Type: root
+harbor — харбор | Meaning: harbor | Casual: харбор | Hard: хор | Type: root
+platform — платформ | Meaning: platform | Casual: плтфрм | Hard: прм | Type: root
+temple — темпле | Meaning: temple | Casual: темпл | Hard: тле | Type: root
+mosque — москууе | Meaning: mosque | Casual: москуе | Hard: муе | Type: root
+synagogue — сйнагогуе | Meaning: synagogue | Casual: сйнаггу | Hard: суе | Type: root
+monastery — монастерй | Meaning: monastery | Casual: монастерй | Hard: мрй | Type: root
+priest — приест | Meaning: priest | Casual: прест | Hard: пст | Type: root
+devil — девил | Meaning: devil | Casual: девил | Hard: дил | Type: root
+heaven — хеавен | Meaning: heaven | Casual: хевен | Hard: хен | Type: root
+spirit — спирит | Meaning: spirit | Casual: сприт | Hard: сит | Type: root
+faith — фаитх | Meaning: faith | Casual: фатх | Hard: фтх | Type: root
+
 PATCH AUDIT
 ================================================================================
-Base file: v6.63.935_PATCHED
-New English headwords: 5,000
+Base file: v6.63.937_PATCHED
+New English headwords: 500
 New duplicate English headwords: 0
-New Ш rules: 330
-Version: v6.63.936
+New Ш rules: 350
+Version: v6.63.937
