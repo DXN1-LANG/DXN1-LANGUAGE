@@ -2,23 +2,25 @@
 
 **The Biggest Conlang in the World**
 
-DXN1-Language is an English-first conlang written in Cyrillic. It is not Russian, not a translation of Russian, and not a cipher. It is a fully independent constructed language designed for texting, gaming, creative writing, secret communication, and digital culture.
+DXN1-Language is a constructed language built on Cyrillic with English mixed in. It is not Russian, not a translation of Russian, and not a cipher. Cyrillic is the foundation — used for speaking, writing, and daily communication. English influences the structure and vocabulary, but the language stands on its own.
+
+DXN1-Language is designed to eventually become a main language.
 
 ---
 
 ## What Makes DXN1 Different
 
-- **English grammar, Cyrillic identity.** You read it like English. It looks like nothing else.
+- **Cyrillic is the base.** You talk, write, and think in Cyrillic.
+- **English is mixed in.** Grammar, some vocabulary, and structure come from English, but the language is not English.
 - **Four writing modes.** Casual, Standard, Hard, Nightmare — each one compresses further.
-- **Tense, negation, questions** are handled by native particles, not conjugation.
+- **Tense, negation, questions** are handled by native particles.
 - **40,000+ word dictionary** with English headwords mapped to Cyrillic forms.
-- **Scalable.** Built from roots and affixes, not borrowed from any existing language.
 
 ---
 
 ## Creator
 
-**Dani Postma** — built DXN1-Language as a living system for people who want a language that sounds like the internet and reads like code.
+**Dani Postma** — built DXN1-Language as a living system with the goal of becoming a real, usable language.
 
 ---
 

@@ -3,7 +3,7 @@
 
 LANGUAGE CONCEPT
 =======================================================================================
-DXN1-Language is an English-first conlang written mostly in Cyrillic.
+DXN1-Language is a constructed language built on Cyrillic with English mixed in.
 It is not Russian, not a translation of Russian, and not a literal cipher.
 Its job is to keep English meaning readable while making the text look coded, stylized, and fun.
 Core idea:
@@ -24,7 +24,7 @@ Nightmare: extra compressed, symbolic, and intentionally messy.
 READING RULE
 If someone knows English, they should be able to guess the meaning.
 If someone does not know English, the text should feel like a secret system.
-DXN1 uses Cyrillic for the body of the language, but Latin letters may appear in names, brands, tech terms, emphasis, and hard mode.
+Cyrillic is the foundation — used for speaking, writing, and daily communication. English influences the structure and vocabulary. Latin letters appear only in names, brands, and technical terms.
 SOUND STYLE
 The language likes clean consonant beats, short vowels, repeated letters for emotion, clipped gamer-text energy, and a sharp futuristic feel.
 GRAMMAR ENGINES
