@@ -39847,6 +39847,66 @@ GR8. Casual mode may drop final vowels when the root remains recognizable.
 GR9. The emphasis particle же may be repeated for intensity: же же = truly, indeed.
 GR10. Proper nouns borrowed from English retain their original spelling in Hard mode.
 
+
+================================================================================
+MIDFIX SYSTEM v6.63.938 (NEW)
+================================================================================
+
+Midfixes (infixes) are affixes inserted INTO the root itself, between consonants
+or after the first vowel. They modify meaning from within, not from outside.
+Prefixes go before. Suffixes go after. Midfixes go INSIDE.
+
+MIDFIX TABLE
+================================================================================
+MF1. -и- (intensity) — inserted after first vowel: гул → гули-ул = intense walking
+MF2. -а- (past echo) — inserted after first consonant: гул → гал-ул = walked-before
+MF3. -о- (future echo) — inserted after first vowel: гул → гуло-л = will-walk
+MF4. -э- (negation echo) — inserted after first syllable: гул → гулэ-л = not-walking
+MF5. -у- (question echo) — inserted after first consonant: гул → гулу-л = walking?
+MF6. -и- (agent echo) — inserted after root: дум → думи-м = thinker-one
+MF7. -а- (place echo) — inserted after root: зон → зона-а = zone-place
+MF8. -о- (tool echo) — inserted after root: тул → туло-л = tool-use
+MF9. -э- (abstract echo) — inserted after root: ств → ствоэ-о = abstract-concept
+MF10. -у- (emotional echo) — inserted after root: вибе → вибэу-у = emotional-vibe
+
+MIDFIX RULES
+================================================================================
+MF11. A midfix may only be inserted at a consonant-vowel boundary or vowel-consonant
+      boundary within the root. Never split a consonant cluster.
+MF12. The inserted vowel echoes the root's first vowel for harmony, unless the midfix
+      has a fixed vowel (и- for intensity is always и).
+MF13. A root may carry at most ONE midfix in Standard mode. Two midfixes require
+      Hard mode and must be separated by a dot: гул·и·а-л.
+MF14. Midfixes never attach to particles, pronouns, or function words.
+MF15. Midfixes stack AFTER prefix builders but BEFORE suffix families:
+      prefix + midfix + root + suffix.
+MF16. In Casual mode, midfixes may be dropped entirely if the root remains readable.
+MF17. In Nightmare mode, midfixes may be compressed to a single character.
+MF18. A midfix changes the root's meaning but does NOT change its word class.
+MF19. When a midfix and a prefix would create ambiguity, the prefix takes priority.
+MF20. Gender markers (ф-/н-) attach outside the midfix, not inside it.
+
+MIDFIX EXAMPLES
+================================================================================
+гул → гули-ул = intense walk (MF1)
+дум → думи-м = intense think (MF1)
+zone → зонэ-а = not-zone (MF4)
+тул → туло-л = tool-use (MF8)
+вибе → вибэу-у = emotional vibe (MF10)
+ alone → гули-ул-ник-ер = intense-walk-person-agent (midfix + suffixes)
+ф-гули-ул-ник-ер = fem-intense-walk-person-agent (prefix + midfix + suffixes)
+ гуло-л-вэйв-мод = future-echo-walk-wave-mode (midfix + suffixes)
+ гула-ул-дом-зона = past-echo-walk-house-zone (midfix + suffixes)
+
+=== MIDFIX + PREFIX + SUFFIX STACK ORDER ===
+[prefix] + [midfix] + [root] + [suffix family]
+
+Example:
+ф- + -и- + гул + -ник-ер-ист
+= ф-гули-ул-ник-ер-ист
+= fem + intense + walk + person + agent + specialist
+= "female intense-walking specialist agent person"
+
 ================================================================================
 NEW ROOT WORD BANK — 500 UNIQUE ENGLISH HEADWORDS
 ================================================================================
@@ -40877,8 +40937,8 @@ faith — фаитх | Meaning: faith | Casual: фатх | Hard: фтх | Type: 
 
 PATCH AUDIT
 ================================================================================
-Base file: v6.63.937_PATCHED
+Base file: v6.63.938_PATCHED
 New English headwords: 500
 New duplicate English headwords: 0
 New Ш rules: 350
-Version: v6.63.937
+Version: v6.63.938

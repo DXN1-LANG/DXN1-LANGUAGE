@@ -15,6 +15,7 @@ DXN1-Language is designed to eventually become a main language.
 - **Four writing modes.** Casual, Standard, Hard, Nightmare — each one compresses further.
 - **Tense, negation, questions** are handled by native particles.
 - **40,000+ word dictionary** with English headwords mapped to Cyrillic forms.
+- **Three-layer affix system.** Prefixes (before), midfixes (inside), suffixes (after).
 
 ---
 
@@ -174,7 +175,7 @@ Understand virtually everything heard or read. Express yourself precisely.
 
 ## Wordbook
 
-The full dictionary lives in `DXN1-LANGUAGE_Wordbook_v6.63.937_PATCHED-4.txt` — 40,000+ English headwords with Cyrillic translations, casual/hard variants, and word classes.
+The full dictionary lives in `DXN1-LANGUAGE_Wordbook_v6.63.938_PATCHED-5.txt` — 40,000+ English headwords with Cyrillic translations, casual/hard variants, and word classes.
 
 ---
 

@@ -12,6 +12,27 @@ Full version history of ДЖН1-LANGUAGE.
 - Cleaned up affixes section
 - Updated language concept description
 
+## v6.63.938 — August 26, 2026
+
+- Added MIDFIX SYSTEM (infixes) — 20 new rules (MF1-MF20)
+- Midfixes insert INTO roots, not before or after
+- 10 midfix vowels: -и- (intensity), -а- (past echo), -о- (future echo), -э- (negation echo), -у- (question echo), etc.
+- Stack order: prefix + midfix + root + suffix
+- Midfixes never split consonant clusters (MF11)
+- Max 1 midfix per root in Standard mode (MF13)
+- Gender markers attach outside midfix (MF20)
+- Version bumped to v6.63.938
+
+## v6.63.937 — August 25, 2026
+
+- Added A1-C2 CEFR learning path to README
+- Added 500 new unique English headwords (zero duplicates)
+- Added 10 new grammar rules (GR1-GR10)
+- All DXN1 forms in pure Cyrillic (zero Latin in translations)
+- Creative coinages, not literal transliterations
+- Version bumped to v6.63.937
+
+
 ## v1.0.0 — 2020-01-01
 
 - Added 75 new slang terms
