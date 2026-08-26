@@ -12,6 +12,25 @@ Full version history of ДЖН1-LANGUAGE.
 - Cleaned up affixes section
 - Updated language concept description
 
+## v6.63.942 — August 26, 2026
+
+- Added 4,700 new entries (940 roots + 3,760 midfix variants)
+- 940 new root words: 1000+ verbs (absorb, accelerate, accept, etc.) + 3700+ nouns/adjectives
+- Categories: people/roles, animals, nature/geography, abstract concepts, places, food, clothing
+- Added 300 new grammar rules (GR41-GR340):
+  - GR41-GR80: Verb conjugation rules
+  - GR81-GR120: Noun rules
+  - GR121-GR160: Adjective rules
+  - GR161-GR200: Prefix rules
+  - GR201-GR240: Suffix rules
+  - GR241-GR280: Syntax rules
+  - GR281-GR320: Register rules
+  - GR321-GR340: Phonology rules
+- 4 midfix variants per root: -и- (intensity), -а- (past), -э- (negation), -у- (question)
+- Zero duplicates verified against 37,000+ existing headwords
+- File renamed to DXN1-LANGUAGE-v6.63.942.txt
+- Version bumped to v6.63.942
+
 ## v6.63.941 — August 26, 2026
 
 - Added 1,080 new entries (216 roots + 864 midfix variants)
