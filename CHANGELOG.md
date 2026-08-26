@@ -12,6 +12,19 @@ Full version history of ДЖН1-LANGUAGE.
 - Cleaned up affixes section
 - Updated language concept description
 
+## v6.63.944 — August 26, 2026
+
+- Added 1,447 DXN1 coinage entries (roots + affixes, not transliterations)
+- 183 base roots: fire, water, earth, air, light, dark, wind, thunder, etc.
+- 183 prefix+root words: turbo-fire, mega-water, neo-earth, etc.
+- 183 root+suffix nouns: fire-person, water-place, earth-thing, etc.
+- 183 root+suffix adjectives: fire-like, water-style, earth-able, etc.
+- 183 prefix+root+suffix compounds: turbo-fire-person, mega-water-place, etc.
+- 732 midfix variants: 4 per root (intense, before, not, questioning)
+- Zero duplicates verified against 44,000+ existing headwords
+- File renamed to DXN1-LANGUAGE-v6.63.944.txt
+- Version bumped to v6.63.944
+
 ## v6.63.943 — August 26, 2026
 
 - Added 2,090 new entries: 160 profanity + 58 anatomy + 200 general + 1,672 midfix

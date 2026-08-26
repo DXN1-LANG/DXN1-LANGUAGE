@@ -1,4 +1,4 @@
-ДЖН1-LANGUAGE WORD & RULE BOOK v6.63.943
+ДЖН1-LANGUAGE WORD & RULE BOOK v6.63.944
 ========================================================================================
 
 LANGUAGE CONCEPT
@@ -41459,7 +41459,7 @@ unfragile — фра-э-гиле | Meaning: not fragile | Casual: фр-э-гил
 
 
 ================================================================================
-NEW GRAMMAR RULES v6.63.943 (GR21–GR30)
+NEW GRAMMAR RULES v6.63.944 (GR21–GR30)
 ================================================================================
 
 GR21. Midfix -у- adds questioning/doubt to any root.
@@ -41981,7 +41981,7 @@ snare drum-question — сна-у-редрум | Meaning: questioning snare drum
 
 
 ================================================================================
-NEW GRAMMAR RULES v6.63.943 (GR31–GR40)
+NEW GRAMMAR RULES v6.63.944 (GR31–GR40)
 ================================================================================
 
 GR31. Midfix -у- may stack with ли for double-question emphasis.
@@ -43083,7 +43083,7 @@ perceive-question — пе-у-ркеиве | Meaning: questioning perceive | Cas
 
 
 ================================================================================
-NEW GRAMMAR RULES v6.63.943 (GR41–GR340)
+NEW GRAMMAR RULES v6.63.944 (GR41–GR340)
 ================================================================================
 
 --- VERB CONJUGATION RULES (GR41–GR80) ---
@@ -48119,7 +48119,7 @@ wristband-question — ври-у-стбанд | Meaning: questioning wristband |
 
 
 ================================================================================
-NEW AFFIX SYSTEM EXPANSION v6.63.943
+NEW AFFIX SYSTEM EXPANSION v6.63.944
 ================================================================================
 
 --- NEW PREFIXES (PR1–PR30) ---
@@ -50318,10 +50318,1483 @@ definitely-before — де-а-финителй | Meaning: before definitely | Ca
 definitely-un — де-э-финителй | Meaning: not definitely | Casual: де-э-финтелй | Hard: длй | Type: midfix
 definitely-question — де-у-финителй | Meaning: questioning definitely | Casual: де-у-финтелй | Hard: длй | Type: midfix
 
+
+================================================================================
+DXN1 COINAGE SYSTEM — ROOTS + AFFIXES (v6.63.944)
+================================================================================
+These are REAL DXN1 words built from the language system.
+Not transliterations — original roots with prefixes, midfixes, and suffixes.
+
+Stack order: [prefix] + [midfix] + [root] + [suffix]
+
+Examples:
+  вог = fire (root)
+  турбовог = turbo-fire (prefix + root)
+  вогуля = fire-place (root + suffix)
+  вогский = fire-like (root + adj suffix)
+  турбовогуля = turbo-fire-place (prefix + root + suffix)
+  в-и-ог = intense-fire (midfix + root)
+  в-а-ог = fire-before (midfix + root)
+  в-э-ог = not-fire (midfix + root)
+  в-у-ог = questioning-fire (midfix + root)
+
+================================================================================
+NEW ENTRIES — 1,447 DXN1 COINAGES
+================================================================================
+Format: English — ДЖН1 | Meaning: English gloss | Casual: short form | Hard: compressed form | Type: root/prefix/suffix-n/suffix-a/affix/midfix
+
+pref-fire — безвог | Meaning: prefixed fire | Casual: безвог | Hard: бог | Type: prefix
+fire-person — вогазия | Meaning: fire person/thing | Casual: вогазя | Hard: вия | Type: suffix-n
+fire-adj — вогский | Meaning: relating to fire | Casual: вогскй | Hard: вий | Type: suffix-a
+fire-full — безвогазия | Meaning: full fire thing | Casual: безвогазя | Hard: бия | Type: affix
+fire-intense — во-и-г | Meaning: intense fire | Casual: во-и-г | Hard: в-г | Type: midfix
+fire-before — во-а-г | Meaning: before fire | Casual: во-а-г | Hard: в-г | Type: midfix
+fire-un — во-э-г | Meaning: not fire | Casual: во-э-г | Hard: в-г | Type: midfix
+fire-question — во-у-г | Meaning: questioning fire | Casual: во-у-г | Hard: в-г | Type: midfix
+pref-water — антивод | Meaning: prefixed water | Casual: антивд | Hard: аод | Type: prefix
+water-person — водзона | Meaning: water person/thing | Casual: водзона | Hard: вна | Type: suffix-n
+water-adj — водеват | Meaning: relating to water | Casual: водевт | Hard: ват | Type: suffix-a
+water-full — антиводзона | Meaning: full water thing | Casual: антивдзна | Hard: ана | Type: affix
+water-intense — во-и-д | Meaning: intense water | Casual: во-и-д | Hard: в-д | Type: midfix
+water-before — во-а-д | Meaning: before water | Casual: во-а-д | Hard: в-д | Type: midfix
+water-un — во-э-д | Meaning: not water | Casual: во-э-д | Hard: в-д | Type: midfix
+water-question — во-у-д | Meaning: questioning water | Casual: во-у-д | Hard: в-д | Type: midfix
+pref-earth — локалзем | Meaning: prefixed earth | Casual: локалзем | Hard: лем | Type: prefix
+earth-person — земец | Meaning: earth person/thing | Casual: земец | Hard: зец | Type: suffix-n
+earth-adj — земельный | Meaning: relating to earth | Casual: земельный | Hard: зый | Type: suffix-a
+earth-full — локалземец | Meaning: full earth thing | Casual: локалземц | Hard: лец | Type: affix
+earth-intense — зе-и-м | Meaning: intense earth | Casual: зе-и-м | Hard: з-м | Type: midfix
+earth-before — зе-а-м | Meaning: before earth | Casual: зе-а-м | Hard: з-м | Type: midfix
+earth-un — зе-э-м | Meaning: not earth | Casual: зе-э-м | Hard: з-м | Type: midfix
+earth-question — зе-у-м | Meaning: questioning earth | Casual: зе-у-м | Hard: з-м | Type: midfix
+pref-air — ревозд | Meaning: prefixed air | Casual: ревозд | Hard: рзд | Type: prefix
+air-person — воздица | Meaning: air person/thing | Casual: воздица | Hard: вца | Type: suffix-n
+air-adj — воздоват | Meaning: relating to air | Casual: воздоват | Hard: ват | Type: suffix-a
+air-full — ревоздица | Meaning: full air thing | Casual: ревоздиц | Hard: рца | Type: affix
+air-intense — во-и-зд | Meaning: intense air | Casual: во-и-зд | Hard: взд | Type: midfix
+air-before — во-а-зд | Meaning: before air | Casual: во-а-зд | Hard: взд | Type: midfix
+air-un — во-э-зд | Meaning: not air | Casual: во-э-зд | Hard: взд | Type: midfix
+air-question — во-у-зд | Meaning: questioning air | Casual: во-у-зд | Hard: взд | Type: midfix
+pref-light — безсвет | Meaning: prefixed light | Casual: безсвт | Hard: бет | Type: prefix
+light-person — светвэйв | Meaning: light person/thing | Casual: свтвйв | Hard: сйв | Type: suffix-n
+light-adj — светный | Meaning: relating to light | Casual: свтнй | Hard: сый | Type: suffix-a
+light-full — безсветвэйв | Meaning: full light thing | Casual: безсвтвйв | Hard: бйв | Type: affix
+light-intense — све-и-т | Meaning: intense light | Casual: св-и-т | Hard: с-т | Type: midfix
+light-before — све-а-т | Meaning: before light | Casual: св-а-т | Hard: с-т | Type: midfix
+light-un — све-э-т | Meaning: not light | Casual: св-э-т | Hard: с-т | Type: midfix
+light-question — све-у-т | Meaning: questioning light | Casual: св-у-т | Hard: с-т | Type: midfix
+pref-dark — надтьм | Meaning: prefixed dark | Casual: надтьм | Hard: ньм | Type: prefix
+dark-person — тьмуля | Meaning: dark person/thing | Casual: тьмул | Hard: тля | Type: suffix-n
+dark-adj — тьмой | Meaning: relating to dark | Casual: тьмой | Hard: той | Type: suffix-a
+dark-full — надтьмуля | Meaning: full dark thing | Casual: надтьмул | Hard: нля | Type: affix
+dark-intense — тьм-и- | Meaning: intense dark | Casual: тьм-и- | Hard: ти- | Type: midfix
+dark-before — тьм-а- | Meaning: before dark | Casual: тьм-а- | Hard: та- | Type: midfix
+dark-un — тьм-э- | Meaning: not dark | Casual: тьм-э- | Hard: тэ- | Type: midfix
+dark-question — тьм-у- | Meaning: questioning dark | Casual: тьм-у- | Hard: ту- | Type: midfix
+pref-wind — подветр | Meaning: prefixed wind | Casual: подветр | Hard: птр | Type: prefix
+wind-person — ветрер | Meaning: wind person/thing | Casual: ветрер | Hard: вер | Type: suffix-n
+wind-adj — ветревый | Meaning: relating to wind | Casual: ветревый | Hard: вый | Type: suffix-a
+wind-full — подветрер | Meaning: full wind thing | Casual: подветрер | Hard: пер | Type: affix
+wind-intense — ве-и-тр | Meaning: intense wind | Casual: ве-и-тр | Hard: втр | Type: midfix
+wind-before — ве-а-тр | Meaning: before wind | Casual: ве-а-тр | Hard: втр | Type: midfix
+wind-un — ве-э-тр | Meaning: not wind | Casual: ве-э-тр | Hard: втр | Type: midfix
+wind-question — ве-у-тр | Meaning: questioning wind | Casual: ве-у-тр | Hard: втр | Type: midfix
+pref-thunder — супэргром | Meaning: prefixed thunder | Casual: супэргром | Hard: сом | Type: prefix
+thunder-person — громник | Meaning: thunder person/thing | Casual: грмнк | Hard: гик | Type: suffix-n
+thunder-adj — громный | Meaning: relating to thunder | Casual: грмнй | Hard: гый | Type: suffix-a
+thunder-full — супэргромник | Meaning: full thunder thing | Casual: супэргромник | Hard: сик | Type: affix
+thunder-intense — гро-и-м | Meaning: intense thunder | Casual: гр-и-м | Hard: г-м | Type: midfix
+thunder-before — гро-а-м | Meaning: before thunder | Casual: гр-а-м | Hard: г-м | Type: midfix
+thunder-un — гро-э-м | Meaning: not thunder | Casual: гр-э-м | Hard: г-м | Type: midfix
+thunder-question — гро-у-м | Meaning: questioning thunder | Casual: гр-у-м | Hard: г-м | Type: midfix
+pref-rain — двудожд | Meaning: prefixed rain | Casual: двдожд | Hard: джд | Type: prefix
+rain-person — дождсинк | Meaning: rain person/thing | Casual: дождснк | Hard: днк | Type: suffix-n
+rain-adj — дождий | Meaning: relating to rain | Casual: дождий | Hard: дий | Type: suffix-a
+rain-full — двудождсинк | Meaning: full rain thing | Casual: двдождснк | Hard: днк | Type: affix
+rain-intense — до-и-жд | Meaning: intense rain | Casual: до-и-жд | Hard: джд | Type: midfix
+rain-before — до-а-жд | Meaning: before rain | Casual: до-а-жд | Hard: джд | Type: midfix
+rain-un — до-э-жд | Meaning: not rain | Casual: до-э-жд | Hard: джд | Type: midfix
+rain-question — до-у-жд | Meaning: questioning rain | Casual: до-у-жд | Hard: джд | Type: midfix
+pref-snow — софтснег | Meaning: prefixed snow | Casual: софтснег | Hard: сег | Type: prefix
+snow-person — снегность | Meaning: snow person/thing | Casual: снгнсть | Hard: сть | Type: suffix-n
+snow-adj — снегельный | Meaning: relating to snow | Casual: снгельнй | Hard: сый | Type: suffix-a
+snow-full — софтснегность | Meaning: full snow thing | Casual: софтснегность | Hard: сть | Type: affix
+snow-intense — сне-и-г | Meaning: intense snow | Casual: сн-и-г | Hard: с-г | Type: midfix
+snow-before — сне-а-г | Meaning: before snow | Casual: сн-а-г | Hard: с-г | Type: midfix
+snow-un — сне-э-г | Meaning: not snow | Casual: сн-э-г | Hard: с-г | Type: midfix
+snow-question — сне-у-г | Meaning: questioning snow | Casual: сн-у-г | Hard: с-г | Type: midfix
+pref-ice — экстралёд | Meaning: prefixed ice | Casual: экстрлёд | Hard: эёд | Type: prefix
+ice-person — лёдент | Meaning: ice person/thing | Casual: лёдент | Hard: лнт | Type: suffix-n
+ice-adj — лёдый | Meaning: relating to ice | Casual: лёдый | Hard: лый | Type: suffix-a
+ice-full — экстралёдент | Meaning: full ice thing | Casual: экстрлёдент | Hard: энт | Type: affix
+ice-intense — лё-и-д | Meaning: intense ice | Casual: лё-и-д | Hard: л-д | Type: midfix
+ice-before — лё-а-д | Meaning: before ice | Casual: лё-а-д | Hard: л-д | Type: midfix
+ice-un — лё-э-д | Meaning: not ice | Casual: лё-э-д | Hard: л-д | Type: midfix
+ice-question — лё-у-д | Meaning: questioning ice | Casual: лё-у-д | Hard: л-д | Type: midfix
+pref-flame — выогн | Meaning: prefixed flame | Casual: выгн | Hard: вгн | Type: prefix
+flame-person — огнание | Meaning: flame person/thing | Casual: огнане | Hard: оие | Type: suffix-n
+flame-adj — огнтый | Meaning: relating to flame | Casual: огнтый | Hard: оый | Type: suffix-a
+flame-full — выогнание | Meaning: full flame thing | Casual: выгнни | Hard: вие | Type: affix
+flame-intense — о-и-гн | Meaning: intense flame | Casual: о--гн | Hard: огн | Type: midfix
+flame-before — о-а-гн | Meaning: before flame | Casual: о--гн | Hard: огн | Type: midfix
+flame-un — о-э-гн | Meaning: not flame | Casual: о--гн | Hard: огн | Type: midfix
+flame-question — о-у-гн | Meaning: questioning flame | Casual: о--гн | Hard: огн | Type: midfix
+pref-stone — взкам | Meaning: prefixed stone | Casual: взкам | Hard: вам | Type: prefix
+stone-person — камист | Meaning: stone person/thing | Casual: камист | Hard: кст | Type: suffix-n
+stone-adj — камий | Meaning: relating to stone | Casual: камий | Hard: кий | Type: suffix-a
+stone-full — взкамист | Meaning: full stone thing | Casual: взкамст | Hard: вст | Type: affix
+stone-intense — ка-и-м | Meaning: intense stone | Casual: ка-и-м | Hard: к-м | Type: midfix
+stone-before — ка-а-м | Meaning: before stone | Casual: ка-а-м | Hard: к-м | Type: midfix
+stone-un — ка-э-м | Meaning: not stone | Casual: ка-э-м | Hard: к-м | Type: midfix
+stone-question — ка-у-м | Meaning: questioning stone | Casual: ка-у-м | Hard: к-м | Type: midfix
+pref-wood — брайтдерев | Meaning: prefixed wood | Casual: брйтдерв | Hard: бев | Type: prefix
+wood-person — деревдроп | Meaning: wood person/thing | Casual: деревдроп | Hard: доп | Type: suffix-n
+wood-adj — деревый | Meaning: relating to wood | Casual: деревй | Hard: дый | Type: suffix-a
+wood-full — брайтдеревдроп | Meaning: full wood thing | Casual: брйтдервдроп | Hard: боп | Type: affix
+wood-intense — де-и-рев | Meaning: intense wood | Casual: де-и-рев | Hard: дев | Type: midfix
+wood-before — де-а-рев | Meaning: before wood | Casual: де-а-рев | Hard: дев | Type: midfix
+wood-un — де-э-рев | Meaning: not wood | Casual: де-э-рев | Hard: дев | Type: midfix
+wood-question — де-у-рев | Meaning: questioning wood | Casual: де-у-рев | Hard: дев | Type: midfix
+pref-metal — всеметал | Meaning: prefixed metal | Casual: всметал | Hard: вал | Type: prefix
+metal-person — метализм | Meaning: metal person/thing | Casual: металзм | Hard: мзм | Type: suffix-n
+metal-adj — металельный | Meaning: relating to metal | Casual: металльный | Hard: мый | Type: suffix-a
+metal-full — всеметализм | Meaning: full metal thing | Casual: всметалзм | Hard: взм | Type: affix
+metal-intense — ме-и-тал | Meaning: intense metal | Casual: ме-и-тал | Hard: мал | Type: midfix
+metal-before — ме-а-тал | Meaning: before metal | Casual: ме-а-тал | Hard: мал | Type: midfix
+metal-un — ме-э-тал | Meaning: not metal | Casual: ме-э-тал | Hard: мал | Type: midfix
+metal-question — ме-у-тал | Meaning: questioning metal | Casual: ме-у-тал | Hard: мал | Type: midfix
+pref-glass — экстрастекл | Meaning: prefixed glass | Casual: экстрсткл | Hard: экл | Type: prefix
+glass-person — стеклзона | Meaning: glass person/thing | Casual: стклзон | Hard: сна | Type: suffix-n
+glass-adj — стеклий | Meaning: relating to glass | Casual: стклй | Hard: сий | Type: suffix-a
+glass-full — экстрастеклзона | Meaning: full glass thing | Casual: экстрстклзон | Hard: эна | Type: affix
+glass-intense — сте-и-кл | Meaning: intense glass | Casual: ст-и-кл | Hard: скл | Type: midfix
+glass-before — сте-а-кл | Meaning: before glass | Casual: ст-а-кл | Hard: скл | Type: midfix
+glass-un — сте-э-кл | Meaning: not glass | Casual: ст-э-кл | Hard: скл | Type: midfix
+glass-question — сте-у-кл | Meaning: questioning glass | Casual: ст-у-кл | Hard: скл | Type: midfix
+pref-sand — супэрпес | Meaning: prefixed sand | Casual: супэрпес | Hard: сес | Type: prefix
+sand-person — песмод | Meaning: sand person/thing | Casual: песмод | Hard: под | Type: suffix-n
+sand-adj — песский | Meaning: relating to sand | Casual: песскй | Hard: пий | Type: suffix-a
+sand-full — супэрпесмод | Meaning: full sand thing | Casual: супэрпесмод | Hard: сод | Type: affix
+sand-intense — пе-и-с | Meaning: intense sand | Casual: пе-и-с | Hard: п-с | Type: midfix
+sand-before — пе-а-с | Meaning: before sand | Casual: пе-а-с | Hard: п-с | Type: midfix
+sand-un — пе-э-с | Meaning: not sand | Casual: пе-э-с | Hard: п-с | Type: midfix
+sand-question — пе-у-с | Meaning: questioning sand | Casual: пе-у-с | Hard: п-с | Type: midfix
+pref-dust — недопыл | Meaning: prefixed dust | Casual: недопл | Hard: ныл | Type: prefix
+dust-person — пылтель | Meaning: dust person/thing | Casual: пылтель | Hard: пль | Type: suffix-n
+dust-adj — пыловат | Meaning: relating to dust | Casual: пыловт | Hard: пат | Type: suffix-a
+dust-full — недопылтель | Meaning: full dust thing | Casual: недоплтль | Hard: нль | Type: affix
+dust-intense — пы-и-л | Meaning: intense dust | Casual: пы-и-л | Hard: п-л | Type: midfix
+dust-before — пы-а-л | Meaning: before dust | Casual: пы-а-л | Hard: п-л | Type: midfix
+dust-un — пы-э-л | Meaning: not dust | Casual: пы-э-л | Hard: п-л | Type: midfix
+dust-question — пы-у-л | Meaning: questioning dust | Casual: пы-у-л | Hard: п-л | Type: midfix
+pref-mud — антигряз | Meaning: prefixed mud | Casual: антигряз | Hard: аяз | Type: prefix
+mud-person — грязость | Meaning: mud person/thing | Casual: грзость | Hard: гть | Type: suffix-n
+mud-adj — грязий | Meaning: relating to mud | Casual: грзий | Hard: гий | Type: suffix-a
+mud-full — антигрязость | Meaning: full mud thing | Casual: антигрязсть | Hard: ать | Type: affix
+mud-intense — гря-и-з | Meaning: intense mud | Casual: гр-и-з | Hard: г-з | Type: midfix
+mud-before — гря-а-з | Meaning: before mud | Casual: гр-а-з | Hard: г-з | Type: midfix
+mud-un — гря-э-з | Meaning: not mud | Casual: гр-э-з | Hard: г-з | Type: midfix
+mud-question — гря-у-з | Meaning: questioning mud | Casual: гр-у-з | Hard: г-з | Type: midfix
+pref-clay — доглин | Meaning: prefixed clay | Casual: доглин | Hard: дин | Type: prefix
+clay-person — глинсинк | Meaning: clay person/thing | Casual: глнснк | Hard: гнк | Type: suffix-n
+clay-adj — глиноват | Meaning: relating to clay | Casual: глноват | Hard: гат | Type: suffix-a
+clay-full — доглинсинк | Meaning: full clay thing | Casual: доглинсинк | Hard: днк | Type: affix
+clay-intense — гли-и-н | Meaning: intense clay | Casual: гл-и-н | Hard: г-н | Type: midfix
+clay-before — гли-а-н | Meaning: before clay | Casual: гл-а-н | Hard: г-н | Type: midfix
+clay-un — гли-э-н | Meaning: not clay | Casual: гл-э-н | Hard: г-н | Type: midfix
+clay-question — гли-у-н | Meaning: questioning clay | Casual: гл-у-н | Hard: г-н | Type: midfix
+pref-head — экстраголов | Meaning: prefixed head | Casual: экстрголов | Hard: эов | Type: prefix
+head-person — головзона | Meaning: head person/thing | Casual: головзон | Hard: гна | Type: suffix-n
+head-adj — головальный | Meaning: relating to head | Casual: головльный | Hard: гый | Type: suffix-a
+head-full — экстраголовзона | Meaning: full head thing | Casual: экстрголовзон | Hard: эна | Type: affix
+head-intense — го-и-лов | Meaning: intense head | Casual: го-и-лов | Hard: гов | Type: midfix
+head-before — го-а-лов | Meaning: before head | Casual: го-а-лов | Hard: гов | Type: midfix
+head-un — го-э-лов | Meaning: not head | Casual: го-э-лов | Hard: гов | Type: midfix
+head-question — го-у-лов | Meaning: questioning head | Casual: го-у-лов | Hard: гов | Type: midfix
+pref-eye — отглаз | Meaning: prefixed eye | Casual: отглаз | Hard: оаз | Type: prefix
+eye-person — глазец | Meaning: eye person/thing | Casual: глзец | Hard: гец | Type: suffix-n
+eye-adj — глазий | Meaning: relating to eye | Casual: глзий | Hard: гий | Type: suffix-a
+eye-full — отглазец | Meaning: full eye thing | Casual: отглазец | Hard: оец | Type: affix
+eye-intense — гла-и-з | Meaning: intense eye | Casual: гл-и-з | Hard: г-з | Type: midfix
+eye-before — гла-а-з | Meaning: before eye | Casual: гл-а-з | Hard: г-з | Type: midfix
+eye-un — гла-э-з | Meaning: not eye | Casual: гл-э-з | Hard: г-з | Type: midfix
+eye-question — гла-у-з | Meaning: questioning eye | Casual: гл-у-з | Hard: г-з | Type: midfix
+pref-ear — взух | Meaning: prefixed ear | Casual: взх | Hard: взух | Type: prefix
+ear-person — ухвэйв | Meaning: ear person/thing | Casual: ухвэйв | Hard: уйв | Type: suffix-n
+ear-adj — ухой | Meaning: relating to ear | Casual: ухй | Hard: ухой | Type: suffix-a
+ear-full — взухвэйв | Meaning: full ear thing | Casual: взхвйв | Hard: вйв | Type: affix
+ear-intense — у-и-х | Meaning: intense ear | Casual: у--х | Hard: у-х | Type: midfix
+ear-before — у-а-х | Meaning: before ear | Casual: у--х | Hard: у-х | Type: midfix
+ear-un — у-э-х | Meaning: not ear | Casual: у--х | Hard: у-х | Type: midfix
+ear-question — у-у-х | Meaning: questioning ear | Casual: у--х | Hard: у-х | Type: midfix
+pref-nose — экстранос | Meaning: prefixed nose | Casual: экстрнос | Hard: эос | Type: prefix
+nose-person — носость | Meaning: nose person/thing | Casual: носость | Hard: нть | Type: suffix-n
+nose-adj — носной | Meaning: relating to nose | Casual: носной | Hard: ной | Type: suffix-a
+nose-full — экстраносость | Meaning: full nose thing | Casual: экстрносость | Hard: эть | Type: affix
+nose-intense — но-и-с | Meaning: intense nose | Casual: но-и-с | Hard: н-с | Type: midfix
+nose-before — но-а-с | Meaning: before nose | Casual: но-а-с | Hard: н-с | Type: midfix
+nose-un — но-э-с | Meaning: not nose | Casual: но-э-с | Hard: н-с | Type: midfix
+nose-question — но-у-с | Meaning: questioning nose | Casual: но-у-с | Hard: н-с | Type: midfix
+pref-mouth — турборот | Meaning: prefixed mouth | Casual: турборот | Hard: тот | Type: prefix
+mouth-person — ротость | Meaning: mouth person/thing | Casual: ротость | Hard: рть | Type: suffix-n
+mouth-adj — ротальный | Meaning: relating to mouth | Casual: ротальный | Hard: рый | Type: suffix-a
+mouth-full — турборотость | Meaning: full mouth thing | Casual: турборотсть | Hard: тть | Type: affix
+mouth-intense — ро-и-т | Meaning: intense mouth | Casual: ро-и-т | Hard: р-т | Type: midfix
+mouth-before — ро-а-т | Meaning: before mouth | Casual: ро-а-т | Hard: р-т | Type: midfix
+mouth-un — ро-э-т | Meaning: not mouth | Casual: ро-э-т | Hard: р-т | Type: midfix
+mouth-question — ро-у-т | Meaning: questioning mouth | Casual: ро-у-т | Hard: р-т | Type: midfix
+pref-tooth — отзуб | Meaning: prefixed tooth | Casual: отзуб | Hard: оуб | Type: prefix
+tooth-person — зубярь | Meaning: tooth person/thing | Casual: зубярь | Hard: зрь | Type: suffix-n
+tooth-adj — зубтый | Meaning: relating to tooth | Casual: зубтый | Hard: зый | Type: suffix-a
+tooth-full — отзубярь | Meaning: full tooth thing | Casual: отзубрь | Hard: орь | Type: affix
+tooth-intense — зу-и-б | Meaning: intense tooth | Casual: зу-и-б | Hard: з-б | Type: midfix
+tooth-before — зу-а-б | Meaning: before tooth | Casual: зу-а-б | Hard: з-б | Type: midfix
+tooth-un — зу-э-б | Meaning: not tooth | Casual: зу-э-б | Hard: з-б | Type: midfix
+tooth-question — зу-у-б | Meaning: questioning tooth | Casual: зу-у-б | Hard: з-б | Type: midfix
+pref-tongue — обзык | Meaning: prefixed tongue | Casual: обзык | Hard: оык | Type: prefix
+tongue-person — зыкица | Meaning: tongue person/thing | Casual: зыкиц | Hard: зца | Type: suffix-n
+tongue-adj — зыкальный | Meaning: relating to tongue | Casual: зыкальный | Hard: зый | Type: suffix-a
+tongue-full — обзыкица | Meaning: full tongue thing | Casual: обзыкца | Hard: оца | Type: affix
+tongue-intense — зы-и-к | Meaning: intense tongue | Casual: зы-и-к | Hard: з-к | Type: midfix
+tongue-before — зы-а-к | Meaning: before tongue | Casual: зы-а-к | Hard: з-к | Type: midfix
+tongue-un — зы-э-к | Meaning: not tongue | Casual: зы-э-к | Hard: з-к | Type: midfix
+tongue-question — зы-у-к | Meaning: questioning tongue | Casual: зы-у-к | Hard: з-к | Type: midfix
+pref-lip — локалгуб | Meaning: prefixed lip | Casual: локалгуб | Hard: луб | Type: prefix
+lip-person — губярь | Meaning: lip person/thing | Casual: губярь | Hard: грь | Type: suffix-n
+lip-adj — губый | Meaning: relating to lip | Casual: губый | Hard: гый | Type: suffix-a
+lip-full — локалгубярь | Meaning: full lip thing | Casual: локалгубрь | Hard: лрь | Type: affix
+lip-intense — гу-и-б | Meaning: intense lip | Casual: гу-и-б | Hard: г-б | Type: midfix
+lip-before — гу-а-б | Meaning: before lip | Casual: гу-а-б | Hard: г-б | Type: midfix
+lip-un — гу-э-б | Meaning: not lip | Casual: гу-э-б | Hard: г-б | Type: midfix
+lip-question — гу-у-б | Meaning: questioning lip | Casual: гу-у-б | Hard: г-б | Type: midfix
+pref-hand — изруп | Meaning: prefixed hand | Casual: изруп | Hard: иуп | Type: prefix
+hand-person — рупизм | Meaning: hand person/thing | Casual: рупизм | Hard: рзм | Type: suffix-n
+hand-adj — рупельный | Meaning: relating to hand | Casual: рупельный | Hard: рый | Type: suffix-a
+hand-full — изрупизм | Meaning: full hand thing | Casual: изрупзм | Hard: изм | Type: affix
+hand-intense — ру-и-п | Meaning: intense hand | Casual: ру-и-п | Hard: р-п | Type: midfix
+hand-before — ру-а-п | Meaning: before hand | Casual: ру-а-п | Hard: р-п | Type: midfix
+hand-un — ру-э-п | Meaning: not hand | Casual: ру-э-п | Hard: р-п | Type: midfix
+hand-question — ру-у-п | Meaning: questioning hand | Casual: ру-у-п | Hard: р-п | Type: midfix
+pref-finger — недопал | Meaning: prefixed finger | Casual: недопл | Hard: нал | Type: prefix
+finger-person — пализм | Meaning: finger person/thing | Casual: пализм | Hard: пзм | Type: suffix-n
+finger-adj — палский | Meaning: relating to finger | Casual: палскй | Hard: пий | Type: suffix-a
+finger-full — недопализм | Meaning: full finger thing | Casual: недоплизм | Hard: нзм | Type: affix
+finger-intense — па-и-л | Meaning: intense finger | Casual: па-и-л | Hard: п-л | Type: midfix
+finger-before — па-а-л | Meaning: before finger | Casual: па-а-л | Hard: п-л | Type: midfix
+finger-un — па-э-л | Meaning: not finger | Casual: па-э-л | Hard: п-л | Type: midfix
+finger-question — па-у-л | Meaning: questioning finger | Casual: па-у-л | Hard: п-л | Type: midfix
+pref-foot — настоп | Meaning: prefixed foot | Casual: настоп | Hard: ноп | Type: prefix
+foot-person — стопент | Meaning: foot person/thing | Casual: стпент | Hard: снт | Type: suffix-n
+foot-adj — стоповый | Meaning: relating to foot | Casual: стповый | Hard: сый | Type: suffix-a
+foot-full — настопент | Meaning: full foot thing | Casual: настопент | Hard: ннт | Type: affix
+foot-intense — сто-и-п | Meaning: intense foot | Casual: ст-и-п | Hard: с-п | Type: midfix
+foot-before — сто-а-п | Meaning: before foot | Casual: ст-а-п | Hard: с-п | Type: midfix
+foot-un — сто-э-п | Meaning: not foot | Casual: ст-э-п | Hard: с-п | Type: midfix
+foot-question — сто-у-п | Meaning: questioning foot | Casual: ст-у-п | Hard: с-п | Type: midfix
+pref-leg — центалног | Meaning: prefixed leg | Casual: центалног | Hard: цог | Type: prefix
+leg-person — ногвэйв | Meaning: leg person/thing | Casual: ногвэйв | Hard: нйв | Type: suffix-n
+leg-adj — ногический | Meaning: relating to leg | Casual: ногичскй | Hard: ний | Type: suffix-a
+leg-full — центалногвэйв | Meaning: full leg thing | Casual: центалногвэйв | Hard: цйв | Type: affix
+leg-intense — но-и-г | Meaning: intense leg | Casual: но-и-г | Hard: н-г | Type: midfix
+leg-before — но-а-г | Meaning: before leg | Casual: но-а-г | Hard: н-г | Type: midfix
+leg-un — но-э-г | Meaning: not leg | Casual: но-э-г | Hard: н-г | Type: midfix
+leg-question — но-у-г | Meaning: questioning leg | Casual: но-у-г | Hard: н-г | Type: midfix
+pref-back — бесспин | Meaning: prefixed back | Casual: бесспн | Hard: бин | Type: prefix
+back-person — спинент | Meaning: back person/thing | Casual: спнент | Hard: снт | Type: suffix-n
+back-adj — спиный | Meaning: relating to back | Casual: спный | Hard: сый | Type: suffix-a
+back-full — бесспинент | Meaning: full back thing | Casual: бесспнент | Hard: бнт | Type: affix
+back-intense — спи-и-н | Meaning: intense back | Casual: сп-и-н | Hard: с-н | Type: midfix
+back-before — спи-а-н | Meaning: before back | Casual: сп-а-н | Hard: с-н | Type: midfix
+back-un — спи-э-н | Meaning: not back | Casual: сп-э-н | Hard: с-н | Type: midfix
+back-question — спи-у-н | Meaning: questioning back | Casual: сп-у-н | Hard: с-н | Type: midfix
+pref-chest — даркгруд | Meaning: prefixed chest | Casual: даркгруд | Hard: дуд | Type: prefix
+chest-person — грудазия | Meaning: chest person/thing | Casual: грдазия | Hard: гия | Type: suffix-n
+chest-adj — грудевый | Meaning: relating to chest | Casual: грдевый | Hard: гый | Type: suffix-a
+chest-full — даркгрудазия | Meaning: full chest thing | Casual: даркгрудзи | Hard: дия | Type: affix
+chest-intense — гру-и-д | Meaning: intense chest | Casual: гр-и-д | Hard: г-д | Type: midfix
+chest-before — гру-а-д | Meaning: before chest | Casual: гр-а-д | Hard: г-д | Type: midfix
+chest-un — гру-э-д | Meaning: not chest | Casual: гр-э-д | Hard: г-д | Type: midfix
+chest-question — гру-у-д | Meaning: questioning chest | Casual: гр-у-д | Hard: г-д | Type: midfix
+pref-belly — обживот | Meaning: prefixed belly | Casual: обживт | Hard: оот | Type: prefix
+belly-person — животизм | Meaning: belly person/thing | Casual: животзм | Hard: жзм | Type: suffix-n
+belly-adj — животельный | Meaning: relating to belly | Casual: животльный | Hard: жый | Type: suffix-a
+belly-full — обживотизм | Meaning: full belly thing | Casual: обживтизм | Hard: озм | Type: affix
+belly-intense — жи-и-вот | Meaning: intense belly | Casual: жи-и-вот | Hard: жот | Type: midfix
+belly-before — жи-а-вот | Meaning: before belly | Casual: жи-а-вот | Hard: жот | Type: midfix
+belly-un — жи-э-вот | Meaning: not belly | Casual: жи-э-вот | Hard: жот | Type: midfix
+belly-question — жи-у-вот | Meaning: questioning belly | Casual: жи-у-вот | Hard: жот | Type: midfix
+pref-skin — предкож | Meaning: prefixed skin | Casual: прдкж | Hard: пож | Type: prefix
+skin-person — кожярь | Meaning: skin person/thing | Casual: кожярь | Hard: крь | Type: suffix-n
+skin-adj — кожный | Meaning: relating to skin | Casual: кожный | Hard: кый | Type: suffix-a
+skin-full — предкожярь | Meaning: full skin thing | Casual: прдкжярь | Hard: прь | Type: affix
+skin-intense — ко-и-ж | Meaning: intense skin | Casual: ко-и-ж | Hard: к-ж | Type: midfix
+skin-before — ко-а-ж | Meaning: before skin | Casual: ко-а-ж | Hard: к-ж | Type: midfix
+skin-un — ко-э-ж | Meaning: not skin | Casual: ко-э-ж | Hard: к-ж | Type: midfix
+skin-question — ко-у-ж | Meaning: questioning skin | Casual: ко-у-ж | Hard: к-ж | Type: midfix
+pref-hair — надволос | Meaning: prefixed hair | Casual: надволос | Hard: нос | Type: prefix
+hair-person — волосист | Meaning: hair person/thing | Casual: волосст | Hard: вст | Type: suffix-n
+hair-adj — волосий | Meaning: relating to hair | Casual: волосй | Hard: вий | Type: suffix-a
+hair-full — надволосист | Meaning: full hair thing | Casual: надволосст | Hard: нст | Type: affix
+hair-intense — во-и-лос | Meaning: intense hair | Casual: во-и-лос | Hard: вос | Type: midfix
+hair-before — во-а-лос | Meaning: before hair | Casual: во-а-лос | Hard: вос | Type: midfix
+hair-un — во-э-лос | Meaning: not hair | Casual: во-э-лос | Hard: вос | Type: midfix
+hair-question — во-у-лос | Meaning: questioning hair | Casual: во-у-лос | Hard: вос | Type: midfix
+pref-blood — экстракров | Meaning: prefixed blood | Casual: экстркрв | Hard: эов | Type: prefix
+blood-person — кровность | Meaning: blood person/thing | Casual: крвнсть | Hard: кть | Type: suffix-n
+blood-adj — кровевый | Meaning: relating to blood | Casual: крвевый | Hard: кый | Type: suffix-a
+blood-full — экстракровность | Meaning: full blood thing | Casual: экстркрвнсть | Hard: эть | Type: affix
+blood-intense — кро-и-в | Meaning: intense blood | Casual: кр-и-в | Hard: к-в | Type: midfix
+blood-before — кро-а-в | Meaning: before blood | Casual: кр-а-в | Hard: к-в | Type: midfix
+blood-un — кро-э-в | Meaning: not blood | Casual: кр-э-в | Hard: к-в | Type: midfix
+blood-question — кро-у-в | Meaning: questioning blood | Casual: кр-у-в | Hard: к-в | Type: midfix
+pref-heart — хайдэнсердц | Meaning: prefixed heart | Casual: хайдэнсердц | Hard: хдц | Type: prefix
+heart-person — сердцник | Meaning: heart person/thing | Casual: сердцник | Hard: сик | Type: suffix-n
+heart-adj — сердцальный | Meaning: relating to heart | Casual: сердцльный | Hard: сый | Type: suffix-a
+heart-full — хайдэнсердцник | Meaning: full heart thing | Casual: хайдэнсердцник | Hard: хик | Type: affix
+heart-intense — се-и-рдц | Meaning: intense heart | Casual: се-и-рдц | Hard: сдц | Type: midfix
+heart-before — се-а-рдц | Meaning: before heart | Casual: се-а-рдц | Hard: сдц | Type: midfix
+heart-un — се-э-рдц | Meaning: not heart | Casual: се-э-рдц | Hard: сдц | Type: midfix
+heart-question — се-у-рдц | Meaning: questioning heart | Casual: се-у-рдц | Hard: сдц | Type: midfix
+pref-brain — надмозг | Meaning: prefixed brain | Casual: надмозг | Hard: нзг | Type: prefix
+brain-person — мозгость | Meaning: brain person/thing | Casual: мозгость | Hard: мть | Type: suffix-n
+brain-adj — мозгой | Meaning: relating to brain | Casual: мозгой | Hard: мой | Type: suffix-a
+brain-full — надмозгость | Meaning: full brain thing | Casual: надмозгость | Hard: нть | Type: affix
+brain-intense — мо-и-зг | Meaning: intense brain | Casual: мо-и-зг | Hard: мзг | Type: midfix
+brain-before — мо-а-зг | Meaning: before brain | Casual: мо-а-зг | Hard: мзг | Type: midfix
+brain-un — мо-э-зг | Meaning: not brain | Casual: мо-э-зг | Hard: мзг | Type: midfix
+brain-question — мо-у-зг | Meaning: questioning brain | Casual: мо-у-зг | Hard: мзг | Type: midfix
+pref-run — прибег | Meaning: prefixed run | Casual: прбег | Hard: пег | Type: prefix
+run-person — бегдроп | Meaning: run person/thing | Casual: бегдрп | Hard: боп | Type: suffix-n
+run-adj — бегический | Meaning: relating to run | Casual: бегичскй | Hard: бий | Type: suffix-a
+run-full — прибегдроп | Meaning: full run thing | Casual: прбегдрп | Hard: поп | Type: affix
+run-intense — бе-и-г | Meaning: intense run | Casual: бе-и-г | Hard: б-г | Type: midfix
+run-before — бе-а-г | Meaning: before run | Casual: бе-а-г | Hard: б-г | Type: midfix
+run-un — бе-э-г | Meaning: not run | Casual: бе-э-г | Hard: б-г | Type: midfix
+run-question — бе-у-г | Meaning: questioning run | Casual: бе-у-г | Hard: б-г | Type: midfix
+pref-walk — мегаид | Meaning: prefixed walk | Casual: мегаид | Hard: мид | Type: prefix
+walk-person — идизм | Meaning: walk person/thing | Casual: идзм | Hard: изм | Type: suffix-n
+walk-adj — идевый | Meaning: relating to walk | Casual: идвый | Hard: иый | Type: suffix-a
+walk-full — мегаидизм | Meaning: full walk thing | Casual: мегаидизм | Hard: мзм | Type: affix
+walk-intense — и-и-д | Meaning: intense walk | Casual: и--д | Hard: и-д | Type: midfix
+walk-before — и-а-д | Meaning: before walk | Casual: и--д | Hard: и-д | Type: midfix
+walk-un — и-э-д | Meaning: not walk | Casual: и--д | Hard: и-д | Type: midfix
+walk-question — и-у-д | Meaning: questioning walk | Casual: и--д | Hard: и-д | Type: midfix
+pref-jump — репрыг | Meaning: prefixed jump | Casual: репрыг | Hard: рыг | Type: prefix
+jump-person — прыглооп | Meaning: jump person/thing | Casual: прглоп | Hard: поп | Type: suffix-n
+jump-adj — прыгтый | Meaning: relating to jump | Casual: пргтй | Hard: пый | Type: suffix-a
+jump-full — репрыглооп | Meaning: full jump thing | Casual: репрыглоп | Hard: роп | Type: affix
+jump-intense — пры-и-г | Meaning: intense jump | Casual: пр-и-г | Hard: п-г | Type: midfix
+jump-before — пры-а-г | Meaning: before jump | Casual: пр-а-г | Hard: п-г | Type: midfix
+jump-un — пры-э-г | Meaning: not jump | Casual: пр-э-г | Hard: п-г | Type: midfix
+jump-question — пры-у-г | Meaning: questioning jump | Casual: пр-у-г | Hard: п-г | Type: midfix
+pref-swim — изплыв | Meaning: prefixed swim | Casual: изплыв | Hard: иыв | Type: prefix
+swim-person — плывчик | Meaning: swim person/thing | Casual: плвчк | Hard: пик | Type: suffix-n
+swim-adj — плывной | Meaning: relating to swim | Casual: плвнй | Hard: пой | Type: suffix-a
+swim-full — изплывчик | Meaning: full swim thing | Casual: изплывчик | Hard: иик | Type: affix
+swim-intense — плы-и-в | Meaning: intense swim | Casual: пл-и-в | Hard: п-в | Type: midfix
+swim-before — плы-а-в | Meaning: before swim | Casual: пл-а-в | Hard: п-в | Type: midfix
+swim-un — плы-э-в | Meaning: not swim | Casual: пл-э-в | Hard: п-в | Type: midfix
+swim-question — плы-у-в | Meaning: questioning swim | Casual: пл-у-в | Hard: п-в | Type: midfix
+pref-fly — перелет | Meaning: prefixed fly | Casual: перелт | Hard: пет | Type: prefix
+fly-person — летдом | Meaning: fly person/thing | Casual: летдом | Hard: лом | Type: suffix-n
+fly-adj — летевый | Meaning: relating to fly | Casual: летевй | Hard: лый | Type: suffix-a
+fly-full — перелетдом | Meaning: full fly thing | Casual: перелтдм | Hard: пом | Type: affix
+fly-intense — ле-и-т | Meaning: intense fly | Casual: ле-и-т | Hard: л-т | Type: midfix
+fly-before — ле-а-т | Meaning: before fly | Casual: ле-а-т | Hard: л-т | Type: midfix
+fly-un — ле-э-т | Meaning: not fly | Casual: ле-э-т | Hard: л-т | Type: midfix
+fly-question — ле-у-т | Meaning: questioning fly | Casual: ле-у-т | Hard: л-т | Type: midfix
+pref-crawl — супэрполз | Meaning: prefixed crawl | Casual: супэрполз | Hard: слз | Type: prefix
+crawl-person — ползина | Meaning: crawl person/thing | Casual: ползина | Hard: пна | Type: suffix-n
+crawl-adj — ползеват | Meaning: relating to crawl | Casual: ползеват | Hard: пат | Type: suffix-a
+crawl-full — супэрползина | Meaning: full crawl thing | Casual: супэрползин | Hard: сна | Type: affix
+crawl-intense — по-и-лз | Meaning: intense crawl | Casual: по-и-лз | Hard: плз | Type: midfix
+crawl-before — по-а-лз | Meaning: before crawl | Casual: по-а-лз | Hard: плз | Type: midfix
+crawl-un — по-э-лз | Meaning: not crawl | Casual: по-э-лз | Hard: плз | Type: midfix
+crawl-question — по-у-лз | Meaning: questioning crawl | Casual: по-у-лз | Hard: плз | Type: midfix
+pref-dance — всетанц | Meaning: prefixed dance | Casual: встанц | Hard: внц | Type: prefix
+dance-person — танцство | Meaning: dance person/thing | Casual: танцство | Hard: тво | Type: suffix-n
+dance-adj — танцый | Meaning: relating to dance | Casual: танцый | Hard: тый | Type: suffix-a
+dance-full — всетанцство | Meaning: full dance thing | Casual: встанцство | Hard: вво | Type: affix
+dance-intense — та-и-нц | Meaning: intense dance | Casual: та-и-нц | Hard: тнц | Type: midfix
+dance-before — та-а-нц | Meaning: before dance | Casual: та-а-нц | Hard: тнц | Type: midfix
+dance-un — та-э-нц | Meaning: not dance | Casual: та-э-нц | Hard: тнц | Type: midfix
+dance-question — та-у-нц | Meaning: questioning dance | Casual: та-у-нц | Hard: тнц | Type: midfix
+pref-sing — интерпо | Meaning: prefixed sing | Casual: интерпо | Hard: ипо | Type: prefix
+sing-person — повэйв | Meaning: sing person/thing | Casual: повэйв | Hard: пйв | Type: suffix-n
+sing-adj — поевый | Meaning: relating to sing | Casual: повый | Hard: пый | Type: suffix-a
+sing-full — интерповэйв | Meaning: full sing thing | Casual: интерповйв | Hard: ийв | Type: affix
+sing-intense — по-и- | Meaning: intense sing | Casual: по-и- | Hard: пи- | Type: midfix
+sing-before — по-а- | Meaning: before sing | Casual: по-а- | Hard: па- | Type: midfix
+sing-un — по-э- | Meaning: not sing | Casual: по-э- | Hard: пэ- | Type: midfix
+sing-question — по-у- | Meaning: questioning sing | Casual: по-у- | Hard: пу- | Type: midfix
+pref-shout — интеркрик | Meaning: prefixed shout | Casual: интеркрик | Hard: иик | Type: prefix
+shout-person — криктель | Meaning: shout person/thing | Casual: крктль | Hard: кль | Type: suffix-n
+shout-adj — крикий | Meaning: relating to shout | Casual: кркий | Hard: кий | Type: suffix-a
+shout-full — интеркриктель | Meaning: full shout thing | Casual: интеркриктель | Hard: иль | Type: affix
+shout-intense — кри-и-к | Meaning: intense shout | Casual: кр-и-к | Hard: к-к | Type: midfix
+shout-before — кри-а-к | Meaning: before shout | Casual: кр-а-к | Hard: к-к | Type: midfix
+shout-un — кри-э-к | Meaning: not shout | Casual: кр-э-к | Hard: к-к | Type: midfix
+shout-question — кри-у-к | Meaning: questioning shout | Casual: кр-у-к | Hard: к-к | Type: midfix
+pref-whisper — антишепт | Meaning: prefixed whisper | Casual: антишпт | Hard: апт | Type: prefix
+whisper-person — шептник | Meaning: whisper person/thing | Casual: шептнк | Hard: шик | Type: suffix-n
+whisper-adj — шептальный | Meaning: relating to whisper | Casual: шептальнй | Hard: шый | Type: suffix-a
+whisper-full — антишептник | Meaning: full whisper thing | Casual: антишптник | Hard: аик | Type: affix
+whisper-intense — ше-и-пт | Meaning: intense whisper | Casual: ше-и-пт | Hard: шпт | Type: midfix
+whisper-before — ше-а-пт | Meaning: before whisper | Casual: ше-а-пт | Hard: шпт | Type: midfix
+whisper-un — ше-э-пт | Meaning: not whisper | Casual: ше-э-пт | Hard: шпт | Type: midfix
+whisper-question — ше-у-пт | Meaning: questioning whisper | Casual: ше-у-пт | Hard: шпт | Type: midfix
+pref-laugh — полусмех | Meaning: prefixed laugh | Casual: полусмех | Hard: пех | Type: prefix
+laugh-person — смехец | Meaning: laugh person/thing | Casual: смхец | Hard: сец | Type: suffix-n
+laugh-adj — смехевый | Meaning: relating to laugh | Casual: смхевый | Hard: сый | Type: suffix-a
+laugh-full — полусмехец | Meaning: full laugh thing | Casual: полусмехц | Hard: пец | Type: affix
+laugh-intense — сме-и-х | Meaning: intense laugh | Casual: см-и-х | Hard: с-х | Type: midfix
+laugh-before — сме-а-х | Meaning: before laugh | Casual: см-а-х | Hard: с-х | Type: midfix
+laugh-un — сме-э-х | Meaning: not laugh | Casual: см-э-х | Hard: с-х | Type: midfix
+laugh-question — сме-у-х | Meaning: questioning laugh | Casual: см-у-х | Hard: с-х | Type: midfix
+pref-cry — хардплач | Meaning: prefixed cry | Casual: хардплач | Hard: хач | Type: prefix
+cry-person — плачер | Meaning: cry person/thing | Casual: плчер | Hard: пер | Type: suffix-n
+cry-adj — плачной | Meaning: relating to cry | Casual: плчнй | Hard: пой | Type: suffix-a
+cry-full — хардплачер | Meaning: full cry thing | Casual: хардплачр | Hard: хер | Type: affix
+cry-intense — пла-и-ч | Meaning: intense cry | Casual: пл-и-ч | Hard: п-ч | Type: midfix
+cry-before — пла-а-ч | Meaning: before cry | Casual: пл-а-ч | Hard: п-ч | Type: midfix
+cry-un — пла-э-ч | Meaning: not cry | Casual: пл-э-ч | Hard: п-ч | Type: midfix
+cry-question — пла-у-ч | Meaning: questioning cry | Casual: пл-у-ч | Hard: п-ч | Type: midfix
+pref-push — локалтолк | Meaning: prefixed push | Casual: локалтолк | Hard: ллк | Type: prefix
+push-person — толквэйв | Meaning: push person/thing | Casual: толквйв | Hard: тйв | Type: suffix-n
+push-adj — толкальный | Meaning: relating to push | Casual: толкальнй | Hard: тый | Type: suffix-a
+push-full — локалтолквэйв | Meaning: full push thing | Casual: локалтолквэйв | Hard: лйв | Type: affix
+push-intense — то-и-лк | Meaning: intense push | Casual: то-и-лк | Hard: тлк | Type: midfix
+push-before — то-а-лк | Meaning: before push | Casual: то-а-лк | Hard: тлк | Type: midfix
+push-un — то-э-лк | Meaning: not push | Casual: то-э-лк | Hard: тлк | Type: midfix
+push-question — то-у-лк | Meaning: questioning push | Casual: то-у-лк | Hard: тлк | Type: midfix
+pref-pull — притяг | Meaning: prefixed pull | Casual: пртяг | Hard: пяг | Type: prefix
+pull-person — тягмод | Meaning: pull person/thing | Casual: тягмод | Hard: тод | Type: suffix-n
+pull-adj — тягский | Meaning: relating to pull | Casual: тягскй | Hard: тий | Type: suffix-a
+pull-full — притягмод | Meaning: full pull thing | Casual: пртягмод | Hard: под | Type: affix
+pull-intense — тя-и-г | Meaning: intense pull | Casual: тя-и-г | Hard: т-г | Type: midfix
+pull-before — тя-а-г | Meaning: before pull | Casual: тя-а-г | Hard: т-г | Type: midfix
+pull-un — тя-э-г | Meaning: not pull | Casual: тя-э-г | Hard: т-г | Type: midfix
+pull-question — тя-у-г | Meaning: questioning pull | Casual: тя-у-г | Hard: т-г | Type: midfix
+pref-lift — приподн | Meaning: prefixed lift | Casual: прподн | Hard: пдн | Type: prefix
+lift-person — поднура | Meaning: lift person/thing | Casual: поднура | Hard: пра | Type: suffix-n
+lift-adj — поднный | Meaning: relating to lift | Casual: подннй | Hard: пый | Type: suffix-a
+lift-full — приподнура | Meaning: full lift thing | Casual: прподнура | Hard: пра | Type: affix
+lift-intense — по-и-дн | Meaning: intense lift | Casual: по-и-дн | Hard: пдн | Type: midfix
+lift-before — по-а-дн | Meaning: before lift | Casual: по-а-дн | Hard: пдн | Type: midfix
+lift-un — по-э-дн | Meaning: not lift | Casual: по-э-дн | Hard: пдн | Type: midfix
+lift-question — по-у-дн | Meaning: questioning lift | Casual: по-у-дн | Hard: пдн | Type: midfix
+pref-throw — антиброс | Meaning: prefixed throw | Casual: антиброс | Hard: аос | Type: prefix
+throw-person — бросура | Meaning: throw person/thing | Casual: брсура | Hard: бра | Type: suffix-n
+throw-adj — бросский | Meaning: relating to throw | Casual: брсский | Hard: бий | Type: suffix-a
+throw-full — антибросура | Meaning: full throw thing | Casual: антибросра | Hard: ара | Type: affix
+throw-intense — бро-и-с | Meaning: intense throw | Casual: бр-и-с | Hard: б-с | Type: midfix
+throw-before — бро-а-с | Meaning: before throw | Casual: бр-а-с | Hard: б-с | Type: midfix
+throw-un — бро-э-с | Meaning: not throw | Casual: бр-э-с | Hard: б-с | Type: midfix
+throw-question — бро-у-с | Meaning: questioning throw | Casual: бр-у-с | Hard: б-с | Type: midfix
+pref-catch — безлов | Meaning: prefixed catch | Casual: безлов | Hard: бов | Type: prefix
+catch-person — ловдроп | Meaning: catch person/thing | Casual: ловдрп | Hard: лоп | Type: suffix-n
+catch-adj — ловный | Meaning: relating to catch | Casual: ловный | Hard: лый | Type: suffix-a
+catch-full — безловдроп | Meaning: full catch thing | Casual: безловдрп | Hard: боп | Type: affix
+catch-intense — ло-и-в | Meaning: intense catch | Casual: ло-и-в | Hard: л-в | Type: midfix
+catch-before — ло-а-в | Meaning: before catch | Casual: ло-а-в | Hard: л-в | Type: midfix
+catch-un — ло-э-в | Meaning: not catch | Casual: ло-э-в | Hard: л-в | Type: midfix
+catch-question — ло-у-в | Meaning: questioning catch | Casual: ло-у-в | Hard: л-в | Type: midfix
+pref-cut — взреж | Meaning: prefixed cut | Casual: взреж | Hard: веж | Type: prefix
+cut-person — режность | Meaning: cut person/thing | Casual: режность | Hard: рть | Type: suffix-n
+cut-adj — режельный | Meaning: relating to cut | Casual: режельный | Hard: рый | Type: suffix-a
+cut-full — взрежность | Meaning: full cut thing | Casual: взрежность | Hard: вть | Type: affix
+cut-intense — ре-и-ж | Meaning: intense cut | Casual: ре-и-ж | Hard: р-ж | Type: midfix
+cut-before — ре-а-ж | Meaning: before cut | Casual: ре-а-ж | Hard: р-ж | Type: midfix
+cut-un — ре-э-ж | Meaning: not cut | Casual: ре-э-ж | Hard: р-ж | Type: midfix
+cut-question — ре-у-ж | Meaning: questioning cut | Casual: ре-у-ж | Hard: р-ж | Type: midfix
+pref-break — налом | Meaning: prefixed break | Casual: налом | Hard: ном | Type: prefix
+break-person — ломина | Meaning: break person/thing | Casual: ломин | Hard: лна | Type: suffix-n
+break-adj — ломский | Meaning: relating to break | Casual: ломскй | Hard: лий | Type: suffix-a
+break-full — наломина | Meaning: full break thing | Casual: наломна | Hard: нна | Type: affix
+break-intense — ло-и-м | Meaning: intense break | Casual: ло-и-м | Hard: л-м | Type: midfix
+break-before — ло-а-м | Meaning: before break | Casual: ло-а-м | Hard: л-м | Type: midfix
+break-un — ло-э-м | Meaning: not break | Casual: ло-э-м | Hard: л-м | Type: midfix
+break-question — ло-у-м | Meaning: questioning break | Casual: ло-у-м | Hard: л-м | Type: midfix
+pref-build — недостр | Meaning: prefixed build | Casual: недостр | Hard: нтр | Type: prefix
+build-person — струля | Meaning: build person/thing | Casual: струл | Hard: сля | Type: suffix-n
+build-adj — стровый | Meaning: relating to build | Casual: стровй | Hard: сый | Type: suffix-a
+build-full — недоструля | Meaning: full build thing | Casual: недоструля | Hard: нля | Type: affix
+build-intense — стр-и- | Meaning: intense build | Casual: стр-и- | Hard: си- | Type: midfix
+build-before — стр-а- | Meaning: before build | Casual: стр-а- | Hard: са- | Type: midfix
+build-un — стр-э- | Meaning: not build | Casual: стр-э- | Hard: сэ- | Type: midfix
+build-question — стр-у- | Meaning: questioning build | Casual: стр-у- | Hard: су- | Type: midfix
+pref-fix — недочин | Meaning: prefixed fix | Casual: недочн | Hard: нин | Type: prefix
+fix-person — чинуля | Meaning: fix person/thing | Casual: чинул | Hard: чля | Type: suffix-n
+fix-adj — чинический | Meaning: relating to fix | Casual: чиничскй | Hard: чий | Type: suffix-a
+fix-full — недочинуля | Meaning: full fix thing | Casual: недочнуля | Hard: нля | Type: affix
+fix-intense — чи-и-н | Meaning: intense fix | Casual: чи-и-н | Hard: ч-н | Type: midfix
+fix-before — чи-а-н | Meaning: before fix | Casual: чи-а-н | Hard: ч-н | Type: midfix
+fix-un — чи-э-н | Meaning: not fix | Casual: чи-э-н | Hard: ч-н | Type: midfix
+fix-question — чи-у-н | Meaning: questioning fix | Casual: чи-у-н | Hard: ч-н | Type: midfix
+pref-create — мегасозд | Meaning: prefixed create | Casual: мегасзд | Hard: мзд | Type: prefix
+create-person — создизм | Meaning: create person/thing | Casual: создизм | Hard: сзм | Type: suffix-n
+create-adj — создный | Meaning: relating to create | Casual: созднй | Hard: сый | Type: suffix-a
+create-full — мегасоздизм | Meaning: full create thing | Casual: мегасздзм | Hard: мзм | Type: affix
+create-intense — со-и-зд | Meaning: intense create | Casual: со-и-зд | Hard: сзд | Type: midfix
+create-before — со-а-зд | Meaning: before create | Casual: со-а-зд | Hard: сзд | Type: midfix
+create-un — со-э-зд | Meaning: not create | Casual: со-э-зд | Hard: сзд | Type: midfix
+create-question — со-у-зд | Meaning: questioning create | Casual: со-у-зд | Hard: сзд | Type: midfix
+pref-destroy — двуразр | Meaning: prefixed destroy | Casual: двразр | Hard: дзр | Type: prefix
+destroy-person — разрение | Meaning: destroy person/thing | Casual: разрение | Hard: рие | Type: suffix-n
+destroy-adj — разрой | Meaning: relating to destroy | Casual: разрой | Hard: рой | Type: suffix-a
+destroy-full — двуразрение | Meaning: full destroy thing | Casual: двразрение | Hard: дие | Type: affix
+destroy-intense — ра-и-зр | Meaning: intense destroy | Casual: ра-и-зр | Hard: рзр | Type: midfix
+destroy-before — ра-а-зр | Meaning: before destroy | Casual: ра-а-зр | Hard: рзр | Type: midfix
+destroy-un — ра-э-зр | Meaning: not destroy | Casual: ра-э-зр | Hard: рзр | Type: midfix
+destroy-question — ра-у-зр | Meaning: questioning destroy | Casual: ра-у-зр | Hard: рзр | Type: midfix
+pref-find — ультранаход | Meaning: prefixed find | Casual: ультрнаход | Hard: уод | Type: prefix
+find-person — находмод | Meaning: find person/thing | Casual: находмод | Hard: нод | Type: suffix-n
+find-adj — находной | Meaning: relating to find | Casual: находной | Hard: ной | Type: suffix-a
+find-full — ультранаходмод | Meaning: full find thing | Casual: ультрнаходмод | Hard: уод | Type: affix
+find-intense — на-и-ход | Meaning: intense find | Casual: на-и-ход | Hard: нод | Type: midfix
+find-before — на-а-ход | Meaning: before find | Casual: на-а-ход | Hard: нод | Type: midfix
+find-un — на-э-ход | Meaning: not find | Casual: на-э-ход | Hard: нод | Type: midfix
+find-question — на-у-ход | Meaning: questioning find | Casual: на-у-ход | Hard: нод | Type: midfix
+pref-lose — безтеря | Meaning: prefixed lose | Casual: безтеря | Hard: бря | Type: prefix
+lose-person — теряуля | Meaning: lose person/thing | Casual: теряуля | Hard: тля | Type: suffix-n
+lose-adj — теряевый | Meaning: relating to lose | Casual: теряевый | Hard: тый | Type: suffix-a
+lose-full — безтеряуля | Meaning: full lose thing | Casual: безтеряуля | Hard: бля | Type: affix
+lose-intense — те-и-ря | Meaning: intense lose | Casual: те-и-ря | Hard: тря | Type: midfix
+lose-before — те-а-ря | Meaning: before lose | Casual: те-а-ря | Hard: тря | Type: midfix
+lose-un — те-э-ря | Meaning: not lose | Casual: те-э-ря | Hard: тря | Type: midfix
+lose-question — те-у-ря | Meaning: questioning lose | Casual: те-у-ря | Hard: тря | Type: midfix
+pref-keep — мегахрани | Meaning: prefixed keep | Casual: мегахран | Hard: мни | Type: prefix
+keep-person — храниность | Meaning: keep person/thing | Casual: хрниность | Hard: хть | Type: suffix-n
+keep-adj — хранитый | Meaning: relating to keep | Casual: хрнитый | Hard: хый | Type: suffix-a
+keep-full — мегахраниность | Meaning: full keep thing | Casual: мегахранность | Hard: мть | Type: affix
+keep-intense — хра-и-ни | Meaning: intense keep | Casual: хр-и-ни | Hard: хни | Type: midfix
+keep-before — хра-а-ни | Meaning: before keep | Casual: хр-а-ни | Hard: хни | Type: midfix
+keep-un — хра-э-ни | Meaning: not keep | Casual: хр-э-ни | Hard: хни | Type: midfix
+keep-question — хра-у-ни | Meaning: questioning keep | Casual: хр-у-ни | Hard: хни | Type: midfix
+pref-give — обдав | Meaning: prefixed give | Casual: обдав | Hard: оав | Type: prefix
+give-person — давчик | Meaning: give person/thing | Casual: давчик | Hard: дик | Type: suffix-n
+give-adj — давый | Meaning: relating to give | Casual: давый | Hard: дый | Type: suffix-a
+give-full — обдавчик | Meaning: full give thing | Casual: обдавчик | Hard: оик | Type: affix
+give-intense — да-и-в | Meaning: intense give | Casual: да-и-в | Hard: д-в | Type: midfix
+give-before — да-а-в | Meaning: before give | Casual: да-а-в | Hard: д-в | Type: midfix
+give-un — да-э-в | Meaning: not give | Casual: да-э-в | Hard: д-в | Type: midfix
+give-question — да-у-в | Meaning: questioning give | Casual: да-у-в | Hard: д-в | Type: midfix
+pref-take — полубер | Meaning: prefixed take | Casual: полубр | Hard: пер | Type: prefix
+take-person — берник | Meaning: take person/thing | Casual: берник | Hard: бик | Type: suffix-n
+take-adj — берий | Meaning: relating to take | Casual: берий | Hard: бий | Type: suffix-a
+take-full — полуберник | Meaning: full take thing | Casual: полубрнк | Hard: пик | Type: affix
+take-intense — бе-и-р | Meaning: intense take | Casual: бе-и-р | Hard: б-р | Type: midfix
+take-before — бе-а-р | Meaning: before take | Casual: бе-а-р | Hard: б-р | Type: midfix
+take-un — бе-э-р | Meaning: not take | Casual: бе-э-р | Hard: б-р | Type: midfix
+take-question — бе-у-р | Meaning: questioning take | Casual: бе-у-р | Hard: б-р | Type: midfix
+pref-show — обпоказ | Meaning: prefixed show | Casual: обпокз | Hard: оаз | Type: prefix
+show-person — показдом | Meaning: show person/thing | Casual: показдом | Hard: пом | Type: suffix-n
+show-adj — показовый | Meaning: relating to show | Casual: показвый | Hard: пый | Type: suffix-a
+show-full — обпоказдом | Meaning: full show thing | Casual: обпокздм | Hard: оом | Type: affix
+show-intense — по-и-каз | Meaning: intense show | Casual: по-и-каз | Hard: паз | Type: midfix
+show-before — по-а-каз | Meaning: before show | Casual: по-а-каз | Hard: паз | Type: midfix
+show-un — по-э-каз | Meaning: not show | Casual: по-э-каз | Hard: паз | Type: midfix
+show-question — по-у-каз | Meaning: questioning show | Casual: по-у-каз | Hard: паз | Type: midfix
+pref-hide — напря | Meaning: prefixed hide | Casual: напря | Hard: нря | Type: prefix
+hide-person — пряуля | Meaning: hide person/thing | Casual: прул | Hard: пля | Type: suffix-n
+hide-adj — пряый | Meaning: relating to hide | Casual: прый | Hard: пый | Type: suffix-a
+hide-full — напряуля | Meaning: full hide thing | Casual: напряля | Hard: нля | Type: affix
+hide-intense — пря-и- | Meaning: intense hide | Casual: пр-и- | Hard: пи- | Type: midfix
+hide-before — пря-а- | Meaning: before hide | Casual: пр-а- | Hard: па- | Type: midfix
+hide-un — пря-э- | Meaning: not hide | Casual: пр-э- | Hard: пэ- | Type: midfix
+hide-question — пря-у- | Meaning: questioning hide | Casual: пр-у- | Hard: пу- | Type: midfix
+pref-speak — подговор | Meaning: prefixed speak | Casual: подговор | Hard: пор | Type: prefix
+speak-person — говормод | Meaning: speak person/thing | Casual: говормод | Hard: год | Type: suffix-n
+speak-adj — говореват | Meaning: relating to speak | Casual: говорват | Hard: гат | Type: suffix-a
+speak-full — подговормод | Meaning: full speak thing | Casual: подговормод | Hard: под | Type: affix
+speak-intense — го-и-вор | Meaning: intense speak | Casual: го-и-вор | Hard: гор | Type: midfix
+speak-before — го-а-вор | Meaning: before speak | Casual: го-а-вор | Hard: гор | Type: midfix
+speak-un — го-э-вор | Meaning: not speak | Casual: го-э-вор | Hard: гор | Type: midfix
+speak-question — го-у-вор | Meaning: questioning speak | Casual: го-у-вор | Hard: гор | Type: midfix
+pref-listen — антислуш | Meaning: prefixed listen | Casual: антислуш | Hard: ауш | Type: prefix
+listen-person — слушость | Meaning: listen person/thing | Casual: слшость | Hard: сть | Type: suffix-n
+listen-adj — слушый | Meaning: relating to listen | Casual: слшый | Hard: сый | Type: suffix-a
+listen-full — антислушость | Meaning: full listen thing | Casual: антислушсть | Hard: ать | Type: affix
+listen-intense — слу-и-ш | Meaning: intense listen | Casual: сл-и-ш | Hard: с-ш | Type: midfix
+listen-before — слу-а-ш | Meaning: before listen | Casual: сл-а-ш | Hard: с-ш | Type: midfix
+listen-un — слу-э-ш | Meaning: not listen | Casual: сл-э-ш | Hard: с-ш | Type: midfix
+listen-question — слу-у-ш | Meaning: questioning listen | Casual: сл-у-ш | Hard: с-ш | Type: midfix
+pref-read — глобалчит | Meaning: prefixed read | Casual: глбалчит | Hard: гит | Type: prefix
+read-person — читость | Meaning: read person/thing | Casual: читость | Hard: чть | Type: suffix-n
+read-adj — читеват | Meaning: relating to read | Casual: читевт | Hard: чат | Type: suffix-a
+read-full — глобалчитость | Meaning: full read thing | Casual: глбалчитость | Hard: гть | Type: affix
+read-intense — чи-и-т | Meaning: intense read | Casual: чи-и-т | Hard: ч-т | Type: midfix
+read-before — чи-а-т | Meaning: before read | Casual: чи-а-т | Hard: ч-т | Type: midfix
+read-un — чи-э-т | Meaning: not read | Casual: чи-э-т | Hard: ч-т | Type: midfix
+read-question — чи-у-т | Meaning: questioning read | Casual: чи-у-т | Hard: ч-т | Type: midfix
+pref-write — напис | Meaning: prefixed write | Casual: напис | Hard: нис | Type: prefix
+write-person — писдом | Meaning: write person/thing | Casual: писдом | Hard: пом | Type: suffix-n
+write-adj — писовый | Meaning: relating to write | Casual: писовй | Hard: пый | Type: suffix-a
+write-full — написдом | Meaning: full write thing | Casual: написдом | Hard: ном | Type: affix
+write-intense — пи-и-с | Meaning: intense write | Casual: пи-и-с | Hard: п-с | Type: midfix
+write-before — пи-а-с | Meaning: before write | Casual: пи-а-с | Hard: п-с | Type: midfix
+write-un — пи-э-с | Meaning: not write | Casual: пи-э-с | Hard: п-с | Type: midfix
+write-question — пи-у-с | Meaning: questioning write | Casual: пи-у-с | Hard: п-с | Type: midfix
+pref-think — надум | Meaning: prefixed think | Casual: надум | Hard: нум | Type: prefix
+think-person — думизм | Meaning: think person/thing | Casual: думизм | Hard: дзм | Type: suffix-n
+think-adj — думевый | Meaning: relating to think | Casual: думевй | Hard: дый | Type: suffix-a
+think-full — надумизм | Meaning: full think thing | Casual: надумзм | Hard: нзм | Type: affix
+think-intense — ду-и-м | Meaning: intense think | Casual: ду-и-м | Hard: д-м | Type: midfix
+think-before — ду-а-м | Meaning: before think | Casual: ду-а-м | Hard: д-м | Type: midfix
+think-un — ду-э-м | Meaning: not think | Casual: ду-э-м | Hard: д-м | Type: midfix
+think-question — ду-у-м | Meaning: questioning think | Casual: ду-у-м | Hard: д-м | Type: midfix
+pref-know — нэозна | Meaning: prefixed know | Casual: нэзн | Hard: нна | Type: prefix
+know-person — зналооп | Meaning: know person/thing | Casual: знлоп | Hard: зоп | Type: suffix-n
+know-adj — знаой | Meaning: relating to know | Casual: зной | Hard: зой | Type: suffix-a
+know-full — нэозналооп | Meaning: full know thing | Casual: нэзнлоп | Hard: ноп | Type: affix
+know-intense — зна-и- | Meaning: intense know | Casual: зн-и- | Hard: зи- | Type: midfix
+know-before — зна-а- | Meaning: before know | Casual: зн-а- | Hard: за- | Type: midfix
+know-un — зна-э- | Meaning: not know | Casual: зн-э- | Hard: зэ- | Type: midfix
+know-question — зна-у- | Meaning: questioning know | Casual: зн-у- | Hard: зу- | Type: midfix
+pref-believe — недовер | Meaning: prefixed believe | Casual: недовр | Hard: нер | Type: prefix
+believe-person — верица | Meaning: believe person/thing | Casual: вериц | Hard: вца | Type: suffix-n
+believe-adj — веровый | Meaning: relating to believe | Casual: веровй | Hard: вый | Type: suffix-a
+believe-full — недоверица | Meaning: full believe thing | Casual: недоврица | Hard: нца | Type: affix
+believe-intense — ве-и-р | Meaning: intense believe | Casual: ве-и-р | Hard: в-р | Type: midfix
+believe-before — ве-а-р | Meaning: before believe | Casual: ве-а-р | Hard: в-р | Type: midfix
+believe-un — ве-э-р | Meaning: not believe | Casual: ве-э-р | Hard: в-р | Type: midfix
+believe-question — ве-у-р | Meaning: questioning believe | Casual: ве-у-р | Hard: в-р | Type: midfix
+pref-understand — напоним | Meaning: prefixed understand | Casual: напонм | Hard: ним | Type: prefix
+understand-person — понимзона | Meaning: understand person/thing | Casual: понимзон | Hard: пна | Type: suffix-n
+understand-adj — понимовый | Meaning: relating to understand | Casual: понимвый | Hard: пый | Type: suffix-a
+understand-full — напонимзона | Meaning: full understand thing | Casual: напонмзна | Hard: нна | Type: affix
+understand-intense — по-и-ним | Meaning: intense understand | Casual: по-и-ним | Hard: пим | Type: midfix
+understand-before — по-а-ним | Meaning: before understand | Casual: по-а-ним | Hard: пим | Type: midfix
+understand-un — по-э-ним | Meaning: not understand | Casual: по-э-ним | Hard: пим | Type: midfix
+understand-question — по-у-ним | Meaning: questioning understand | Casual: по-у-ним | Hard: пим | Type: midfix
+pref-forget — резаб | Meaning: prefixed forget | Casual: резаб | Hard: раб | Type: prefix
+forget-person — забдроп | Meaning: forget person/thing | Casual: забдрп | Hard: зоп | Type: suffix-n
+forget-adj — забский | Meaning: relating to forget | Casual: забскй | Hard: зий | Type: suffix-a
+forget-full — резабдроп | Meaning: full forget thing | Casual: резабдроп | Hard: роп | Type: affix
+forget-intense — за-и-б | Meaning: intense forget | Casual: за-и-б | Hard: з-б | Type: midfix
+forget-before — за-а-б | Meaning: before forget | Casual: за-а-б | Hard: з-б | Type: midfix
+forget-un — за-э-б | Meaning: not forget | Casual: за-э-б | Hard: з-б | Type: midfix
+forget-question — за-у-б | Meaning: questioning forget | Casual: за-у-б | Hard: з-б | Type: midfix
+pref-remember — антипомн | Meaning: prefixed remember | Casual: антипмн | Hard: амн | Type: prefix
+remember-person — помнуля | Meaning: remember person/thing | Casual: помнуля | Hard: пля | Type: suffix-n
+remember-adj — помный | Meaning: relating to remember | Casual: помный | Hard: пый | Type: suffix-a
+remember-full — антипомнуля | Meaning: full remember thing | Casual: антипмнля | Hard: аля | Type: affix
+remember-intense — по-и-мн | Meaning: intense remember | Casual: по-и-мн | Hard: пмн | Type: midfix
+remember-before — по-а-мн | Meaning: before remember | Casual: по-а-мн | Hard: пмн | Type: midfix
+remember-un — по-э-мн | Meaning: not remember | Casual: по-э-мн | Hard: пмн | Type: midfix
+remember-question — по-у-мн | Meaning: questioning remember | Casual: по-у-мн | Hard: пмн | Type: midfix
+pref-hope — софтнаде | Meaning: prefixed hope | Casual: софтнде | Hard: сде | Type: prefix
+hope-person — надеина | Meaning: hope person/thing | Casual: надеина | Hard: нна | Type: suffix-n
+hope-adj — надетый | Meaning: relating to hope | Casual: надетй | Hard: ный | Type: suffix-a
+hope-full — софтнадеина | Meaning: full hope thing | Casual: софтндена | Hard: сна | Type: affix
+hope-intense — на-и-де | Meaning: intense hope | Casual: на-и-де | Hard: нде | Type: midfix
+hope-before — на-а-де | Meaning: before hope | Casual: на-а-де | Hard: нде | Type: midfix
+hope-un — на-э-де | Meaning: not hope | Casual: на-э-де | Hard: нде | Type: midfix
+hope-question — на-у-де | Meaning: questioning hope | Casual: на-у-де | Hard: нде | Type: midfix
+pref-fear — бесбой | Meaning: prefixed fear | Casual: бесбой | Hard: бой | Type: prefix
+fear-person — бойлооп | Meaning: fear person/thing | Casual: бойлоп | Hard: боп | Type: suffix-n
+fear-adj — бойий | Meaning: relating to fear | Casual: бойий | Hard: бий | Type: suffix-a
+fear-full — бесбойлооп | Meaning: full fear thing | Casual: бесбойлоп | Hard: боп | Type: affix
+fear-intense — бо-и-й | Meaning: intense fear | Casual: бо-и-й | Hard: б-й | Type: midfix
+fear-before — бо-а-й | Meaning: before fear | Casual: бо-а-й | Hard: б-й | Type: midfix
+fear-un — бо-э-й | Meaning: not fear | Casual: бо-э-й | Hard: б-й | Type: midfix
+fear-question — бо-у-й | Meaning: questioning fear | Casual: бо-у-й | Hard: б-й | Type: midfix
+pref-love — взлюб | Meaning: prefixed love | Casual: взлюб | Hard: вюб | Type: prefix
+love-person — любент | Meaning: love person/thing | Casual: любент | Hard: лнт | Type: suffix-n
+love-adj — любтый | Meaning: relating to love | Casual: любтый | Hard: лый | Type: suffix-a
+love-full — взлюбент | Meaning: full love thing | Casual: взлюбнт | Hard: внт | Type: affix
+love-intense — лю-и-б | Meaning: intense love | Casual: лю-и-б | Hard: л-б | Type: midfix
+love-before — лю-а-б | Meaning: before love | Casual: лю-а-б | Hard: л-б | Type: midfix
+love-un — лю-э-б | Meaning: not love | Casual: лю-э-б | Hard: л-б | Type: midfix
+love-question — лю-у-б | Meaning: questioning love | Casual: лю-у-б | Hard: л-б | Type: midfix
+pref-hate — бесненавид | Meaning: prefixed hate | Casual: бесненавд | Hard: бид | Type: prefix
+hate-person — ненавидание | Meaning: hate person/thing | Casual: ненавдание | Hard: ние | Type: suffix-n
+hate-adj — ненавидный | Meaning: relating to hate | Casual: ненавднй | Hard: ный | Type: suffix-a
+hate-full — бесненавидание | Meaning: full hate thing | Casual: бесненавдание | Hard: бие | Type: affix
+hate-intense — не-и-навид | Meaning: intense hate | Casual: не-и-навд | Hard: нид | Type: midfix
+hate-before — не-а-навид | Meaning: before hate | Casual: не-а-навд | Hard: нид | Type: midfix
+hate-un — не-э-навид | Meaning: not hate | Casual: не-э-навд | Hard: нид | Type: midfix
+hate-question — не-у-навид | Meaning: questioning hate | Casual: не-у-навд | Hard: нид | Type: midfix
+pref-miss — центалскуч | Meaning: prefixed miss | Casual: центалскч | Hard: цуч | Type: prefix
+miss-person — скуччик | Meaning: miss person/thing | Casual: скччк | Hard: сик | Type: suffix-n
+miss-adj — скучевый | Meaning: relating to miss | Casual: скчевый | Hard: сый | Type: suffix-a
+miss-full — центалскуччик | Meaning: full miss thing | Casual: центалскччк | Hard: цик | Type: affix
+miss-intense — ску-и-ч | Meaning: intense miss | Casual: ск-и-ч | Hard: с-ч | Type: midfix
+miss-before — ску-а-ч | Meaning: before miss | Casual: ск-а-ч | Hard: с-ч | Type: midfix
+miss-un — ску-э-ч | Meaning: not miss | Casual: ск-э-ч | Hard: с-ч | Type: midfix
+miss-question — ску-у-ч | Meaning: questioning miss | Casual: ск-у-ч | Hard: с-ч | Type: midfix
+pref-enjoy — софтнаслажд | Meaning: prefixed enjoy | Casual: софтнслжд | Hard: сжд | Type: prefix
+enjoy-person — наслаждер | Meaning: enjoy person/thing | Casual: наслаждер | Hard: нер | Type: suffix-n
+enjoy-adj — наслаждельный | Meaning: relating to enjoy | Casual: наслаждельнй | Hard: ный | Type: suffix-a
+enjoy-full — софтнаслаждер | Meaning: full enjoy thing | Casual: софтнслждр | Hard: сер | Type: affix
+enjoy-intense — на-и-слажд | Meaning: intense enjoy | Casual: на-и-слажд | Hard: нжд | Type: midfix
+enjoy-before — на-а-слажд | Meaning: before enjoy | Casual: на-а-слажд | Hard: нжд | Type: midfix
+enjoy-un — на-э-слажд | Meaning: not enjoy | Casual: на-э-слажд | Hard: нжд | Type: midfix
+enjoy-question — на-у-слажд | Meaning: questioning enjoy | Casual: на-у-слажд | Hard: нжд | Type: midfix
+pref-suffer — хайдэнстрад | Meaning: prefixed suffer | Casual: хайдэнстрад | Hard: хад | Type: prefix
+suffer-person — страдец | Meaning: suffer person/thing | Casual: страдц | Hard: сец | Type: suffix-n
+suffer-adj — страдевый | Meaning: relating to suffer | Casual: страдвый | Hard: сый | Type: suffix-a
+suffer-full — хайдэнстрадец | Meaning: full suffer thing | Casual: хайдэнстрадц | Hard: хец | Type: affix
+suffer-intense — стра-и-д | Meaning: intense suffer | Casual: стра--д | Hard: с-д | Type: midfix
+suffer-before — стра-а-д | Meaning: before suffer | Casual: стра--д | Hard: с-д | Type: midfix
+suffer-un — стра-э-д | Meaning: not suffer | Casual: стра--д | Hard: с-д | Type: midfix
+suffer-question — стра-у-д | Meaning: questioning suffer | Casual: стра--д | Hard: с-д | Type: midfix
+pref-heal — вззажив | Meaning: prefixed heal | Casual: вззажв | Hard: вив | Type: prefix
+heal-person — заживмод | Meaning: heal person/thing | Casual: заживмод | Hard: зод | Type: suffix-n
+heal-adj — заживеват | Meaning: relating to heal | Casual: заживват | Hard: зат | Type: suffix-a
+heal-full — вззаживмод | Meaning: full heal thing | Casual: вззажвмд | Hard: вод | Type: affix
+heal-intense — за-и-жив | Meaning: intense heal | Casual: за-и-жив | Hard: зив | Type: midfix
+heal-before — за-а-жив | Meaning: before heal | Casual: за-а-жив | Hard: зив | Type: midfix
+heal-un — за-э-жив | Meaning: not heal | Casual: за-э-жив | Hard: зив | Type: midfix
+heal-question — за-у-жив | Meaning: questioning heal | Casual: за-у-жив | Hard: зив | Type: midfix
+pref-grow — израст | Meaning: prefixed grow | Casual: израст | Hard: ист | Type: prefix
+grow-person — растик | Meaning: grow person/thing | Casual: растик | Hard: рик | Type: suffix-n
+grow-adj — растевый | Meaning: relating to grow | Casual: растевый | Hard: рый | Type: suffix-a
+grow-full — израстик | Meaning: full grow thing | Casual: израстик | Hard: иик | Type: affix
+grow-intense — ра-и-ст | Meaning: intense grow | Casual: ра-и-ст | Hard: рст | Type: midfix
+grow-before — ра-а-ст | Meaning: before grow | Casual: ра-а-ст | Hard: рст | Type: midfix
+grow-un — ра-э-ст | Meaning: not grow | Casual: ра-э-ст | Hard: рст | Type: midfix
+grow-question — ра-у-ст | Meaning: questioning grow | Casual: ра-у-ст | Hard: рст | Type: midfix
+pref-shrink — отсжим | Meaning: prefixed shrink | Casual: отсжим | Hard: оим | Type: prefix
+shrink-person — сжимтель | Meaning: shrink person/thing | Casual: сжмтль | Hard: сль | Type: suffix-n
+shrink-adj — сжимной | Meaning: relating to shrink | Casual: сжмнй | Hard: сой | Type: suffix-a
+shrink-full — отсжимтель | Meaning: full shrink thing | Casual: отсжимтель | Hard: оль | Type: affix
+shrink-intense — сжи-и-м | Meaning: intense shrink | Casual: сж-и-м | Hard: с-м | Type: midfix
+shrink-before — сжи-а-м | Meaning: before shrink | Casual: сж-а-м | Hard: с-м | Type: midfix
+shrink-un — сжи-э-м | Meaning: not shrink | Casual: сж-э-м | Hard: с-м | Type: midfix
+shrink-question — сжи-у-м | Meaning: questioning shrink | Casual: сж-у-м | Hard: с-м | Type: midfix
+pref-change — антимен | Meaning: prefixed change | Casual: антимн | Hard: аен | Type: prefix
+change-person — менмод | Meaning: change person/thing | Casual: менмод | Hard: мод | Type: suffix-n
+change-adj — меноват | Meaning: relating to change | Casual: меновт | Hard: мат | Type: suffix-a
+change-full — антименмод | Meaning: full change thing | Casual: антимнмд | Hard: аод | Type: affix
+change-intense — ме-и-н | Meaning: intense change | Casual: ме-и-н | Hard: м-н | Type: midfix
+change-before — ме-а-н | Meaning: before change | Casual: ме-а-н | Hard: м-н | Type: midfix
+change-un — ме-э-н | Meaning: not change | Casual: ме-э-н | Hard: м-н | Type: midfix
+change-question — ме-у-н | Meaning: questioning change | Casual: ме-у-н | Hard: м-н | Type: midfix
+pref-stay — ультраостав | Meaning: prefixed stay | Casual: ультростав | Hard: уав | Type: prefix
+stay-person — оставина | Meaning: stay person/thing | Casual: оставна | Hard: она | Type: suffix-n
+stay-adj — оставий | Meaning: relating to stay | Casual: оставй | Hard: оий | Type: suffix-a
+stay-full — ультраоставина | Meaning: full stay thing | Casual: ультроставна | Hard: уна | Type: affix
+stay-intense — о-и-став | Meaning: intense stay | Casual: о--став | Hard: оав | Type: midfix
+stay-before — о-а-став | Meaning: before stay | Casual: о--став | Hard: оав | Type: midfix
+stay-un — о-э-став | Meaning: not stay | Casual: о--став | Hard: оав | Type: midfix
+stay-question — о-у-став | Meaning: questioning stay | Casual: о--став | Hard: оав | Type: midfix
+pref-leave — приуход | Meaning: prefixed leave | Casual: прухд | Hard: под | Type: prefix
+leave-person — уходлооп | Meaning: leave person/thing | Casual: ухдлоп | Hard: уоп | Type: suffix-n
+leave-adj — уходий | Meaning: relating to leave | Casual: ухдий | Hard: уий | Type: suffix-a
+leave-full — приуходлооп | Meaning: full leave thing | Casual: прухдлоп | Hard: поп | Type: affix
+leave-intense — у-и-ход | Meaning: intense leave | Casual: у--хд | Hard: уод | Type: midfix
+leave-before — у-а-ход | Meaning: before leave | Casual: у--хд | Hard: уод | Type: midfix
+leave-un — у-э-ход | Meaning: not leave | Casual: у--хд | Hard: уод | Type: midfix
+leave-question — у-у-ход | Meaning: questioning leave | Casual: у--хд | Hard: уод | Type: midfix
+pref-return — хайдэнвозврат | Meaning: prefixed return | Casual: хайдэнвозврт | Hard: хат | Type: prefix
+return-person — возвратзона | Meaning: return person/thing | Casual: возвртзна | Hard: вна | Type: suffix-n
+return-adj — возвратой | Meaning: relating to return | Casual: возвртой | Hard: вой | Type: suffix-a
+return-full — хайдэнвозвратзона | Meaning: full return thing | Casual: хайдэнвозвртзна | Hard: хна | Type: affix
+return-intense — во-и-зврат | Meaning: intense return | Casual: во-и-зврт | Hard: ват | Type: midfix
+return-before — во-а-зврат | Meaning: before return | Casual: во-а-зврт | Hard: ват | Type: midfix
+return-un — во-э-зврат | Meaning: not return | Casual: во-э-зврт | Hard: ват | Type: midfix
+return-question — во-у-зврат | Meaning: questioning return | Casual: во-у-зврт | Hard: ват | Type: midfix
+pref-arrive — двуприход | Meaning: prefixed arrive | Casual: двпрход | Hard: дод | Type: prefix
+arrive-person — приходпак | Meaning: arrive person/thing | Casual: прходпак | Hard: пак | Type: suffix-n
+arrive-adj — приходоват | Meaning: relating to arrive | Casual: прходовт | Hard: пат | Type: suffix-a
+arrive-full — двуприходпак | Meaning: full arrive thing | Casual: двпрходпак | Hard: дак | Type: affix
+arrive-intense — при-и-ход | Meaning: intense arrive | Casual: пр-и-ход | Hard: под | Type: midfix
+arrive-before — при-а-ход | Meaning: before arrive | Casual: пр-а-ход | Hard: под | Type: midfix
+arrive-un — при-э-ход | Meaning: not arrive | Casual: пр-э-ход | Hard: под | Type: midfix
+arrive-question — при-у-ход | Meaning: questioning arrive | Casual: пр-у-ход | Hard: под | Type: midfix
+pref-travel — беспутешеств | Meaning: prefixed travel | Casual: беспутешств | Hard: бтв | Type: prefix
+travel-person — путешествдом | Meaning: travel person/thing | Casual: путешствдом | Hard: пом | Type: suffix-n
+travel-adj — путешествный | Meaning: relating to travel | Casual: путешствный | Hard: пый | Type: suffix-a
+travel-full — беспутешествдом | Meaning: full travel thing | Casual: беспутешствдом | Hard: бом | Type: affix
+travel-intense — пу-и-тешеств | Meaning: intense travel | Casual: пу-и-тешств | Hard: птв | Type: midfix
+travel-before — пу-а-тешеств | Meaning: before travel | Casual: пу-а-тешств | Hard: птв | Type: midfix
+travel-un — пу-э-тешеств | Meaning: not travel | Casual: пу-э-тешств | Hard: птв | Type: midfix
+travel-question — пу-у-тешеств | Meaning: questioning travel | Casual: пу-у-тешств | Hard: птв | Type: midfix
+pref-explore — бесисслед | Meaning: prefixed explore | Casual: бесисслед | Hard: бед | Type: prefix
+explore-person — исследярь | Meaning: explore person/thing | Casual: исследярь | Hard: ирь | Type: suffix-n
+explore-adj — исследой | Meaning: relating to explore | Casual: исследой | Hard: иой | Type: suffix-a
+explore-full — бесисследярь | Meaning: full explore thing | Casual: бесисследярь | Hard: брь | Type: affix
+explore-intense — и-и-сслед | Meaning: intense explore | Casual: и--сслед | Hard: иед | Type: midfix
+explore-before — и-а-сслед | Meaning: before explore | Casual: и--сслед | Hard: иед | Type: midfix
+explore-un — и-э-сслед | Meaning: not explore | Casual: и--сслед | Hard: иед | Type: midfix
+explore-question — и-у-сслед | Meaning: questioning explore | Casual: и--сслед | Hard: иед | Type: midfix
+pref-discover — недооткрыв | Meaning: prefixed discover | Casual: недооткрв | Hard: ныв | Type: prefix
+discover-person — открывец | Meaning: discover person/thing | Casual: открывец | Hard: оец | Type: suffix-n
+discover-adj — открывический | Meaning: relating to discover | Casual: открывичскй | Hard: оий | Type: suffix-a
+discover-full — недооткрывец | Meaning: full discover thing | Casual: недооткрвец | Hard: нец | Type: affix
+discover-intense — о-и-ткрыв | Meaning: intense discover | Casual: о--ткрыв | Hard: оыв | Type: midfix
+discover-before — о-а-ткрыв | Meaning: before discover | Casual: о--ткрыв | Hard: оыв | Type: midfix
+discover-un — о-э-ткрыв | Meaning: not discover | Casual: о--ткрыв | Hard: оыв | Type: midfix
+discover-question — о-у-ткрыв | Meaning: questioning discover | Casual: о--ткрыв | Hard: оыв | Type: midfix
+pref-search — мегаищ | Meaning: prefixed search | Casual: мегаищ | Hard: мищ | Type: prefix
+search-person — ищер | Meaning: search person/thing | Casual: ищр | Hard: ищер | Type: suffix-n
+search-adj — ищальный | Meaning: relating to search | Casual: ищльный | Hard: иый | Type: suffix-a
+search-full — мегаищер | Meaning: full search thing | Casual: мегаищер | Hard: мер | Type: affix
+search-intense — и-и-щ | Meaning: intense search | Casual: и--щ | Hard: и-щ | Type: midfix
+search-before — и-а-щ | Meaning: before search | Casual: и--щ | Hard: и-щ | Type: midfix
+search-un — и-э-щ | Meaning: not search | Casual: и--щ | Hard: и-щ | Type: midfix
+search-question — и-у-щ | Meaning: questioning search | Casual: и--щ | Hard: и-щ | Type: midfix
+pref-track — прислед | Meaning: prefixed track | Casual: прслд | Hard: пед | Type: prefix
+track-person — следизм | Meaning: track person/thing | Casual: слдизм | Hard: сзм | Type: suffix-n
+track-adj — следельный | Meaning: relating to track | Casual: слдельнй | Hard: сый | Type: suffix-a
+track-full — приследизм | Meaning: full track thing | Casual: прслдизм | Hard: пзм | Type: affix
+track-un — сле-э-д | Meaning: not track | Casual: сл-э-д | Hard: с-д | Type: midfix
+track-question — сле-у-д | Meaning: questioning track | Casual: сл-у-д | Hard: с-д | Type: midfix
+pref-knife — вынож | Meaning: prefixed knife | Casual: вынож | Hard: вож | Type: prefix
+knife-person — ножица | Meaning: knife person/thing | Casual: ножиц | Hard: нца | Type: suffix-n
+knife-adj — ножский | Meaning: relating to knife | Casual: ножскй | Hard: ний | Type: suffix-a
+knife-full — выножица | Meaning: full knife thing | Casual: выножца | Hard: вца | Type: affix
+knife-intense — но-и-ж | Meaning: intense knife | Casual: но-и-ж | Hard: н-ж | Type: midfix
+knife-before — но-а-ж | Meaning: before knife | Casual: но-а-ж | Hard: н-ж | Type: midfix
+knife-un — но-э-ж | Meaning: not knife | Casual: но-э-ж | Hard: н-ж | Type: midfix
+knife-question — но-у-ж | Meaning: questioning knife | Casual: но-у-ж | Hard: н-ж | Type: midfix
+pref-shield — рещит | Meaning: prefixed shield | Casual: рещит | Hard: рит | Type: prefix
+shield-person — щитзона | Meaning: shield person/thing | Casual: щитзона | Hard: щна | Type: suffix-n
+shield-adj — щиттый | Meaning: relating to shield | Casual: щиттый | Hard: щый | Type: suffix-a
+shield-full — рещитзона | Meaning: full shield thing | Casual: рещитзон | Hard: рна | Type: affix
+shield-intense — щи-и-т | Meaning: intense shield | Casual: щи-и-т | Hard: щ-т | Type: midfix
+shield-before — щи-а-т | Meaning: before shield | Casual: щи-а-т | Hard: щ-т | Type: midfix
+shield-un — щи-э-т | Meaning: not shield | Casual: щи-э-т | Hard: щ-т | Type: midfix
+shield-question — щи-у-т | Meaning: questioning shield | Casual: щи-у-т | Hard: щ-т | Type: midfix
+pref-axe — интертопор | Meaning: prefixed axe | Casual: интертопр | Hard: иор | Type: prefix
+axe-person — топоркрафт | Meaning: axe person/thing | Casual: топоркрафт | Hard: тфт | Type: suffix-n
+axe-adj — топорный | Meaning: relating to axe | Casual: топорный | Hard: тый | Type: suffix-a
+axe-full — интертопоркрафт | Meaning: full axe thing | Casual: интертопркрафт | Hard: ифт | Type: affix
+axe-intense — то-и-пор | Meaning: intense axe | Casual: то-и-пор | Hard: тор | Type: midfix
+axe-before — то-а-пор | Meaning: before axe | Casual: то-а-пор | Hard: тор | Type: midfix
+axe-un — то-э-пор | Meaning: not axe | Casual: то-э-пор | Hard: тор | Type: midfix
+axe-question — то-у-пор | Meaning: questioning axe | Casual: то-у-пор | Hard: тор | Type: midfix
+pref-spear — дарккопь | Meaning: prefixed spear | Casual: дарккпь | Hard: дпь | Type: prefix
+spear-person — копьность | Meaning: spear person/thing | Casual: копьнсть | Hard: кть | Type: suffix-n
+spear-adj — копьический | Meaning: relating to spear | Casual: копьический | Hard: кий | Type: suffix-a
+spear-full — дарккопьность | Meaning: full spear thing | Casual: дарккпьность | Hard: дть | Type: affix
+spear-intense — ко-и-пь | Meaning: intense spear | Casual: ко-и-пь | Hard: кпь | Type: midfix
+spear-before — ко-а-пь | Meaning: before spear | Casual: ко-а-пь | Hard: кпь | Type: midfix
+spear-un — ко-э-пь | Meaning: not spear | Casual: ко-э-пь | Hard: кпь | Type: midfix
+spear-question — ко-у-пь | Meaning: questioning spear | Casual: ко-у-пь | Hard: кпь | Type: midfix
+pref-staff — супэрпос | Meaning: prefixed staff | Casual: супэрпос | Hard: сос | Type: prefix
+staff-person — посание | Meaning: staff person/thing | Casual: посане | Hard: пие | Type: suffix-n
+staff-adj — посальный | Meaning: relating to staff | Casual: посальный | Hard: пый | Type: suffix-a
+staff-full — супэрпосание | Meaning: full staff thing | Casual: супэрпосни | Hard: сие | Type: affix
+staff-intense — по-и-с | Meaning: intense staff | Casual: по-и-с | Hard: п-с | Type: midfix
+staff-before — по-а-с | Meaning: before staff | Casual: по-а-с | Hard: п-с | Type: midfix
+staff-un — по-э-с | Meaning: not staff | Casual: по-э-с | Hard: п-с | Type: midfix
+staff-question — по-у-с | Meaning: questioning staff | Casual: по-у-с | Hard: п-с | Type: midfix
+pref-bow — мегалук | Meaning: prefixed bow | Casual: мегалк | Hard: мук | Type: prefix
+bow-person — лукство | Meaning: bow person/thing | Casual: лукство | Hard: лво | Type: suffix-n
+bow-adj — лукый | Meaning: relating to bow | Casual: лукый | Hard: лый | Type: suffix-a
+bow-full — мегалукство | Meaning: full bow thing | Casual: мегалкство | Hard: мво | Type: affix
+bow-intense — лу-и-к | Meaning: intense bow | Casual: лу-и-к | Hard: л-к | Type: midfix
+bow-before — лу-а-к | Meaning: before bow | Casual: лу-а-к | Hard: л-к | Type: midfix
+bow-un — лу-э-к | Meaning: not bow | Casual: лу-э-к | Hard: л-к | Type: midfix
+bow-question — лу-у-к | Meaning: questioning bow | Casual: лу-у-к | Hard: л-к | Type: midfix
+pref-arrow — отстрел | Meaning: prefixed arrow | Casual: отстрл | Hard: оел | Type: prefix
+arrow-person — стрелдом | Meaning: arrow person/thing | Casual: стрелдом | Hard: сом | Type: suffix-n
+arrow-adj — стрелельный | Meaning: relating to arrow | Casual: стрелльный | Hard: сый | Type: suffix-a
+arrow-full — отстрелдом | Meaning: full arrow thing | Casual: отстрлдм | Hard: оом | Type: affix
+arrow-intense — стре-и-л | Meaning: intense arrow | Casual: стре--л | Hard: с-л | Type: midfix
+arrow-before — стре-а-л | Meaning: before arrow | Casual: стре--л | Hard: с-л | Type: midfix
+arrow-un — стре-э-л | Meaning: not arrow | Casual: стре--л | Hard: с-л | Type: midfix
+arrow-question — стре-у-л | Meaning: questioning arrow | Casual: стре--л | Hard: с-л | Type: midfix
+pref-sword — брайтмеч | Meaning: prefixed sword | Casual: брйтмеч | Hard: беч | Type: prefix
+sword-person — мечярь | Meaning: sword person/thing | Casual: мечярь | Hard: мрь | Type: suffix-n
+sword-adj — мечельный | Meaning: relating to sword | Casual: мечельный | Hard: мый | Type: suffix-a
+sword-full — брайтмечярь | Meaning: full sword thing | Casual: брйтмечрь | Hard: брь | Type: affix
+sword-intense — ме-и-ч | Meaning: intense sword | Casual: ме-и-ч | Hard: м-ч | Type: midfix
+sword-before — ме-а-ч | Meaning: before sword | Casual: ме-а-ч | Hard: м-ч | Type: midfix
+sword-un — ме-э-ч | Meaning: not sword | Casual: ме-э-ч | Hard: м-ч | Type: midfix
+sword-question — ме-у-ч | Meaning: questioning sword | Casual: ме-у-ч | Hard: м-ч | Type: midfix
+pref-helmet — софтшлем | Meaning: prefixed helmet | Casual: софтшлем | Hard: сем | Type: prefix
+helmet-person — шлемность | Meaning: helmet person/thing | Casual: шлмнсть | Hard: шть | Type: suffix-n
+helmet-adj — шлемовый | Meaning: relating to helmet | Casual: шлмовый | Hard: шый | Type: suffix-a
+helmet-full — софтшлемность | Meaning: full helmet thing | Casual: софтшлемность | Hard: сть | Type: affix
+helmet-intense — шле-и-м | Meaning: intense helmet | Casual: шл-и-м | Hard: ш-м | Type: midfix
+helmet-before — шле-а-м | Meaning: before helmet | Casual: шл-а-м | Hard: ш-м | Type: midfix
+helmet-un — шле-э-м | Meaning: not helmet | Casual: шл-э-м | Hard: ш-м | Type: midfix
+helmet-question — шле-у-м | Meaning: questioning helmet | Casual: шл-у-м | Hard: ш-м | Type: midfix
+pref-armor — переброн | Meaning: prefixed armor | Casual: переброн | Hard: пон | Type: prefix
+armor-person — бронение | Meaning: armor person/thing | Casual: брнение | Hard: бие | Type: suffix-n
+armor-adj — броный | Meaning: relating to armor | Casual: брный | Hard: бый | Type: suffix-a
+armor-full — перебронение | Meaning: full armor thing | Casual: перебронни | Hard: пие | Type: affix
+armor-intense — бро-и-н | Meaning: intense armor | Casual: бр-и-н | Hard: б-н | Type: midfix
+armor-before — бро-а-н | Meaning: before armor | Casual: бр-а-н | Hard: б-н | Type: midfix
+armor-un — бро-э-н | Meaning: not armor | Casual: бр-э-н | Hard: б-н | Type: midfix
+armor-question — бро-у-н | Meaning: questioning armor | Casual: бр-у-н | Hard: б-н | Type: midfix
+pref-ring — нэоперст | Meaning: prefixed ring | Casual: нэперст | Hard: нст | Type: prefix
+ring-person — перстание | Meaning: ring person/thing | Casual: перстни | Hard: пие | Type: suffix-n
+ring-adj — перстовый | Meaning: relating to ring | Casual: перствый | Hard: пый | Type: suffix-a
+ring-full — нэоперстание | Meaning: full ring thing | Casual: нэперстни | Hard: ние | Type: affix
+ring-intense — пе-и-рст | Meaning: intense ring | Casual: пе-и-рст | Hard: пст | Type: midfix
+ring-before — пе-а-рст | Meaning: before ring | Casual: пе-а-рст | Hard: пст | Type: midfix
+ring-un — пе-э-рст | Meaning: not ring | Casual: пе-э-рст | Hard: пст | Type: midfix
+ring-question — пе-у-рст | Meaning: questioning ring | Casual: пе-у-рст | Hard: пст | Type: midfix
+pref-amulet — двуамулет | Meaning: prefixed amulet | Casual: двамлет | Hard: дет | Type: prefix
+amulet-person — амулетер | Meaning: amulet person/thing | Casual: амлетер | Hard: аер | Type: suffix-n
+amulet-adj — амулетальный | Meaning: relating to amulet | Casual: амлетальный | Hard: аый | Type: suffix-a
+amulet-full — двуамулетер | Meaning: full amulet thing | Casual: двамлетер | Hard: дер | Type: affix
+amulet-intense — а-и-мулет | Meaning: intense amulet | Casual: а--млет | Hard: ает | Type: midfix
+amulet-before — а-а-мулет | Meaning: before amulet | Casual: а--млет | Hard: ает | Type: midfix
+amulet-un — а-э-мулет | Meaning: not amulet | Casual: а--млет | Hard: ает | Type: midfix
+amulet-question — а-у-мулет | Meaning: questioning amulet | Casual: а--млет | Hard: ает | Type: midfix
+pref-torch — брайтфакел | Meaning: prefixed torch | Casual: брйтфакл | Hard: бел | Type: prefix
+torch-person — факелство | Meaning: torch person/thing | Casual: факелств | Hard: фво | Type: suffix-n
+torch-adj — факелий | Meaning: relating to torch | Casual: факелй | Hard: фий | Type: suffix-a
+torch-full — брайтфакелство | Meaning: full torch thing | Casual: брйтфаклство | Hard: бво | Type: affix
+torch-un — фа-э-кел | Meaning: not torch | Casual: фа-э-кел | Hard: фел | Type: midfix
+torch-question — фа-у-кел | Meaning: questioning torch | Casual: фа-у-кел | Hard: фел | Type: midfix
+pref-candle — нэосвеч | Meaning: prefixed candle | Casual: нэсвч | Hard: неч | Type: prefix
+candle-person — свечсинк | Meaning: candle person/thing | Casual: свчснк | Hard: снк | Type: suffix-n
+candle-adj — свечический | Meaning: relating to candle | Casual: свчический | Hard: сий | Type: suffix-a
+candle-full — нэосвечсинк | Meaning: full candle thing | Casual: нэсвчснк | Hard: ннк | Type: affix
+candle-intense — све-и-ч | Meaning: intense candle | Casual: св-и-ч | Hard: с-ч | Type: midfix
+candle-before — све-а-ч | Meaning: before candle | Casual: св-а-ч | Hard: с-ч | Type: midfix
+candle-un — све-э-ч | Meaning: not candle | Casual: св-э-ч | Hard: с-ч | Type: midfix
+candle-question — све-у-ч | Meaning: questioning candle | Casual: св-у-ч | Hard: с-ч | Type: midfix
+pref-spark — хайдэнискр | Meaning: prefixed spark | Casual: хайдэнискр | Hard: хкр | Type: prefix
+spark-person — искрость | Meaning: spark person/thing | Casual: искрость | Hard: ить | Type: suffix-n
+spark-adj — искроват | Meaning: relating to spark | Casual: искроват | Hard: иат | Type: suffix-a
+spark-full — хайдэнискрость | Meaning: full spark thing | Casual: хайдэнискрость | Hard: хть | Type: affix
+spark-un — и-э-скр | Meaning: not spark | Casual: и--скр | Hard: икр | Type: midfix
+spark-question — и-у-скр | Meaning: questioning spark | Casual: и--скр | Hard: икр | Type: midfix
+pref-smoke — вздым | Meaning: prefixed smoke | Casual: вздым | Hard: вым | Type: prefix
+smoke-person — дымтель | Meaning: smoke person/thing | Casual: дымтель | Hard: дль | Type: suffix-n
+smoke-adj — дымальный | Meaning: relating to smoke | Casual: дымальный | Hard: дый | Type: suffix-a
+smoke-full — вздымтель | Meaning: full smoke thing | Casual: вздымтель | Hard: вль | Type: affix
+smoke-intense — ды-и-м | Meaning: intense smoke | Casual: ды-и-м | Hard: д-м | Type: midfix
+smoke-before — ды-а-м | Meaning: before smoke | Casual: ды-а-м | Hard: д-м | Type: midfix
+smoke-un — ды-э-м | Meaning: not smoke | Casual: ды-э-м | Hard: д-м | Type: midfix
+smoke-question — ды-у-м | Meaning: questioning smoke | Casual: ды-у-м | Hard: д-м | Type: midfix
+pref-ash — выпепел | Meaning: prefixed ash | Casual: выпепл | Hard: вел | Type: prefix
+ash-person — пепелтель | Meaning: ash person/thing | Casual: пепелтель | Hard: пль | Type: suffix-n
+ash-adj — пепелной | Meaning: relating to ash | Casual: пепелной | Hard: пой | Type: suffix-a
+ash-full — выпепелтель | Meaning: full ash thing | Casual: выпеплтль | Hard: вль | Type: affix
+ash-intense — пе-и-пел | Meaning: intense ash | Casual: пе-и-пел | Hard: пел | Type: midfix
+ash-before — пе-а-пел | Meaning: before ash | Casual: пе-а-пел | Hard: пел | Type: midfix
+ash-un — пе-э-пел | Meaning: not ash | Casual: пе-э-пел | Hard: пел | Type: midfix
+ash-question — пе-у-пел | Meaning: questioning ash | Casual: пе-у-пел | Hard: пел | Type: midfix
+pref-coal — хайдэнугль | Meaning: prefixed coal | Casual: хайдэнугль | Hard: хль | Type: prefix
+coal-person — угльист | Meaning: coal person/thing | Casual: угльист | Hard: уст | Type: suffix-n
+coal-adj — угльной | Meaning: relating to coal | Casual: угльнй | Hard: уой | Type: suffix-a
+coal-full — хайдэнугльист | Meaning: full coal thing | Casual: хайдэнугльист | Hard: хст | Type: affix
+coal-intense — у-и-гль | Meaning: intense coal | Casual: у--гль | Hard: уль | Type: midfix
+coal-before — у-а-гль | Meaning: before coal | Casual: у--гль | Hard: уль | Type: midfix
+coal-un — у-э-гль | Meaning: not coal | Casual: у--гль | Hard: уль | Type: midfix
+coal-question — у-у-гль | Meaning: questioning coal | Casual: у--гль | Hard: уль | Type: midfix
+pref-force — хардсил | Meaning: prefixed force | Casual: хардсл | Hard: хил | Type: prefix
+force-person — силица | Meaning: force person/thing | Casual: силиц | Hard: сца | Type: suffix-n
+force-adj — силий | Meaning: relating to force | Casual: силий | Hard: сий | Type: suffix-a
+force-full — хардсилица | Meaning: full force thing | Casual: хардслица | Hard: хца | Type: affix
+force-intense — си-и-л | Meaning: intense force | Casual: си-и-л | Hard: с-л | Type: midfix
+force-before — си-а-л | Meaning: before force | Casual: си-а-л | Hard: с-л | Type: midfix
+force-un — си-э-л | Meaning: not force | Casual: си-э-л | Hard: с-л | Type: midfix
+force-question — си-у-л | Meaning: questioning force | Casual: си-у-л | Hard: с-л | Type: midfix
+pref-speed — наскор | Meaning: prefixed speed | Casual: наскор | Hard: нор | Type: prefix
+speed-person — скормод | Meaning: speed person/thing | Casual: скрмд | Hard: сод | Type: suffix-n
+speed-adj — скорский | Meaning: relating to speed | Casual: скрский | Hard: сий | Type: suffix-a
+speed-full — наскормод | Meaning: full speed thing | Casual: наскормод | Hard: нод | Type: affix
+speed-intense — ско-и-р | Meaning: intense speed | Casual: ск-и-р | Hard: с-р | Type: midfix
+speed-before — ско-а-р | Meaning: before speed | Casual: ск-а-р | Hard: с-р | Type: midfix
+speed-un — ско-э-р | Meaning: not speed | Casual: ск-э-р | Hard: с-р | Type: midfix
+speed-question — ско-у-р | Meaning: questioning speed | Casual: ск-у-р | Hard: с-р | Type: midfix
+pref-mass — домасс | Meaning: prefixed mass | Casual: домасс | Hard: дсс | Type: prefix
+mass-person — массность | Meaning: mass person/thing | Casual: масснсть | Hard: мть | Type: suffix-n
+mass-adj — массический | Meaning: relating to mass | Casual: массический | Hard: мий | Type: suffix-a
+mass-full — домассность | Meaning: full mass thing | Casual: домассность | Hard: дть | Type: affix
+mass-intense — ма-и-сс | Meaning: intense mass | Casual: ма-и-сс | Hard: мсс | Type: midfix
+mass-before — ма-а-сс | Meaning: before mass | Casual: ма-а-сс | Hard: мсс | Type: midfix
+mass-un — ма-э-сс | Meaning: not mass | Casual: ма-э-сс | Hard: мсс | Type: midfix
+mass-question — ма-у-сс | Meaning: questioning mass | Casual: ма-у-сс | Hard: мсс | Type: midfix
+pref-weight — ультравес | Meaning: prefixed weight | Casual: ультрвес | Hard: уес | Type: prefix
+weight-person — весец | Meaning: weight person/thing | Casual: весец | Hard: вец | Type: suffix-n
+weight-adj — весой | Meaning: relating to weight | Casual: весой | Hard: вой | Type: suffix-a
+weight-full — ультравесец | Meaning: full weight thing | Casual: ультрвесец | Hard: уец | Type: affix
+weight-intense — ве-и-с | Meaning: intense weight | Casual: ве-и-с | Hard: в-с | Type: midfix
+weight-before — ве-а-с | Meaning: before weight | Casual: ве-а-с | Hard: в-с | Type: midfix
+weight-un — ве-э-с | Meaning: not weight | Casual: ве-э-с | Hard: в-с | Type: midfix
+weight-question — ве-у-с | Meaning: questioning weight | Casual: ве-у-с | Hard: в-с | Type: midfix
+pref-size — доразмер | Meaning: prefixed size | Casual: доразмер | Hard: дер | Type: prefix
+size-person — размерент | Meaning: size person/thing | Casual: размерент | Hard: рнт | Type: suffix-n
+size-adj — размерский | Meaning: relating to size | Casual: размерскй | Hard: рий | Type: suffix-a
+size-full — доразмерент | Meaning: full size thing | Casual: доразмернт | Hard: днт | Type: affix
+size-intense — ра-и-змер | Meaning: intense size | Casual: ра-и-змер | Hard: рер | Type: midfix
+size-before — ра-а-змер | Meaning: before size | Casual: ра-а-змер | Hard: рер | Type: midfix
+size-un — ра-э-змер | Meaning: not size | Casual: ра-э-змер | Hard: рер | Type: midfix
+size-question — ра-у-змер | Meaning: questioning size | Casual: ра-у-змер | Hard: рер | Type: midfix
+pref-shape — мегаформ | Meaning: prefixed shape | Casual: мегафрм | Hard: мрм | Type: prefix
+shape-person — формент | Meaning: shape person/thing | Casual: формент | Hard: фнт | Type: suffix-n
+shape-adj — формный | Meaning: relating to shape | Casual: формнй | Hard: фый | Type: suffix-a
+shape-full — мегаформент | Meaning: full shape thing | Casual: мегафрмнт | Hard: мнт | Type: affix
+shape-intense — фо-и-рм | Meaning: intense shape | Casual: фо-и-рм | Hard: фрм | Type: midfix
+shape-before — фо-а-рм | Meaning: before shape | Casual: фо-а-рм | Hard: фрм | Type: midfix
+shape-un — фо-э-рм | Meaning: not shape | Casual: фо-э-рм | Hard: фрм | Type: midfix
+shape-question — фо-у-рм | Meaning: questioning shape | Casual: фо-у-рм | Hard: фрм | Type: midfix
+pref-color — протоцвет | Meaning: prefixed color | Casual: пртоцвет | Hard: пет | Type: prefix
+color-person — цветчик | Meaning: color person/thing | Casual: цвтчк | Hard: цик | Type: suffix-n
+color-adj — цветный | Meaning: relating to color | Casual: цвтнй | Hard: цый | Type: suffix-a
+color-full — протоцветчик | Meaning: full color thing | Casual: пртоцветчик | Hard: пик | Type: affix
+color-intense — цве-и-т | Meaning: intense color | Casual: цв-и-т | Hard: ц-т | Type: midfix
+color-before — цве-а-т | Meaning: before color | Casual: цв-а-т | Hard: ц-т | Type: midfix
+color-un — цве-э-т | Meaning: not color | Casual: цв-э-т | Hard: ц-т | Type: midfix
+color-question — цве-у-т | Meaning: questioning color | Casual: цв-у-т | Hard: ц-т | Type: midfix
+pref-sound — перезвук | Meaning: prefixed sound | Casual: перезвук | Hard: пук | Type: prefix
+sound-person — звуквэйв | Meaning: sound person/thing | Casual: звквйв | Hard: зйв | Type: suffix-n
+sound-adj — звуктый | Meaning: relating to sound | Casual: звктй | Hard: зый | Type: suffix-a
+sound-full — перезвуквэйв | Meaning: full sound thing | Casual: перезвуквэйв | Hard: пйв | Type: affix
+sound-intense — зву-и-к | Meaning: intense sound | Casual: зв-и-к | Hard: з-к | Type: midfix
+sound-before — зву-а-к | Meaning: before sound | Casual: зв-а-к | Hard: з-к | Type: midfix
+sound-un — зву-э-к | Meaning: not sound | Casual: зв-э-к | Hard: з-к | Type: midfix
+sound-question — зву-у-к | Meaning: questioning sound | Casual: зв-у-к | Hard: з-к | Type: midfix
+pref-time — мегаврем | Meaning: prefixed time | Casual: мегаврем | Hard: мем | Type: prefix
+time-person — времение | Meaning: time person/thing | Casual: врмение | Hard: вие | Type: suffix-n
+time-adj — времий | Meaning: relating to time | Casual: врмий | Hard: вий | Type: suffix-a
+time-full — мегавремение | Meaning: full time thing | Casual: мегавремни | Hard: мие | Type: affix
+time-intense — вре-и-м | Meaning: intense time | Casual: вр-и-м | Hard: в-м | Type: midfix
+time-before — вре-а-м | Meaning: before time | Casual: вр-а-м | Hard: в-м | Type: midfix
+time-un — вре-э-м | Meaning: not time | Casual: вр-э-м | Hard: в-м | Type: midfix
+time-question — вре-у-м | Meaning: questioning time | Casual: вр-у-м | Hard: в-м | Type: midfix
+pref-space — хайдэнпространств | Meaning: prefixed space | Casual: хайдэнпрстранств | Hard: хтв | Type: prefix
+space-person — пространствость | Meaning: space person/thing | Casual: прстранствсть | Hard: пть | Type: suffix-n
+space-adj — пространствной | Meaning: relating to space | Casual: прстранствной | Hard: пой | Type: suffix-a
+space-full — хайдэнпространствость | Meaning: full space thing | Casual: хайдэнпрстранствсть | Hard: хть | Type: affix
+space-intense — про-и-странств | Meaning: intense space | Casual: пр-и-странств | Hard: птв | Type: midfix
+space-before — про-а-странств | Meaning: before space | Casual: пр-а-странств | Hard: птв | Type: midfix
+space-un — про-э-странств | Meaning: not space | Casual: пр-э-странств | Hard: птв | Type: midfix
+space-question — про-у-странств | Meaning: questioning space | Casual: пр-у-странств | Hard: птв | Type: midfix
+pref-matter — дарквеществ | Meaning: prefixed matter | Casual: дарквществ | Hard: дтв | Type: prefix
+matter-person — веществсинк | Meaning: matter person/thing | Casual: веществснк | Hard: внк | Type: suffix-n
+matter-adj — веществый | Meaning: relating to matter | Casual: веществый | Hard: вый | Type: suffix-a
+matter-full — дарквеществсинк | Meaning: full matter thing | Casual: дарквществсинк | Hard: днк | Type: affix
+matter-intense — ве-и-ществ | Meaning: intense matter | Casual: ве-и-ществ | Hard: втв | Type: midfix
+matter-before — ве-а-ществ | Meaning: before matter | Casual: ве-а-ществ | Hard: втв | Type: midfix
+matter-un — ве-э-ществ | Meaning: not matter | Casual: ве-э-ществ | Hard: втв | Type: midfix
+matter-question — ве-у-ществ | Meaning: questioning matter | Casual: ве-у-ществ | Hard: втв | Type: midfix
+pref-energy — брайтэнерг | Meaning: prefixed energy | Casual: брйтнерг | Hard: брг | Type: prefix
+energy-person — энергание | Meaning: energy person/thing | Casual: энргни | Hard: эие | Type: suffix-n
+energy-adj — энергый | Meaning: relating to energy | Casual: энргй | Hard: эый | Type: suffix-a
+energy-full — брайтэнергание | Meaning: full energy thing | Casual: брйтнергание | Hard: бие | Type: affix
+energy-intense — э-и-нерг | Meaning: intense energy | Casual: э--нрг | Hard: эрг | Type: midfix
+energy-before — э-а-нерг | Meaning: before energy | Casual: э--нрг | Hard: эрг | Type: midfix
+energy-un — э-э-нерг | Meaning: not energy | Casual: э--нрг | Hard: эрг | Type: midfix
+energy-question — э-у-нерг | Meaning: questioning energy | Casual: э--нрг | Hard: эрг | Type: midfix
+pref-truth — хайдэнистин | Meaning: prefixed truth | Casual: хайдэнистин | Hard: хин | Type: prefix
+truth-person — истинство | Meaning: truth person/thing | Casual: истинств | Hard: иво | Type: suffix-n
+truth-adj — истиний | Meaning: relating to truth | Casual: истинй | Hard: иий | Type: suffix-a
+truth-full — хайдэнистинство | Meaning: full truth thing | Casual: хайдэнистинств | Hard: хво | Type: affix
+truth-intense — и-и-стин | Meaning: intense truth | Casual: и--стин | Hard: иин | Type: midfix
+truth-before — и-а-стин | Meaning: before truth | Casual: и--стин | Hard: иин | Type: midfix
+truth-un — и-э-стин | Meaning: not truth | Casual: и--стин | Hard: иин | Type: midfix
+truth-question — и-у-стин | Meaning: questioning truth | Casual: и--стин | Hard: иин | Type: midfix
+pref-lie — экстралж | Meaning: prefixed lie | Casual: экстрлж | Hard: элж | Type: prefix
+lie-person — лжярь | Meaning: lie person/thing | Casual: лжрь | Hard: лрь | Type: suffix-n
+lie-adj — лжтый | Meaning: relating to lie | Casual: лжтый | Hard: лый | Type: suffix-a
+lie-full — экстралжярь | Meaning: full lie thing | Casual: экстрлжрь | Hard: эрь | Type: affix
+lie-intense — лж-и- | Meaning: intense lie | Casual: лж-и- | Hard: ли- | Type: midfix
+lie-before — лж-а- | Meaning: before lie | Casual: лж-а- | Hard: ла- | Type: midfix
+lie-un — лж-э- | Meaning: not lie | Casual: лж-э- | Hard: лэ- | Type: midfix
+lie-question — лж-у- | Meaning: questioning lie | Casual: лж-у- | Hard: лу- | Type: midfix
+pref-freedom — ресвобод | Meaning: prefixed freedom | Casual: ресвобод | Hard: род | Type: prefix
+freedom-person — свободина | Meaning: freedom person/thing | Casual: свбодин | Hard: сна | Type: suffix-n
+freedom-adj — свободельный | Meaning: relating to freedom | Casual: свбодельный | Hard: сый | Type: suffix-a
+freedom-full — ресвободина | Meaning: full freedom thing | Casual: ресвободна | Hard: рна | Type: affix
+freedom-intense — сво-и-бод | Meaning: intense freedom | Casual: св-и-бод | Hard: сод | Type: midfix
+freedom-before — сво-а-бод | Meaning: before freedom | Casual: св-а-бод | Hard: сод | Type: midfix
+freedom-un — сво-э-бод | Meaning: not freedom | Casual: св-э-бод | Hard: сод | Type: midfix
+freedom-question — сво-у-бод | Meaning: questioning freedom | Casual: св-у-бод | Hard: сод | Type: midfix
+pref-justice — отсправедл | Meaning: prefixed justice | Casual: отспрведл | Hard: одл | Type: prefix
+justice-person — справедлность | Meaning: justice person/thing | Casual: справдлность | Hard: сть | Type: suffix-n
+justice-adj — справедловат | Meaning: relating to justice | Casual: справдлват | Hard: сат | Type: suffix-a
+justice-full — отсправедлность | Meaning: full justice thing | Casual: отспрведлнсть | Hard: оть | Type: affix
+justice-intense — спра-и-ведл | Meaning: intense justice | Casual: спра--вдл | Hard: сдл | Type: midfix
+justice-before — спра-а-ведл | Meaning: before justice | Casual: спра--вдл | Hard: сдл | Type: midfix
+justice-un — спра-э-ведл | Meaning: not justice | Casual: спра--вдл | Hard: сдл | Type: midfix
+justice-question — спра-у-ведл | Meaning: questioning justice | Casual: спра--вдл | Hard: сдл | Type: midfix
+pref-power — вывласт | Meaning: prefixed power | Casual: вывласт | Hard: вст | Type: prefix
+power-person — власткрафт | Meaning: power person/thing | Casual: влсткрафт | Hard: вфт | Type: suffix-n
+power-adj — властый | Meaning: relating to power | Casual: влстй | Hard: вый | Type: suffix-a
+power-full — вывласткрафт | Meaning: full power thing | Casual: вывласткрафт | Hard: вфт | Type: affix
+power-intense — вла-и-ст | Meaning: intense power | Casual: вл-и-ст | Hard: вст | Type: midfix
+power-before — вла-а-ст | Meaning: before power | Casual: вл-а-ст | Hard: вст | Type: midfix
+power-un — вла-э-ст | Meaning: not power | Casual: вл-э-ст | Hard: вст | Type: midfix
+power-question — вла-у-ст | Meaning: questioning power | Casual: вл-у-ст | Hard: вст | Type: midfix
+pref-wisdom — примудр | Meaning: prefixed wisdom | Casual: прмудр | Hard: пдр | Type: prefix
+wisdom-person — мудрсинк | Meaning: wisdom person/thing | Casual: мудрснк | Hard: мнк | Type: suffix-n
+wisdom-adj — мудревый | Meaning: relating to wisdom | Casual: мудревый | Hard: мый | Type: suffix-a
+wisdom-full — примудрсинк | Meaning: full wisdom thing | Casual: прмудрснк | Hard: пнк | Type: affix
+wisdom-intense — му-и-др | Meaning: intense wisdom | Casual: му-и-др | Hard: мдр | Type: midfix
+wisdom-before — му-а-др | Meaning: before wisdom | Casual: му-а-др | Hard: мдр | Type: midfix
+wisdom-un — му-э-др | Meaning: not wisdom | Casual: му-э-др | Hard: мдр | Type: midfix
+wisdom-question — му-у-др | Meaning: questioning wisdom | Casual: му-у-др | Hard: мдр | Type: midfix
+pref-folly — антиглуп | Meaning: prefixed folly | Casual: антиглуп | Hard: ауп | Type: prefix
+folly-person — глупик | Meaning: folly person/thing | Casual: глпик | Hard: гик | Type: suffix-n
+folly-adj — глупический | Meaning: relating to folly | Casual: глпический | Hard: гий | Type: suffix-a
+folly-full — антиглупик | Meaning: full folly thing | Casual: антиглупк | Hard: аик | Type: affix
+folly-intense — глу-и-п | Meaning: intense folly | Casual: гл-и-п | Hard: г-п | Type: midfix
+folly-before — глу-а-п | Meaning: before folly | Casual: гл-а-п | Hard: г-п | Type: midfix
+folly-un — глу-э-п | Meaning: not folly | Casual: гл-э-п | Hard: г-п | Type: midfix
+folly-question — глу-у-п | Meaning: questioning folly | Casual: гл-у-п | Hard: г-п | Type: midfix
+pref-beauty — недокрасот | Meaning: prefixed beauty | Casual: недокраст | Hard: нот | Type: prefix
+beauty-person — красотица | Meaning: beauty person/thing | Casual: крсотиц | Hard: кца | Type: suffix-n
+beauty-adj — красотой | Meaning: relating to beauty | Casual: крсотой | Hard: кой | Type: suffix-a
+beauty-full — недокрасотица | Meaning: full beauty thing | Casual: недокрастица | Hard: нца | Type: affix
+beauty-intense — кра-и-сот | Meaning: intense beauty | Casual: кр-и-сот | Hard: кот | Type: midfix
+beauty-before — кра-а-сот | Meaning: before beauty | Casual: кр-а-сот | Hard: кот | Type: midfix
+beauty-un — кра-э-сот | Meaning: not beauty | Casual: кр-э-сот | Hard: кот | Type: midfix
+beauty-question — кра-у-сот | Meaning: questioning beauty | Casual: кр-у-сот | Hard: кот | Type: midfix
+pref-code — всекод | Meaning: prefixed code | Casual: вскод | Hard: вод | Type: prefix
+code-person — кодмакс | Meaning: code person/thing | Casual: кодмакс | Hard: ккс | Type: suffix-n
+code-adj — кодический | Meaning: relating to code | Casual: кодичскй | Hard: кий | Type: suffix-a
+code-full — всекодмакс | Meaning: full code thing | Casual: вскодмакс | Hard: вкс | Type: affix
+code-intense — ко-и-д | Meaning: intense code | Casual: ко-и-д | Hard: к-д | Type: midfix
+code-before — ко-а-д | Meaning: before code | Casual: ко-а-д | Hard: к-д | Type: midfix
+code-un — ко-э-д | Meaning: not code | Casual: ко-э-д | Hard: к-д | Type: midfix
+code-question — ко-у-д | Meaning: questioning code | Casual: ко-у-д | Hard: к-д | Type: midfix
+pref-data — хайдэндан | Meaning: prefixed data | Casual: хайдэндан | Hard: хан | Type: prefix
+data-person — данство | Meaning: data person/thing | Casual: данство | Hard: дво | Type: suffix-n
+data-adj — даневат | Meaning: relating to data | Casual: даневт | Hard: дат | Type: suffix-a
+data-full — хайдэнданство | Meaning: full data thing | Casual: хайдэнданство | Hard: хво | Type: affix
+data-intense — да-и-н | Meaning: intense data | Casual: да-и-н | Hard: д-н | Type: midfix
+data-before — да-а-н | Meaning: before data | Casual: да-а-н | Hard: д-н | Type: midfix
+data-un — да-э-н | Meaning: not data | Casual: да-э-н | Hard: д-н | Type: midfix
+data-question — да-у-н | Meaning: questioning data | Casual: да-у-н | Hard: д-н | Type: midfix
+pref-signal — подсигнал | Meaning: prefixed signal | Casual: подсигнал | Hard: пал | Type: prefix
+signal-person — сигналмакс | Meaning: signal person/thing | Casual: сигналмакс | Hard: скс | Type: suffix-n
+signal-adj — сигналеват | Meaning: relating to signal | Casual: сигналевт | Hard: сат | Type: suffix-a
+signal-full — подсигналмакс | Meaning: full signal thing | Casual: подсигналмакс | Hard: пкс | Type: affix
+signal-intense — си-и-гнал | Meaning: intense signal | Casual: си-и-гнал | Hard: сал | Type: midfix
+signal-before — си-а-гнал | Meaning: before signal | Casual: си-а-гнал | Hard: сал | Type: midfix
+signal-un — си-э-гнал | Meaning: not signal | Casual: си-э-гнал | Hard: сал | Type: midfix
+signal-question — си-у-гнал | Meaning: questioning signal | Casual: си-у-гнал | Hard: сал | Type: midfix
+pref-memory — перепамят | Meaning: prefixed memory | Casual: перепмят | Hard: пят | Type: prefix
+memory-person — памятуля | Meaning: memory person/thing | Casual: памятля | Hard: пля | Type: suffix-n
+memory-adj — памятий | Meaning: relating to memory | Casual: памятй | Hard: пий | Type: suffix-a
+memory-full — перепамятуля | Meaning: full memory thing | Casual: перепмятул | Hard: пля | Type: affix
+memory-intense — па-и-мят | Meaning: intense memory | Casual: па-и-мят | Hard: пят | Type: midfix
+memory-before — па-а-мят | Meaning: before memory | Casual: па-а-мят | Hard: пят | Type: midfix
+memory-un — па-э-мят | Meaning: not memory | Casual: па-э-мят | Hard: пят | Type: midfix
+memory-question — па-у-мят | Meaning: questioning memory | Casual: па-у-мят | Hard: пят | Type: midfix
+pref-process — протопроцесс | Meaning: prefixed process | Casual: пртопроцесс | Hard: псс | Type: prefix
+process-person — процесслооп | Meaning: process person/thing | Casual: прцесслоп | Hard: поп | Type: suffix-n
+process-adj — процесстый | Meaning: relating to process | Casual: прцесстй | Hard: пый | Type: suffix-a
+process-full — протопроцесслооп | Meaning: full process thing | Casual: пртопроцесслоп | Hard: поп | Type: affix
+process-intense — про-и-цесс | Meaning: intense process | Casual: пр-и-цесс | Hard: псс | Type: midfix
+process-before — про-а-цесс | Meaning: before process | Casual: пр-а-цесс | Hard: псс | Type: midfix
+process-un — про-э-цесс | Meaning: not process | Casual: пр-э-цесс | Hard: псс | Type: midfix
+process-question — про-у-цесс | Meaning: questioning process | Casual: пр-у-цесс | Hard: псс | Type: midfix
+pref-thread — даркпоток | Meaning: prefixed thread | Casual: даркпток | Hard: док | Type: prefix
+thread-person — потоккрафт | Meaning: thread person/thing | Casual: потоккрафт | Hard: пфт | Type: suffix-n
+thread-adj — потокеват | Meaning: relating to thread | Casual: потокват | Hard: пат | Type: suffix-a
+thread-full — даркпотоккрафт | Meaning: full thread thing | Casual: даркптоккрфт | Hard: дфт | Type: affix
+thread-intense — по-и-ток | Meaning: intense thread | Casual: по-и-ток | Hard: пок | Type: midfix
+thread-before — по-а-ток | Meaning: before thread | Casual: по-а-ток | Hard: пок | Type: midfix
+thread-un — по-э-ток | Meaning: not thread | Casual: по-э-ток | Hard: пок | Type: midfix
+thread-question — по-у-ток | Meaning: questioning thread | Casual: по-у-ток | Hard: пок | Type: midfix
+pref-packet — многопакет | Meaning: prefixed packet | Casual: мнгопакт | Hard: мет | Type: prefix
+packet-person — пакетность | Meaning: packet person/thing | Casual: пакетность | Hard: пть | Type: suffix-n
+packet-adj — пакетовый | Meaning: relating to packet | Casual: пакетвый | Hard: пый | Type: suffix-a
+packet-full — многопакетность | Meaning: full packet thing | Casual: мнгопактнсть | Hard: мть | Type: affix
+packet-un — па-э-кет | Meaning: not packet | Casual: па-э-кет | Hard: пет | Type: midfix
+packet-question — па-у-кет | Meaning: questioning packet | Casual: па-у-кет | Hard: пет | Type: midfix
+pref-buffer — интербуфер | Meaning: prefixed buffer | Casual: интербуфр | Hard: иер | Type: prefix
+buffer-person — буферер | Meaning: buffer person/thing | Casual: буферр | Hard: бер | Type: suffix-n
+buffer-adj — буфереват | Meaning: relating to buffer | Casual: буферват | Hard: бат | Type: suffix-a
+buffer-full — интербуферер | Meaning: full buffer thing | Casual: интербуфрер | Hard: иер | Type: affix
+buffer-intense — бу-и-фер | Meaning: intense buffer | Casual: бу-и-фер | Hard: бер | Type: midfix
+buffer-before — бу-а-фер | Meaning: before buffer | Casual: бу-а-фер | Hard: бер | Type: midfix
+buffer-un — бу-э-фер | Meaning: not buffer | Casual: бу-э-фер | Hard: бер | Type: midfix
+buffer-question — бу-у-фер | Meaning: questioning buffer | Casual: бу-у-фер | Hard: бер | Type: midfix
+pref-socket — присокет | Meaning: prefixed socket | Casual: прсокет | Hard: пет | Type: prefix
+socket-person — сокетство | Meaning: socket person/thing | Casual: сокетств | Hard: сво | Type: suffix-n
+socket-adj — сокетой | Meaning: relating to socket | Casual: сокетй | Hard: сой | Type: suffix-a
+socket-full — присокетство | Meaning: full socket thing | Casual: прсокетств | Hard: пво | Type: affix
+socket-un — со-э-кет | Meaning: not socket | Casual: со-э-кет | Hard: сет | Type: midfix
+socket-question — со-у-кет | Meaning: questioning socket | Casual: со-у-кет | Hard: сет | Type: midfix
+pref-token — натокен | Meaning: prefixed token | Casual: натокн | Hard: нен | Type: prefix
+token-person — токенпак | Meaning: token person/thing | Casual: токенпак | Hard: так | Type: suffix-n
+token-adj — токеной | Meaning: relating to token | Casual: токенй | Hard: той | Type: suffix-a
+token-full — натокенпак | Meaning: full token thing | Casual: натокнпк | Hard: нак | Type: affix
+token-intense — то-и-кен | Meaning: intense token | Casual: то-и-кен | Hard: тен | Type: midfix
+token-before — то-а-кен | Meaning: before token | Casual: то-а-кен | Hard: тен | Type: midfix
+token-un — то-э-кен | Meaning: not token | Casual: то-э-кен | Hard: тен | Type: midfix
+token-question — то-у-кен | Meaning: questioning token | Casual: то-у-кен | Hard: тен | Type: midfix
+pref-block — взблок | Meaning: prefixed block | Casual: взблок | Hard: вок | Type: prefix
+block-person — блокик | Meaning: block person/thing | Casual: блкик | Hard: бик | Type: suffix-n
+block-adj — блокый | Meaning: relating to block | Casual: блкый | Hard: бый | Type: suffix-a
+block-full — взблокик | Meaning: full block thing | Casual: взблокик | Hard: вик | Type: affix
+block-intense — бло-и-к | Meaning: intense block | Casual: бл-и-к | Hard: б-к | Type: midfix
+block-before — бло-а-к | Meaning: before block | Casual: бл-а-к | Hard: б-к | Type: midfix
+block-un — бло-э-к | Meaning: not block | Casual: бл-э-к | Hard: б-к | Type: midfix
+block-question — бло-у-к | Meaning: questioning block | Casual: бл-у-к | Hard: б-к | Type: midfix
+pref-node — глобалузел | Meaning: prefixed node | Casual: глбалузл | Hard: гел | Type: prefix
+node-person — узелец | Meaning: node person/thing | Casual: узлец | Hard: уец | Type: suffix-n
+node-adj — узелельный | Meaning: relating to node | Casual: узлельнй | Hard: уый | Type: suffix-a
+node-full — глобалузелец | Meaning: full node thing | Casual: глбалузлец | Hard: гец | Type: affix
+node-intense — у-и-зел | Meaning: intense node | Casual: у--зл | Hard: уел | Type: midfix
+node-before — у-а-зел | Meaning: before node | Casual: у--зл | Hard: уел | Type: midfix
+node-un — у-э-зел | Meaning: not node | Casual: у--зл | Hard: уел | Type: midfix
+node-question — у-у-зел | Meaning: questioning node | Casual: у--зл | Hard: уел | Type: midfix
+pref-hash — нахеш | Meaning: prefixed hash | Casual: нахеш | Hard: неш | Type: prefix
+hash-person — хешина | Meaning: hash person/thing | Casual: хешин | Hard: хна | Type: suffix-n
+hash-adj — хешной | Meaning: relating to hash | Casual: хешной | Hard: хой | Type: suffix-a
+hash-full — нахешина | Meaning: full hash thing | Casual: нахешна | Hard: нна | Type: affix
+hash-intense — хе-и-ш | Meaning: intense hash | Casual: хе-и-ш | Hard: х-ш | Type: midfix
+hash-before — хе-а-ш | Meaning: before hash | Casual: хе-а-ш | Hard: х-ш | Type: midfix
+hash-un — хе-э-ш | Meaning: not hash | Casual: хе-э-ш | Hard: х-ш | Type: midfix
+hash-question — хе-у-ш | Meaning: questioning hash | Casual: хе-у-ш | Hard: х-ш | Type: midfix
+pref-core — бесядр | Meaning: prefixed core | Casual: бесядр | Hard: бдр | Type: prefix
+core-person — ядрник | Meaning: core person/thing | Casual: ядрник | Hard: яик | Type: suffix-n
+core-adj — ядрельный | Meaning: relating to core | Casual: ядрельный | Hard: яый | Type: suffix-a
+core-full — бесядрник | Meaning: full core thing | Casual: бесядрник | Hard: бик | Type: affix
+core-intense — я-и-др | Meaning: intense core | Casual: я--др | Hard: ядр | Type: midfix
+core-before — я-а-др | Meaning: before core | Casual: я--др | Hard: ядр | Type: midfix
+core-un — я-э-др | Meaning: not core | Casual: я--др | Hard: ядр | Type: midfix
+core-question — я-у-др | Meaning: questioning core | Casual: я--др | Hard: ядр | Type: midfix
+pref-seed — ресем | Meaning: prefixed seed | Casual: ресем | Hard: рем | Type: prefix
+seed-person — семдом | Meaning: seed person/thing | Casual: семдом | Hard: сом | Type: suffix-n
+seed-adj — семический | Meaning: relating to seed | Casual: семичскй | Hard: сий | Type: suffix-a
+seed-full — ресемдом | Meaning: full seed thing | Casual: ресемдом | Hard: ром | Type: affix
+seed-intense — се-и-м | Meaning: intense seed | Casual: се-и-м | Hard: с-м | Type: midfix
+seed-before — се-а-м | Meaning: before seed | Casual: се-а-м | Hard: с-м | Type: midfix
+seed-un — се-э-м | Meaning: not seed | Casual: се-э-м | Hard: с-м | Type: midfix
+seed-question — се-у-м | Meaning: questioning seed | Casual: се-у-м | Hard: с-м | Type: midfix
+pref-root — рекорн | Meaning: prefixed root | Casual: рекорн | Hard: ррн | Type: prefix
+root-person — корнмод | Meaning: root person/thing | Casual: корнмд | Hard: код | Type: suffix-n
+root-adj — корной | Meaning: relating to root | Casual: корной | Hard: кой | Type: suffix-a
+root-full — рекорнмод | Meaning: full root thing | Casual: рекорнмод | Hard: род | Type: affix
+root-intense — ко-и-рн | Meaning: intense root | Casual: ко-и-рн | Hard: крн | Type: midfix
+root-before — ко-а-рн | Meaning: before root | Casual: ко-а-рн | Hard: крн | Type: midfix
+root-un — ко-э-рн | Meaning: not root | Casual: ко-э-рн | Hard: крн | Type: midfix
+root-question — ко-у-рн | Meaning: questioning root | Casual: ко-у-рн | Hard: крн | Type: midfix
+trunk — ствол | Meaning: trunk | Casual: ствол | Hard: сол | Type: root
+pref-trunk — протоствол | Meaning: prefixed trunk | Casual: пртоствл | Hard: пол | Type: prefix
+trunk-person — стволлооп | Meaning: trunk person/thing | Casual: стволлооп | Hard: соп | Type: suffix-n
+trunk-adj — стволальный | Meaning: relating to trunk | Casual: стволльный | Hard: сый | Type: suffix-a
+trunk-full — протостволлооп | Meaning: full trunk thing | Casual: пртоствллоп | Hard: поп | Type: affix
+trunk-intense — ство-и-л | Meaning: intense trunk | Casual: ство--л | Hard: с-л | Type: midfix
+trunk-before — ство-а-л | Meaning: before trunk | Casual: ство--л | Hard: с-л | Type: midfix
+trunk-un — ство-э-л | Meaning: not trunk | Casual: ство--л | Hard: с-л | Type: midfix
+trunk-question — ство-у-л | Meaning: questioning trunk | Casual: ство--л | Hard: с-л | Type: midfix
+pref-branch — глобалвет | Meaning: prefixed branch | Casual: глбалвет | Hard: гет | Type: prefix
+branch-person — ветист | Meaning: branch person/thing | Casual: ветист | Hard: вст | Type: suffix-n
+branch-adj — ветий | Meaning: relating to branch | Casual: ветий | Hard: вий | Type: suffix-a
+branch-full — глобалветист | Meaning: full branch thing | Casual: глбалветист | Hard: гст | Type: affix
+branch-intense — ве-и-т | Meaning: intense branch | Casual: ве-и-т | Hard: в-т | Type: midfix
+branch-before — ве-а-т | Meaning: before branch | Casual: ве-а-т | Hard: в-т | Type: midfix
+branch-un — ве-э-т | Meaning: not branch | Casual: ве-э-т | Hard: в-т | Type: midfix
+branch-question — ве-у-т | Meaning: questioning branch | Casual: ве-у-т | Hard: в-т | Type: midfix
+pref-leaf — перелист | Meaning: prefixed leaf | Casual: перелст | Hard: пст | Type: prefix
+leaf-person — листура | Meaning: leaf person/thing | Casual: листура | Hard: лра | Type: suffix-n
+leaf-adj — листевый | Meaning: relating to leaf | Casual: листевый | Hard: лый | Type: suffix-a
+leaf-full — перелистура | Meaning: full leaf thing | Casual: перелстра | Hard: пра | Type: affix
+leaf-intense — ли-и-ст | Meaning: intense leaf | Casual: ли-и-ст | Hard: лст | Type: midfix
+leaf-before — ли-а-ст | Meaning: before leaf | Casual: ли-а-ст | Hard: лст | Type: midfix
+leaf-un — ли-э-ст | Meaning: not leaf | Casual: ли-э-ст | Hard: лст | Type: midfix
+leaf-question — ли-у-ст | Meaning: questioning leaf | Casual: ли-у-ст | Hard: лст | Type: midfix
+pref-bark — многокор | Meaning: prefixed bark | Casual: мнгокор | Hard: мор | Type: prefix
+bark-person — кормод | Meaning: bark person/thing | Casual: кормод | Hard: код | Type: suffix-n
+bark-adj — коревый | Meaning: relating to bark | Casual: коревй | Hard: кый | Type: suffix-a
+bark-full — многокормод | Meaning: full bark thing | Casual: мнгокормод | Hard: мод | Type: affix
+bark-intense — ко-и-р | Meaning: intense bark | Casual: ко-и-р | Hard: к-р | Type: midfix
+bark-before — ко-а-р | Meaning: before bark | Casual: ко-а-р | Hard: к-р | Type: midfix
+bark-un — ко-э-р | Meaning: not bark | Casual: ко-э-р | Hard: к-р | Type: midfix
+bark-question — ко-у-р | Meaning: questioning bark | Casual: ко-у-р | Hard: к-р | Type: midfix
+pref-thorn — вышип | Meaning: prefixed thorn | Casual: вышип | Hard: вип | Type: prefix
+thorn-person — шипность | Meaning: thorn person/thing | Casual: шипность | Hard: шть | Type: suffix-n
+thorn-adj — шипной | Meaning: relating to thorn | Casual: шипной | Hard: шой | Type: suffix-a
+thorn-full — вышипность | Meaning: full thorn thing | Casual: вышипность | Hard: вть | Type: affix
+thorn-intense — ши-и-п | Meaning: intense thorn | Casual: ши-и-п | Hard: ш-п | Type: midfix
+thorn-before — ши-а-п | Meaning: before thorn | Casual: ши-а-п | Hard: ш-п | Type: midfix
+thorn-un — ши-э-п | Meaning: not thorn | Casual: ши-э-п | Hard: ш-п | Type: midfix
+thorn-question — ши-у-п | Meaning: questioning thorn | Casual: ши-у-п | Hard: ш-п | Type: midfix
+pref-fruit — обплод | Meaning: prefixed fruit | Casual: обплод | Hard: оод | Type: prefix
+fruit-person — плодмакс | Meaning: fruit person/thing | Casual: плдмкс | Hard: пкс | Type: suffix-n
+fruit-adj — плодый | Meaning: relating to fruit | Casual: плдый | Hard: пый | Type: suffix-a
+fruit-full — обплодмакс | Meaning: full fruit thing | Casual: обплодмакс | Hard: окс | Type: affix
+fruit-intense — пло-и-д | Meaning: intense fruit | Casual: пл-и-д | Hard: п-д | Type: midfix
+fruit-before — пло-а-д | Meaning: before fruit | Casual: пл-а-д | Hard: п-д | Type: midfix
+fruit-un — пло-э-д | Meaning: not fruit | Casual: пл-э-д | Hard: п-д | Type: midfix
+fruit-question — пло-у-д | Meaning: questioning fruit | Casual: пл-у-д | Hard: п-д | Type: midfix
+pref-berry — переягод | Meaning: prefixed berry | Casual: переягод | Hard: под | Type: prefix
+berry-person — ягодуля | Meaning: berry person/thing | Casual: ягдуля | Hard: яля | Type: suffix-n
+berry-adj — ягодой | Meaning: relating to berry | Casual: ягдой | Hard: яой | Type: suffix-a
+berry-full — переягодуля | Meaning: full berry thing | Casual: переягодля | Hard: пля | Type: affix
+berry-intense — я-и-год | Meaning: intense berry | Casual: я--гд | Hard: яод | Type: midfix
+berry-before — я-а-год | Meaning: before berry | Casual: я--гд | Hard: яод | Type: midfix
+berry-un — я-э-год | Meaning: not berry | Casual: я--гд | Hard: яод | Type: midfix
+berry-question — я-у-год | Meaning: questioning berry | Casual: я--гд | Hard: яод | Type: midfix
+pref-petal — безлепестк | Meaning: prefixed petal | Casual: безлепестк | Hard: бтк | Type: prefix
+petal-person — лепесткист | Meaning: petal person/thing | Casual: лепесткист | Hard: лст | Type: suffix-n
+petal-adj — лепесткый | Meaning: relating to petal | Casual: лепесткый | Hard: лый | Type: suffix-a
+petal-full — безлепесткист | Meaning: full petal thing | Casual: безлепесткист | Hard: бст | Type: affix
+petal-intense — ле-и-пестк | Meaning: intense petal | Casual: ле-и-пестк | Hard: лтк | Type: midfix
+petal-before — ле-а-пестк | Meaning: before petal | Casual: ле-а-пестк | Hard: лтк | Type: midfix
+petal-un — ле-э-пестк | Meaning: not petal | Casual: ле-э-пестк | Hard: лтк | Type: midfix
+petal-question — ле-у-пестк | Meaning: questioning petal | Casual: ле-у-пестк | Hard: лтк | Type: midfix
+pref-bee — безпчел | Meaning: prefixed bee | Casual: безпчл | Hard: бел | Type: prefix
+bee-person — пчелность | Meaning: bee person/thing | Casual: пчлнсть | Hard: пть | Type: suffix-n
+bee-adj — пчелный | Meaning: relating to bee | Casual: пчлнй | Hard: пый | Type: suffix-a
+bee-full — безпчелность | Meaning: full bee thing | Casual: безпчлнсть | Hard: бть | Type: affix
+bee-intense — пче-и-л | Meaning: intense bee | Casual: пч-и-л | Hard: п-л | Type: midfix
+bee-before — пче-а-л | Meaning: before bee | Casual: пч-а-л | Hard: п-л | Type: midfix
+bee-un — пче-э-л | Meaning: not bee | Casual: пч-э-л | Hard: п-л | Type: midfix
+bee-question — пче-у-л | Meaning: questioning bee | Casual: пч-у-л | Hard: п-л | Type: midfix
+pref-ant — безмурав | Meaning: prefixed ant | Casual: безмурав | Hard: бав | Type: prefix
+ant-person — муравмод | Meaning: ant person/thing | Casual: муравмод | Hard: мод | Type: suffix-n
+ant-adj — муравевый | Meaning: relating to ant | Casual: мураввый | Hard: мый | Type: suffix-a
+ant-full — безмуравмод | Meaning: full ant thing | Casual: безмуравмод | Hard: бод | Type: affix
+ant-intense — му-и-рав | Meaning: intense ant | Casual: му-и-рав | Hard: мав | Type: midfix
+ant-before — му-а-рав | Meaning: before ant | Casual: му-а-рав | Hard: мав | Type: midfix
+ant-un — му-э-рав | Meaning: not ant | Casual: му-э-рав | Hard: мав | Type: midfix
+ant-question — му-у-рав | Meaning: questioning ant | Casual: му-у-рав | Hard: мав | Type: midfix
+pref-bug — прижук | Meaning: prefixed bug | Casual: пржук | Hard: пук | Type: prefix
+bug-person — жукина | Meaning: bug person/thing | Casual: жукин | Hard: жна | Type: suffix-n
+bug-adj — жукой | Meaning: relating to bug | Casual: жукой | Hard: жой | Type: suffix-a
+bug-full — прижукина | Meaning: full bug thing | Casual: пржукин | Hard: пна | Type: affix
+bug-intense — жу-и-к | Meaning: intense bug | Casual: жу-и-к | Hard: ж-к | Type: midfix
+bug-before — жу-а-к | Meaning: before bug | Casual: жу-а-к | Hard: ж-к | Type: midfix
+bug-un — жу-э-к | Meaning: not bug | Casual: жу-э-к | Hard: ж-к | Type: midfix
+bug-question — жу-у-к | Meaning: questioning bug | Casual: жу-у-к | Hard: ж-к | Type: midfix
+pref-worm — дарк черв | Meaning: prefixed worm | Casual: дарк черв | Hard: дрв | Type: prefix
+worm-person —  червкрафт | Meaning: worm person/thing | Casual:  чрвкрафт | Hard:  фт | Type: suffix-n
+worm-adj —  червой | Meaning: relating to worm | Casual:  чрвй | Hard:  ой | Type: suffix-a
+worm-full — дарк червкрафт | Meaning: full worm thing | Casual: дарк червкрфт | Hard: дфт | Type: affix
+worm-intense —  че-и-рв | Meaning: intense worm | Casual:  ч-и-рв | Hard:  рв | Type: midfix
+worm-before —  че-а-рв | Meaning: before worm | Casual:  ч-а-рв | Hard:  рв | Type: midfix
+worm-un —  че-э-рв | Meaning: not worm | Casual:  ч-э-рв | Hard:  рв | Type: midfix
+worm-question —  че-у-рв | Meaning: questioning worm | Casual:  ч-у-рв | Hard:  рв | Type: midfix
+pref-spider — глобалпаук | Meaning: prefixed spider | Casual: глбалпак | Hard: гук | Type: prefix
+spider-person — пауккрафт | Meaning: spider person/thing | Casual: паккрафт | Hard: пфт | Type: suffix-n
+spider-adj — паукический | Meaning: relating to spider | Casual: пакический | Hard: пий | Type: suffix-a
+spider-full — глобалпауккрафт | Meaning: full spider thing | Casual: глбалпаккрафт | Hard: гфт | Type: affix
+spider-intense — па-и-ук | Meaning: intense spider | Casual: па-и-к | Hard: пук | Type: midfix
+spider-before — па-а-ук | Meaning: before spider | Casual: па-а-к | Hard: пук | Type: midfix
+spider-un — па-э-ук | Meaning: not spider | Casual: па-э-к | Hard: пук | Type: midfix
+spider-question — па-у-ук | Meaning: questioning spider | Casual: па-у-к | Hard: пук | Type: midfix
+pref-snake — двузме | Meaning: prefixed snake | Casual: двзм | Hard: дме | Type: prefix
+snake-person — змеец | Meaning: snake person/thing | Casual: змец | Hard: зец | Type: suffix-n
+snake-adj — змеий | Meaning: relating to snake | Casual: змий | Hard: зий | Type: suffix-a
+snake-full — двузмеец | Meaning: full snake thing | Casual: двзмец | Hard: дец | Type: affix
+snake-intense — зме-и- | Meaning: intense snake | Casual: зм-и- | Hard: зи- | Type: midfix
+snake-before — зме-а- | Meaning: before snake | Casual: зм-а- | Hard: за- | Type: midfix
+snake-un — зме-э- | Meaning: not snake | Casual: зм-э- | Hard: зэ- | Type: midfix
+snake-question — зме-у- | Meaning: questioning snake | Casual: зм-у- | Hard: зу- | Type: midfix
+pref-frog — облягушк | Meaning: prefixed frog | Casual: облягшк | Hard: ошк | Type: prefix
+frog-person — лягушкица | Meaning: frog person/thing | Casual: лягушкиц | Hard: лца | Type: suffix-n
+frog-adj — лягушкский | Meaning: relating to frog | Casual: лягушкскй | Hard: лий | Type: suffix-a
+frog-full — облягушкица | Meaning: full frog thing | Casual: облягшкца | Hard: оца | Type: affix
+frog-intense — ля-и-гушк | Meaning: intense frog | Casual: ля-и-гушк | Hard: лшк | Type: midfix
+frog-before — ля-а-гушк | Meaning: before frog | Casual: ля-а-гушк | Hard: лшк | Type: midfix
+frog-un — ля-э-гушк | Meaning: not frog | Casual: ля-э-гушк | Hard: лшк | Type: midfix
+frog-question — ля-у-гушк | Meaning: questioning frog | Casual: ля-у-гушк | Hard: лшк | Type: midfix
+pref-turtle — глобал черепашк | Meaning: prefixed turtle | Casual: глбал чрепашк | Hard: гшк | Type: prefix
+turtle-person —  черепашкина | Meaning: turtle person/thing | Casual:  чрепашкин | Hard:  на | Type: suffix-n
+turtle-adj —  черепашкной | Meaning: relating to turtle | Casual:  чрепашкной | Hard:  ой | Type: suffix-a
+turtle-full — глобал черепашкина | Meaning: full turtle thing | Casual: глбал чрепашкин | Hard: гна | Type: affix
+turtle-intense —  че-и-репашк | Meaning: intense turtle | Casual:  ч-и-репашк | Hard:  шк | Type: midfix
+turtle-before —  че-а-репашк | Meaning: before turtle | Casual:  ч-а-репашк | Hard:  шк | Type: midfix
+turtle-un —  че-э-репашк | Meaning: not turtle | Casual:  ч-э-репашк | Hard:  шк | Type: midfix
+turtle-question —  че-у-репашк | Meaning: questioning turtle | Casual:  ч-у-репашк | Hard:  шк | Type: midfix
+pref-wolf — супэрволк | Meaning: prefixed wolf | Casual: супэрволк | Hard: слк | Type: prefix
+wolf-person — волкмакс | Meaning: wolf person/thing | Casual: волкмкс | Hard: вкс | Type: suffix-n
+wolf-adj — волкый | Meaning: relating to wolf | Casual: волкый | Hard: вый | Type: suffix-a
+wolf-full — супэрволкмакс | Meaning: full wolf thing | Casual: супэрволкмакс | Hard: скс | Type: affix
+wolf-intense — во-и-лк | Meaning: intense wolf | Casual: во-и-лк | Hard: влк | Type: midfix
+wolf-before — во-а-лк | Meaning: before wolf | Casual: во-а-лк | Hard: влк | Type: midfix
+wolf-un — во-э-лк | Meaning: not wolf | Casual: во-э-лк | Hard: влк | Type: midfix
+wolf-question — во-у-лк | Meaning: questioning wolf | Casual: во-у-лк | Hard: влк | Type: midfix
+pref-bear — домедвед | Meaning: prefixed bear | Casual: домедвед | Hard: дед | Type: prefix
+bear-person — медведазия | Meaning: bear person/thing | Casual: медведазя | Hard: мия | Type: suffix-n
+bear-adj — медведеват | Meaning: relating to bear | Casual: медведевт | Hard: мат | Type: suffix-a
+bear-full — домедведазия | Meaning: full bear thing | Casual: домедведзи | Hard: дия | Type: affix
+bear-intense — ме-и-двед | Meaning: intense bear | Casual: ме-и-двед | Hard: мед | Type: midfix
+bear-before — ме-а-двед | Meaning: before bear | Casual: ме-а-двед | Hard: мед | Type: midfix
+bear-un — ме-э-двед | Meaning: not bear | Casual: ме-э-двед | Hard: мед | Type: midfix
+bear-question — ме-у-двед | Meaning: questioning bear | Casual: ме-у-двед | Hard: мед | Type: midfix
+pref-fox — беслис | Meaning: prefixed fox | Casual: беслис | Hard: бис | Type: prefix
+fox-person — лисвэйв | Meaning: fox person/thing | Casual: лисвэйв | Hard: лйв | Type: suffix-n
+fox-adj — лисий | Meaning: relating to fox | Casual: лисий | Hard: лий | Type: suffix-a
+fox-full — беслисвэйв | Meaning: full fox thing | Casual: беслисвэйв | Hard: бйв | Type: affix
+fox-intense — ли-и-с | Meaning: intense fox | Casual: ли-и-с | Hard: л-с | Type: midfix
+fox-before — ли-а-с | Meaning: before fox | Casual: ли-а-с | Hard: л-с | Type: midfix
+fox-un — ли-э-с | Meaning: not fox | Casual: ли-э-с | Hard: л-с | Type: midfix
+fox-question — ли-у-с | Meaning: questioning fox | Casual: ли-у-с | Hard: л-с | Type: midfix
+pref-deer — локалолен | Meaning: prefixed deer | Casual: локаллен | Hard: лен | Type: prefix
+deer-person — оленник | Meaning: deer person/thing | Casual: олннк | Hard: оик | Type: suffix-n
+deer-adj — оленной | Meaning: relating to deer | Casual: олннй | Hard: оой | Type: suffix-a
+deer-full — локалоленник | Meaning: full deer thing | Casual: локалленник | Hard: лик | Type: affix
+deer-intense — о-и-лен | Meaning: intense deer | Casual: о--лн | Hard: оен | Type: midfix
+deer-before — о-а-лен | Meaning: before deer | Casual: о--лн | Hard: оен | Type: midfix
+deer-un — о-э-лен | Meaning: not deer | Casual: о--лн | Hard: оен | Type: midfix
+deer-question — о-у-лен | Meaning: questioning deer | Casual: о--лн | Hard: оен | Type: midfix
+pref-horse — экстралошад | Meaning: prefixed horse | Casual: экстрлошад | Hard: эад | Type: prefix
+horse-person — лошадазия | Meaning: horse person/thing | Casual: лошадзи | Hard: лия | Type: suffix-n
+horse-adj — лошадоват | Meaning: relating to horse | Casual: лошадват | Hard: лат | Type: suffix-a
+horse-full — экстралошадазия | Meaning: full horse thing | Casual: экстрлошадзи | Hard: эия | Type: affix
+horse-intense — ло-и-шад | Meaning: intense horse | Casual: ло-и-шад | Hard: лад | Type: midfix
+horse-before — ло-а-шад | Meaning: before horse | Casual: ло-а-шад | Hard: лад | Type: midfix
+horse-un — ло-э-шад | Meaning: not horse | Casual: ло-э-шад | Hard: лад | Type: midfix
+horse-question — ло-у-шад | Meaning: questioning horse | Casual: ло-у-шад | Hard: лад | Type: midfix
+pref-cow — многокоров | Meaning: prefixed cow | Casual: мнгокорв | Hard: мов | Type: prefix
+cow-person — коровина | Meaning: cow person/thing | Casual: коровна | Hard: кна | Type: suffix-n
+cow-adj — коровеват | Meaning: relating to cow | Casual: коровват | Hard: кат | Type: suffix-a
+cow-full — многокоровина | Meaning: full cow thing | Casual: мнгокорвина | Hard: мна | Type: affix
+cow-intense — ко-и-ров | Meaning: intense cow | Casual: ко-и-ров | Hard: ков | Type: midfix
+cow-before — ко-а-ров | Meaning: before cow | Casual: ко-а-ров | Hard: ков | Type: midfix
+cow-un — ко-э-ров | Meaning: not cow | Casual: ко-э-ров | Hard: ков | Type: midfix
+cow-question — ко-у-ров | Meaning: questioning cow | Casual: ко-у-ров | Hard: ков | Type: midfix
+pref-pig — ультрасвин | Meaning: prefixed pig | Casual: ультрсвн | Hard: уин | Type: prefix
+pig-person — свинтель | Meaning: pig person/thing | Casual: свнтль | Hard: сль | Type: suffix-n
+pig-adj — свиний | Meaning: relating to pig | Casual: свний | Hard: сий | Type: suffix-a
+pig-full — ультрасвинтель | Meaning: full pig thing | Casual: ультрсвнтль | Hard: уль | Type: affix
+pig-intense — сви-и-н | Meaning: intense pig | Casual: св-и-н | Hard: с-н | Type: midfix
+pig-before — сви-а-н | Meaning: before pig | Casual: св-а-н | Hard: с-н | Type: midfix
+pig-un — сви-э-н | Meaning: not pig | Casual: св-э-н | Hard: с-н | Type: midfix
+pig-question — сви-у-н | Meaning: questioning pig | Casual: св-у-н | Hard: с-н | Type: midfix
+pref-sheep — взовц | Meaning: prefixed sheep | Casual: взвц | Hard: ввц | Type: prefix
+sheep-person — овцер | Meaning: sheep person/thing | Casual: овцер | Hard: оер | Type: suffix-n
+sheep-adj — овцеват | Meaning: relating to sheep | Casual: овцевт | Hard: оат | Type: suffix-a
+sheep-full — взовцер | Meaning: full sheep thing | Casual: взвцр | Hard: вер | Type: affix
+sheep-intense — о-и-вц | Meaning: intense sheep | Casual: о--вц | Hard: овц | Type: midfix
+sheep-before — о-а-вц | Meaning: before sheep | Casual: о--вц | Hard: овц | Type: midfix
+sheep-un — о-э-вц | Meaning: not sheep | Casual: о--вц | Hard: овц | Type: midfix
+sheep-question — о-у-вц | Meaning: questioning sheep | Casual: о--вц | Hard: овц | Type: midfix
+pref-cat — полукошк | Meaning: prefixed cat | Casual: полукшк | Hard: пшк | Type: prefix
+cat-person — кошклооп | Meaning: cat person/thing | Casual: кошклоп | Hard: коп | Type: suffix-n
+cat-adj — кошкный | Meaning: relating to cat | Casual: кошкнй | Hard: кый | Type: suffix-a
+cat-full — полукошклооп | Meaning: full cat thing | Casual: полукшклооп | Hard: поп | Type: affix
+cat-intense — ко-и-шк | Meaning: intense cat | Casual: ко-и-шк | Hard: кшк | Type: midfix
+cat-before — ко-а-шк | Meaning: before cat | Casual: ко-а-шк | Hard: кшк | Type: midfix
+cat-un — ко-э-шк | Meaning: not cat | Casual: ко-э-шк | Hard: кшк | Type: midfix
+cat-question — ко-у-шк | Meaning: questioning cat | Casual: ко-у-шк | Hard: кшк | Type: midfix
+pref-mouse — антимвш | Meaning: prefixed mouse | Casual: антимвш | Hard: авш | Type: prefix
+mouse-person — мвшизм | Meaning: mouse person/thing | Casual: мвшизм | Hard: мзм | Type: suffix-n
+mouse-adj — мвшной | Meaning: relating to mouse | Casual: мвшной | Hard: мой | Type: suffix-a
+mouse-full — антимвшизм | Meaning: full mouse thing | Casual: антимвшизм | Hard: азм | Type: affix
+mouse-intense — мвш-и- | Meaning: intense mouse | Casual: мвш-и- | Hard: ми- | Type: midfix
+mouse-before — мвш-а- | Meaning: before mouse | Casual: мвш-а- | Hard: ма- | Type: midfix
+mouse-un — мвш-э- | Meaning: not mouse | Casual: мвш-э- | Hard: мэ- | Type: midfix
+mouse-question — мвш-у- | Meaning: questioning mouse | Casual: мвш-у- | Hard: му- | Type: midfix
+pref-bird — надптиц | Meaning: prefixed bird | Casual: надптц | Hard: ниц | Type: prefix
+bird-person — птицец | Meaning: bird person/thing | Casual: птцец | Hard: пец | Type: suffix-n
+bird-adj — птицевый | Meaning: relating to bird | Casual: птцевый | Hard: пый | Type: suffix-a
+bird-full — надптицец | Meaning: full bird thing | Casual: надптцец | Hard: нец | Type: affix
+bird-intense — пти-и-ц | Meaning: intense bird | Casual: пт-и-ц | Hard: п-ц | Type: midfix
+bird-before — пти-а-ц | Meaning: before bird | Casual: пт-а-ц | Hard: п-ц | Type: midfix
+bird-un — пти-э-ц | Meaning: not bird | Casual: пт-э-ц | Hard: п-ц | Type: midfix
+bird-question — пти-у-ц | Meaning: questioning bird | Casual: пт-у-ц | Hard: п-ц | Type: midfix
+pref-fish — хайдэнрыб | Meaning: prefixed fish | Casual: хайдэнрыб | Hard: хыб | Type: prefix
+fish-person — рыбик | Meaning: fish person/thing | Casual: рыбик | Hard: рик | Type: suffix-n
+fish-adj — рыбий | Meaning: relating to fish | Casual: рыбий | Hard: рий | Type: suffix-a
+fish-full — хайдэнрыбик | Meaning: full fish thing | Casual: хайдэнрыбик | Hard: хик | Type: affix
+fish-intense — ры-и-б | Meaning: intense fish | Casual: ры-и-б | Hard: р-б | Type: midfix
+fish-before — ры-а-б | Meaning: before fish | Casual: ры-а-б | Hard: р-б | Type: midfix
+fish-un — ры-э-б | Meaning: not fish | Casual: ры-э-б | Hard: р-б | Type: midfix
+fish-question — ры-у-б | Meaning: questioning fish | Casual: ры-у-б | Hard: р-б | Type: midfix
+
 PATCH AUDIT
 ================================================================================
-Base file: v6.63.943
+Base file: v6.63.944
 New English headwords: 500
 New duplicate English headwords: 0
 New Ш rules: 350
-Version: v6.63.943
+Version: v6.63.944
