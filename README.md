@@ -175,7 +175,7 @@ Understand virtually everything heard or read. Express yourself precisely.
 
 ## Wordbook
 
-The full dictionary lives in `DXN1-LANGUAGE_Wordbook_v6.63.939_PATCHED-6.txt` — 40,000+ English headwords with Cyrillic translations, casual/hard variants, and word classes.
+The full dictionary lives in `DXN1-LANGUAGE-v6.63.940.txt` — 40,000+ English headwords with Cyrillic translations, casual/hard variants, and word classes.
 
 ---
 

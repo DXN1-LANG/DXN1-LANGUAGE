@@ -12,6 +12,15 @@ Full version history of ДЖН1-LANGUAGE.
 - Cleaned up affixes section
 - Updated language concept description
 
+## v6.63.940 — August 26, 2026
+
+- Added 500 new midfix entries with 4 midfix vowels (-и-, -а-, -э-, -у-)
+- Added GR21-GR30: question midfix, compression rules, pronunciation limits
+- File renamed to DXN1-LANGUAGE-v6.63.940.txt (no more PATCHED format)
+- Words now have 4 midfix variants per root
+- Zero duplicates verified against 35,000+ existing headwords
+- Version bumped to v6.63.940
+
 ## v6.63.939 — August 26, 2026
 
 - Added 500 new midfix entries (root + midfix forms: intensity, past echo, negation)
