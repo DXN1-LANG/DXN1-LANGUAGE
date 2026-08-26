@@ -12,6 +12,15 @@ Full version history of ДЖН1-LANGUAGE.
 - Cleaned up affixes section
 - Updated language concept description
 
+## v6.63.939 — August 26, 2026
+
+- Added 500 new midfix entries (root + midfix forms: intensity, past echo, negation)
+- Added 10 new grammar rules (GR11-GR20) for midfix system
+- Each word now has 3 midfix variants: -и- (intensity), -а- (past), -э- (negation)
+- Midfix stack order: prefix + midfix + root + suffix
+- Examples: гул-и-ул (intense walk), гул-а-ул (walked-before), гул-э-ул (not-walk)
+- Version bumped to v6.63.939
+
 ## v6.63.938 — August 26, 2026
 
 - Added MIDFIX SYSTEM (infixes) — 20 new rules (MF1-MF20)

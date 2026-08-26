@@ -40935,10 +40935,532 @@ heaven — хеавен | Meaning: heaven | Casual: хевен | Hard: хен | 
 spirit — спирит | Meaning: spirit | Casual: сприт | Hard: сит | Type: root
 faith — фаитх | Meaning: faith | Casual: фатх | Hard: фтх | Type: root
 
+
+================================================================================
+NEW GRAMMAR RULES v6.63.939 (GR11–GR20)
+================================================================================
+
+GR11. Midfix vowels echo the root's first vowel for harmony unless fixed.
+GR12. A root may carry at most ONE midfix in Standard mode.
+GR13. Midfixes never attach to particles, pronouns, or function words.
+GR14. Midfixes stack AFTER prefix builders but BEFORE suffix families.
+GR15. In Casual mode, midfixes may be dropped if the root remains readable.
+GR16. In Nightmare mode, midfixs compress to a single character.
+GR17. A midfix changes meaning but not word class.
+GR18. When midfix and prefix conflict, prefix takes priority.
+GR19. Gender markers attach outside the midfix.
+GR20. Two midfixes require Hard mode and dot separator: root·и·а.
+
+================================================================================
+NEW ROOT WORD BANK — 500 MIDFIX ENTRIES
+================================================================================
+Format: English — ДЖН1 | Meaning: English gloss | Casual: short form | Hard: compressed form | Type: root/midfix
+
+valve — клапан | Meaning: valve | Casual: клпан | Hard: кан | Type: root
+valve-intense — кла-и-пан | Meaning: intense valve | Casual: кл-и-пан | Hard: кан | Type: midfix
+valve-before — кла-а-пан | Meaning: valve before | Casual: кл-а-пан | Hard: кан | Type: midfix
+unvalve — кла-э-пан | Meaning: not valve | Casual: кл-э-пан | Hard: кан | Type: midfix
+pump — насос | Meaning: pump | Casual: насос | Hard: нос | Type: root
+pump-intense — на-и-сос | Meaning: intense pump | Casual: на-и-сос | Hard: нос | Type: midfix
+pump-before — на-а-сос | Meaning: pump before | Casual: на-а-сос | Hard: нос | Type: midfix
+unpump — на-э-сос | Meaning: not pump | Casual: на-э-сос | Hard: нос | Type: midfix
+motor — мотор | Meaning: motor | Casual: мотор | Hard: мор | Type: root
+motor-intense — мо-и-тор | Meaning: intense motor | Casual: мо-и-тор | Hard: мор | Type: midfix
+motor-before — мо-а-тор | Meaning: motor before | Casual: мо-а-тор | Hard: мор | Type: midfix
+unmotor — мо-э-тор | Meaning: not motor | Casual: мо-э-тор | Hard: мор | Type: midfix
+input — ввод | Meaning: input | Casual: ввд | Hard: ввод | Type: root
+input-intense — вво-и-д | Meaning: intense input | Casual: вв-и-д | Hard: в-д | Type: midfix
+input-before — вво-а-д | Meaning: input before | Casual: вв-а-д | Hard: в-д | Type: midfix
+uninput — вво-э-д | Meaning: not input | Casual: вв-э-д | Hard: в-д | Type: midfix
+output — вывод | Meaning: output | Casual: вывод | Hard: вод | Type: root
+output-intense — вы-и-вод | Meaning: intense output | Casual: вы-и-вод | Hard: вод | Type: midfix
+output-before — вы-а-вод | Meaning: output before | Casual: вы-а-вод | Hard: вод | Type: midfix
+unoutput — вы-э-вод | Meaning: not output | Casual: вы-э-вод | Hard: вод | Type: midfix
+packet — пакет | Meaning: packet | Casual: пакет | Hard: пет | Type: root
+packet-intense — па-и-кет | Meaning: intense packet | Casual: па-и-кет | Hard: пет | Type: midfix
+packet-before — па-а-кет | Meaning: packet before | Casual: па-а-кет | Hard: пет | Type: midfix
+unpacket — па-э-кет | Meaning: not packet | Casual: па-э-кет | Hard: пет | Type: midfix
+socket — сокет | Meaning: socket | Casual: сокет | Hard: сет | Type: root
+socket-intense — со-и-кет | Meaning: intense socket | Casual: со-и-кет | Hard: сет | Type: midfix
+socket-before — со-а-кет | Meaning: socket before | Casual: со-а-кет | Hard: сет | Type: midfix
+unsocket — со-э-кет | Meaning: not socket | Casual: со-э-кет | Hard: сет | Type: midfix
+flood — наводнение | Meaning: flood | Casual: наводнене | Hard: ние | Type: root
+flood-intense — на-и-воднение | Meaning: intense flood | Casual: на-и-воднене | Hard: ние | Type: midfix
+flood-before — на-а-воднение | Meaning: flood before | Casual: на-а-воднене | Hard: ние | Type: midfix
+unflood — на-э-воднение | Meaning: not flood | Casual: на-э-воднене | Hard: ние | Type: midfix
+trail — след | Meaning: trail | Casual: слд | Hard: след | Type: root
+trail-intense — сле-и-д | Meaning: intense trail | Casual: сл-и-д | Hard: с-д | Type: midfix
+trail-before — сле-а-д | Meaning: trail before | Casual: сл-а-д | Hard: с-д | Type: midfix
+untrail — сле-э-д | Meaning: not trail | Casual: сл-э-д | Hard: с-д | Type: midfix
+track — дорожка | Meaning: track | Casual: дорожка | Hard: дка | Type: root
+track-intense — до-и-рожка | Meaning: intense track | Casual: до-и-рожка | Hard: дка | Type: midfix
+track-before — до-а-рожка | Meaning: track before | Casual: до-а-рожка | Hard: дка | Type: midfix
+untrack — до-э-рожка | Meaning: not track | Casual: до-э-рожка | Hard: дка | Type: midfix
+tone — тон | Meaning: tone | Casual: тон | Hard: тон | Type: root
+tone-intense — то-и-н | Meaning: intense tone | Casual: то-и-н | Hard: т-н | Type: midfix
+tone-before — то-а-н | Meaning: tone before | Casual: то-а-н | Hard: т-н | Type: midfix
+untone — то-э-н | Meaning: not tone | Casual: то-э-н | Hard: т-н | Type: midfix
+flute — флейта | Meaning: flute | Casual: флйт | Hard: фта | Type: root
+flute-intense — фле-и-йта | Meaning: intense flute | Casual: фл-и-йт | Hard: фта | Type: midfix
+flute-before — фле-а-йта | Meaning: flute before | Casual: фл-а-йт | Hard: фта | Type: midfix
+unflute — фле-э-йта | Meaning: not flute | Casual: фл-э-йт | Hard: фта | Type: midfix
+bpm — бпм | Meaning: bpm | Casual: бпм | Hard: бпм | Type: root
+bpm-intense — бпм-и- | Meaning: intense bpm | Casual: бпм-и- | Hard: би- | Type: midfix
+bpm-before — бпм-а- | Meaning: bpm before | Casual: бпм-а- | Hard: ба- | Type: midfix
+unbpm — бпм-э- | Meaning: not bpm | Casual: бпм-э- | Hard: бэ- | Type: midfix
+wage — зарплата | Meaning: wage | Casual: зарплта | Hard: зта | Type: root
+wage-intense — за-и-рплата | Meaning: intense wage | Casual: за-и-рплта | Hard: зта | Type: midfix
+wage-before — за-а-рплата | Meaning: wage before | Casual: за-а-рплта | Hard: зта | Type: midfix
+unwage — за-э-рплата | Meaning: not wage | Casual: за-э-рплта | Hard: зта | Type: midfix
+essay — эссе | Meaning: essay | Casual: эссе | Hard: эссе | Type: root
+essay-intense — э-и-ссе | Meaning: intense essay | Casual: э--ссе | Hard: эсе | Type: midfix
+essay-before — э-а-ссе | Meaning: essay before | Casual: э--ссе | Hard: эсе | Type: midfix
+unessay — э-э-ссе | Meaning: not essay | Casual: э--ссе | Hard: эсе | Type: midfix
+flux — поток | Meaning: flux | Casual: поток | Hard: пок | Type: root
+flux-intense — по-и-ток | Meaning: intense flux | Casual: по-и-ток | Hard: пок | Type: midfix
+flux-before — по-а-ток | Meaning: flux before | Casual: по-а-ток | Hard: пок | Type: midfix
+unflux — по-э-ток | Meaning: not flux | Casual: по-э-ток | Hard: пок | Type: midfix
+unit — единица | Meaning: unit | Casual: едница | Hard: еца | Type: root
+unit-intense — е-и-диница | Meaning: intense unit | Casual: е--дница | Hard: еца | Type: midfix
+unit-before — е-а-диница | Meaning: unit before | Casual: е--дница | Hard: еца | Type: midfix
+ununit — е-э-диница | Meaning: not unit | Casual: е--дница | Hard: еца | Type: midfix
+gloves — перчатки | Meaning: gloves | Casual: перчатки | Hard: пки | Type: root
+gloves-intense — пе-и-рчатки | Meaning: intense gloves | Casual: пе-и-рчатки | Hard: пки | Type: midfix
+gloves-before — пе-а-рчатки | Meaning: gloves before | Casual: пе-а-рчатки | Hard: пки | Type: midfix
+ungloves — пе-э-рчатки | Meaning: not gloves | Casual: пе-э-рчатки | Hard: пки | Type: midfix
+wrap — обёртка | Meaning: wrap | Casual: обртка | Hard: ока | Type: root
+wrap-intense — о-и-бёртка | Meaning: intense wrap | Casual: о--бртка | Hard: ока | Type: midfix
+wrap-before — о-а-бёртка | Meaning: wrap before | Casual: о--бртка | Hard: ока | Type: midfix
+unwrap — о-э-бёртка | Meaning: not wrap | Casual: о--бртка | Hard: ока | Type: midfix
+stitch — стежок | Meaning: stitch | Casual: стжок | Hard: сок | Type: root
+stitch-intense — сте-и-жок | Meaning: intense stitch | Casual: ст-и-жок | Hard: сок | Type: midfix
+stitch-before — сте-а-жок | Meaning: stitch before | Casual: ст-а-жок | Hard: сок | Type: midfix
+unstitch — сте-э-жок | Meaning: not stitch | Casual: ст-э-жок | Hard: сок | Type: midfix
+serve — серве | Meaning: serve | Casual: серве | Hard: све | Type: root
+serve-intense — се-и-рве | Meaning: intense serve | Casual: се-и-рве | Hard: све | Type: midfix
+serve-before — се-а-рве | Meaning: serve before | Casual: се-а-рве | Hard: све | Type: midfix
+unserve — се-э-рве | Meaning: not serve | Casual: се-э-рве | Hard: све | Type: midfix
+gauntlet — гаунтлет | Meaning: gauntlet | Casual: гантлет | Hard: гет | Type: root
+gauntlet-intense — га-и-унтлет | Meaning: intense gauntlet | Casual: га-и-нтлет | Hard: гет | Type: midfix
+gauntlet-before — га-а-унтлет | Meaning: gauntlet before | Casual: га-а-нтлет | Hard: гет | Type: midfix
+ungauntlet — га-э-унтлет | Meaning: not gauntlet | Casual: га-э-нтлет | Hard: гет | Type: midfix
+torch — торкх | Meaning: torch | Casual: торкх | Hard: ткх | Type: root
+torch-intense — то-и-ркх | Meaning: intense torch | Casual: то-и-ркх | Hard: ткх | Type: midfix
+torch-before — то-а-ркх | Meaning: torch before | Casual: то-а-ркх | Hard: ткх | Type: midfix
+untorch — то-э-ркх | Meaning: not torch | Casual: то-э-ркх | Hard: ткх | Type: midfix
+lantern — лантерн | Meaning: lantern | Casual: лантерн | Hard: лрн | Type: root
+lantern-intense — ла-и-нтерн | Meaning: intense lantern | Casual: ла-и-нтерн | Hard: лрн | Type: midfix
+lantern-before — ла-а-нтерн | Meaning: lantern before | Casual: ла-а-нтерн | Hard: лрн | Type: midfix
+unlantern — ла-э-нтерн | Meaning: not lantern | Casual: ла-э-нтерн | Hard: лрн | Type: midfix
+jewel — йевел | Meaning: jewel | Casual: йевел | Hard: йел | Type: root
+jewel-intense — йе-и-вел | Meaning: intense jewel | Casual: йе-и-вел | Hard: йел | Type: midfix
+jewel-before — йе-а-вел | Meaning: jewel before | Casual: йе-а-вел | Hard: йел | Type: midfix
+unjewel — йе-э-вел | Meaning: not jewel | Casual: йе-э-вел | Hard: йел | Type: midfix
+steel — стеел | Meaning: steel | Casual: стел | Hard: сел | Type: root
+steel-intense — сте-и-ел | Meaning: intense steel | Casual: ст-и-ел | Hard: сел | Type: midfix
+steel-before — сте-а-ел | Meaning: steel before | Casual: ст-а-ел | Hard: сел | Type: midfix
+unsteel — сте-э-ел | Meaning: not steel | Casual: ст-э-ел | Hard: сел | Type: midfix
+shell — схелл | Meaning: shell | Casual: схлл | Hard: слл | Type: root
+shell-intense — схе-и-лл | Meaning: intense shell | Casual: сх-и-лл | Hard: слл | Type: midfix
+shell-before — схе-а-лл | Meaning: shell before | Casual: сх-а-лл | Hard: слл | Type: midfix
+unshell — схе-э-лл | Meaning: not shell | Casual: сх-э-лл | Hard: слл | Type: midfix
+scale — скале | Meaning: scale | Casual: скле | Hard: сле | Type: root
+scale-intense — ска-и-ле | Meaning: intense scale | Casual: ск-и-ле | Hard: сле | Type: midfix
+scale-before — ска-а-ле | Meaning: scale before | Casual: ск-а-ле | Hard: сле | Type: midfix
+unscale — ска-э-ле | Meaning: not scale | Casual: ск-э-ле | Hard: сле | Type: midfix
+tail — таил | Meaning: tail | Casual: тал | Hard: таил | Type: root
+tail-intense — та-и-ил | Meaning: intense tail | Casual: та-и-л | Hard: тил | Type: midfix
+tail-before — та-а-ил | Meaning: tail before | Casual: та-а-л | Hard: тил | Type: midfix
+untail — та-э-ил | Meaning: not tail | Casual: та-э-л | Hard: тил | Type: midfix
+draft — драфт | Meaning: draft | Casual: дрфт | Hard: дфт | Type: root
+draft-intense — дра-и-фт | Meaning: intense draft | Casual: др-и-фт | Hard: дфт | Type: midfix
+draft-before — дра-а-фт | Meaning: draft before | Casual: др-а-фт | Hard: дфт | Type: midfix
+undraft — дра-э-фт | Meaning: not draft | Casual: др-э-фт | Hard: дфт | Type: midfix
+ripple — риппле | Meaning: ripple | Casual: риппл | Hard: рле | Type: root
+ripple-intense — ри-и-ппле | Meaning: intense ripple | Casual: ри-и-ппл | Hard: рле | Type: midfix
+ripple-before — ри-а-ппле | Meaning: ripple before | Casual: ри-а-ппл | Hard: рле | Type: midfix
+unripple — ри-э-ппле | Meaning: not ripple | Casual: ри-э-ппл | Hard: рле | Type: midfix
+splash — спласх | Meaning: splash | Casual: спласх | Hard: ссх | Type: root
+splash-intense — спла-и-сх | Meaning: intense splash | Casual: спла--сх | Hard: ссх | Type: midfix
+splash-before — спла-а-сх | Meaning: splash before | Casual: спла--сх | Hard: ссх | Type: midfix
+unsplash — спла-э-сх | Meaning: not splash | Casual: спла--сх | Hard: ссх | Type: midfix
+downpour — довнпоур | Meaning: downpour | Casual: довнпур | Hard: дур | Type: root
+downpour-intense — до-и-внпоур | Meaning: intense downpour | Casual: до-и-внпур | Hard: дур | Type: midfix
+downpour-before — до-а-внпоур | Meaning: downpour before | Casual: до-а-внпур | Hard: дур | Type: midfix
+undownpour — до-э-внпоур | Meaning: not downpour | Casual: до-э-внпур | Hard: дур | Type: midfix
+shadow — схадов | Meaning: shadow | Casual: схдов | Hard: сов | Type: root
+shadow-intense — сха-и-дов | Meaning: intense shadow | Casual: сх-и-дов | Hard: сов | Type: midfix
+shadow-before — сха-а-дов | Meaning: shadow before | Casual: сх-а-дов | Hard: сов | Type: midfix
+unshadow — сха-э-дов | Meaning: not shadow | Casual: сх-э-дов | Hard: сов | Type: midfix
+shade — схаде | Meaning: shade | Casual: схде | Hard: сде | Type: root
+shade-intense — сха-и-де | Meaning: intense shade | Casual: сх-и-де | Hard: сде | Type: midfix
+shade-before — сха-а-де | Meaning: shade before | Casual: сх-а-де | Hard: сде | Type: midfix
+unshade — сха-э-де | Meaning: not shade | Casual: сх-э-де | Hard: сде | Type: midfix
+spark — спарк | Meaning: spark | Casual: спрк | Hard: срк | Type: root
+spark-intense — спа-и-рк | Meaning: intense spark | Casual: сп-и-рк | Hard: срк | Type: midfix
+spark-before — спа-а-рк | Meaning: spark before | Casual: сп-а-рк | Hard: срк | Type: midfix
+unspark — спа-э-рк | Meaning: not spark | Casual: сп-э-рк | Hard: срк | Type: midfix
+flash — фласх | Meaning: flash | Casual: флсх | Hard: фсх | Type: root
+flash-intense — фла-и-сх | Meaning: intense flash | Casual: фл-и-сх | Hard: фсх | Type: midfix
+flash-before — фла-а-сх | Meaning: flash before | Casual: фл-а-сх | Hard: фсх | Type: midfix
+unflash — фла-э-сх | Meaning: not flash | Casual: фл-э-сх | Hard: фсх | Type: midfix
+inferno — инферно | Meaning: inferno | Casual: инферно | Hard: ино | Type: root
+inferno-intense — и-и-нферно | Meaning: intense inferno | Casual: и--нферно | Hard: ино | Type: midfix
+inferno-before — и-а-нферно | Meaning: inferno before | Casual: и--нферно | Hard: ино | Type: midfix
+uninferno — и-э-нферно | Meaning: not inferno | Casual: и--нферно | Hard: ино | Type: midfix
+scorch — скоркх | Meaning: scorch | Casual: скркх | Hard: скх | Type: root
+scorch-intense — ско-и-ркх | Meaning: intense scorch | Casual: ск-и-ркх | Hard: скх | Type: midfix
+scorch-before — ско-а-ркх | Meaning: scorch before | Casual: ск-а-ркх | Hard: скх | Type: midfix
+unscorch — ско-э-ркх | Meaning: not scorch | Casual: ск-э-ркх | Hard: скх | Type: midfix
+thaw — тхав | Meaning: thaw | Casual: тхв | Hard: тхав | Type: root
+thaw-intense — тха-и-в | Meaning: intense thaw | Casual: тх-и-в | Hard: т-в | Type: midfix
+thaw-before — тха-а-в | Meaning: thaw before | Casual: тх-а-в | Hard: т-в | Type: midfix
+unthaw — тха-э-в | Meaning: not thaw | Casual: тх-э-в | Hard: т-в | Type: midfix
+evaporate — евапорате | Meaning: evaporate | Casual: евпорат | Hard: ете | Type: root
+evaporate-intense — е-и-вапорате | Meaning: intense evaporate | Casual: е--впорат | Hard: ете | Type: midfix
+evaporate-before — е-а-вапорате | Meaning: evaporate before | Casual: е--впорат | Hard: ете | Type: midfix
+unevaporate — е-э-вапорате | Meaning: not evaporate | Casual: е--впорат | Hard: ете | Type: midfix
+precipitate — прекипитате | Meaning: precipitate | Casual: пркипитте | Hard: пте | Type: root
+precipitate-intense — пре-и-кипитате | Meaning: intense precipitate | Casual: пр-и-кипитте | Hard: пте | Type: midfix
+precipitate-before — пре-а-кипитате | Meaning: precipitate before | Casual: пр-а-кипитте | Hard: пте | Type: midfix
+unprecipitate — пре-э-кипитате | Meaning: not precipitate | Casual: пр-э-кипитте | Hard: пте | Type: midfix
+silent — силент | Meaning: silent | Casual: силент | Hard: снт | Type: root
+silent-intense — си-и-лент | Meaning: intense silent | Casual: си-и-лент | Hard: снт | Type: midfix
+silent-before — си-а-лент | Meaning: silent before | Casual: си-а-лент | Hard: снт | Type: midfix
+unsilent — си-э-лент | Meaning: not silent | Casual: си-э-лент | Hard: снт | Type: midfix
+hush — хусх | Meaning: hush | Casual: хусх | Hard: хусх | Type: root
+hush-intense — ху-и-сх | Meaning: intense hush | Casual: ху-и-сх | Hard: хсх | Type: midfix
+hush-before — ху-а-сх | Meaning: hush before | Casual: ху-а-сх | Hard: хсх | Type: midfix
+unhush — ху-э-сх | Meaning: not hush | Casual: ху-э-сх | Hard: хсх | Type: midfix
+terror — террор | Meaning: terror | Casual: террор | Hard: тор | Type: root
+terror-intense — те-и-ррор | Meaning: intense terror | Casual: те-и-ррор | Hard: тор | Type: midfix
+terror-before — те-а-ррор | Meaning: terror before | Casual: те-а-ррор | Hard: тор | Type: midfix
+unterror — те-э-ррор | Meaning: not terror | Casual: те-э-ррор | Hard: тор | Type: midfix
+dread — дреад | Meaning: dread | Casual: драд | Hard: дад | Type: root
+dread-intense — дре-и-ад | Meaning: intense dread | Casual: др-и-ад | Hard: дад | Type: midfix
+dread-before — дре-а-ад | Meaning: dread before | Casual: др-а-ад | Hard: дад | Type: midfix
+undread — дре-э-ад | Meaning: not dread | Casual: др-э-ад | Hard: дад | Type: midfix
+sting — стинг | Meaning: sting | Casual: стнг | Hard: снг | Type: root
+sting-intense — сти-и-нг | Meaning: intense sting | Casual: ст-и-нг | Hard: снг | Type: midfix
+sting-before — сти-а-нг | Meaning: sting before | Casual: ст-а-нг | Hard: снг | Type: midfix
+unsting — сти-э-нг | Meaning: not sting | Casual: ст-э-нг | Hard: снг | Type: midfix
+throb — тхроб | Meaning: throb | Casual: тхроб | Hard: тоб | Type: root
+throb-intense — тхро-и-б | Meaning: intense throb | Casual: тхро--б | Hard: т-б | Type: midfix
+throb-before — тхро-а-б | Meaning: throb before | Casual: тхро--б | Hard: т-б | Type: midfix
+unthrob — тхро-э-б | Meaning: not throb | Casual: тхро--б | Hard: т-б | Type: midfix
+dizzy — диззй | Meaning: dizzy | Casual: диззй | Hard: дзй | Type: root
+dizzy-intense — ди-и-ззй | Meaning: intense dizzy | Casual: ди-и-ззй | Hard: дзй | Type: midfix
+dizzy-before — ди-а-ззй | Meaning: dizzy before | Casual: ди-а-ззй | Hard: дзй | Type: midfix
+undizzy — ди-э-ззй | Meaning: not dizzy | Casual: ди-э-ззй | Hard: дзй | Type: midfix
+faint — фаинт | Meaning: faint | Casual: фант | Hard: фнт | Type: root
+faint-intense — фа-и-инт | Meaning: intense faint | Casual: фа-и-нт | Hard: фнт | Type: midfix
+faint-before — фа-а-инт | Meaning: faint before | Casual: фа-а-нт | Hard: фнт | Type: midfix
+unfaint — фа-э-инт | Meaning: not faint | Casual: фа-э-нт | Hard: фнт | Type: midfix
+exhausted — ексхаустед | Meaning: exhausted | Casual: ексхастд | Hard: еед | Type: root
+exhausted-intense — е-и-ксхаустед | Meaning: intense exhausted | Casual: е--ксхастд | Hard: еед | Type: midfix
+exhausted-before — е-а-ксхаустед | Meaning: exhausted before | Casual: е--ксхастд | Hard: еед | Type: midfix
+unexhausted — е-э-ксхаустед | Meaning: not exhausted | Casual: е--ксхастд | Hard: еед | Type: midfix
+refreshed — рефресхед | Meaning: refreshed | Casual: рефресхед | Hard: ред | Type: root
+refreshed-intense — ре-и-фресхед | Meaning: intense refreshed | Casual: ре-и-фресхед | Hard: ред | Type: midfix
+refreshed-before — ре-а-фресхед | Meaning: refreshed before | Casual: ре-а-фресхед | Hard: ред | Type: midfix
+unrefreshed — ре-э-фресхед | Meaning: not refreshed | Casual: ре-э-фресхед | Hard: ред | Type: midfix
+restored — ресторед | Meaning: restored | Casual: ресторед | Hard: ред | Type: root
+restored-intense — ре-и-сторед | Meaning: intense restored | Casual: ре-и-сторед | Hard: ред | Type: midfix
+restored-before — ре-а-сторед | Meaning: restored before | Casual: ре-а-сторед | Hard: ред | Type: midfix
+unrestored — ре-э-сторед | Meaning: not restored | Casual: ре-э-сторед | Hard: ред | Type: midfix
+shattered — схаттеред | Meaning: shattered | Casual: схттред | Hard: сед | Type: root
+shattered-intense — сха-и-ттеред | Meaning: intense shattered | Casual: сх-и-ттред | Hard: сед | Type: midfix
+shattered-before — сха-а-ттеред | Meaning: shattered before | Casual: сх-а-ттред | Hard: сед | Type: midfix
+unshattered — сха-э-ттеред | Meaning: not shattered | Casual: сх-э-ттред | Hard: сед | Type: midfix
+splintered — сплинтеред | Meaning: splintered | Casual: сплинтерд | Hard: сед | Type: root
+splintered-intense — спли-и-нтеред | Meaning: intense splintered | Casual: спли--нтерд | Hard: сед | Type: midfix
+splintered-before — спли-а-нтеред | Meaning: splintered before | Casual: спли--нтерд | Hard: сед | Type: midfix
+unsplintered — спли-э-нтеред | Meaning: not splintered | Casual: спли--нтерд | Hard: сед | Type: midfix
+fractured — фрактуред | Meaning: fractured | Casual: фрктред | Hard: фед | Type: root
+fractured-intense — фра-и-ктуред | Meaning: intense fractured | Casual: фр-и-ктред | Hard: фед | Type: midfix
+fractured-before — фра-а-ктуред | Meaning: fractured before | Casual: фр-а-ктред | Hard: фед | Type: midfix
+unfractured — фра-э-ктуред | Meaning: not fractured | Casual: фр-э-ктред | Hard: фед | Type: midfix
+torn — торн | Meaning: torn | Casual: торн | Hard: торн | Type: root
+torn-intense — то-и-рн | Meaning: intense torn | Casual: то-и-рн | Hard: трн | Type: midfix
+torn-before — то-а-рн | Meaning: torn before | Casual: то-а-рн | Hard: трн | Type: midfix
+untorn — то-э-рн | Meaning: not torn | Casual: то-э-рн | Hard: трн | Type: midfix
+rumble — румбле | Meaning: rumble | Casual: румбл | Hard: рле | Type: root
+rumble-intense — ру-и-мбле | Meaning: intense rumble | Casual: ру-и-мбл | Hard: рле | Type: midfix
+rumble-before — ру-а-мбле | Meaning: rumble before | Casual: ру-а-мбл | Hard: рле | Type: midfix
+unrumble — ру-э-мбле | Meaning: not rumble | Casual: ру-э-мбл | Hard: рле | Type: midfix
+growl — гровл | Meaning: growl | Casual: грвл | Hard: гвл | Type: root
+growl-intense — гро-и-вл | Meaning: intense growl | Casual: гр-и-вл | Hard: гвл | Type: midfix
+growl-before — гро-а-вл | Meaning: growl before | Casual: гр-а-вл | Hard: гвл | Type: midfix
+ungrowl — гро-э-вл | Meaning: not growl | Casual: гр-э-вл | Hard: гвл | Type: midfix
+drone — дроне | Meaning: drone | Casual: дрне | Hard: дне | Type: root
+drone-intense — дро-и-не | Meaning: intense drone | Casual: др-и-не | Hard: дне | Type: midfix
+drone-before — дро-а-не | Meaning: drone before | Casual: др-а-не | Hard: дне | Type: midfix
+undrone — дро-э-не | Meaning: not drone | Casual: др-э-не | Hard: дне | Type: midfix
+whir — вхир | Meaning: whir | Casual: вхр | Hard: вхир | Type: root
+whir-intense — вхи-и-р | Meaning: intense whir | Casual: вх-и-р | Hard: в-р | Type: midfix
+whir-before — вхи-а-р | Meaning: whir before | Casual: вх-а-р | Hard: в-р | Type: midfix
+unwhir — вхи-э-р | Meaning: not whir | Casual: вх-э-р | Hard: в-р | Type: midfix
+thud — тхуд | Meaning: thud | Casual: тхд | Hard: тхуд | Type: root
+thud-intense — тху-и-д | Meaning: intense thud | Casual: тх-и-д | Hard: т-д | Type: midfix
+thud-before — тху-а-д | Meaning: thud before | Casual: тх-а-д | Hard: т-д | Type: midfix
+unthud — тху-э-д | Meaning: not thud | Casual: тх-э-д | Hard: т-д | Type: midfix
+smash — смасх | Meaning: smash | Casual: смсх | Hard: ссх | Type: root
+smash-intense — сма-и-сх | Meaning: intense smash | Casual: см-и-сх | Hard: ссх | Type: midfix
+smash-before — сма-а-сх | Meaning: smash before | Casual: см-а-сх | Hard: ссх | Type: midfix
+unsmash — сма-э-сх | Meaning: not smash | Casual: см-э-сх | Hard: ссх | Type: midfix
+crimson — кримсон | Meaning: crimson | Casual: крмсн | Hard: кон | Type: root
+crimson-intense — кри-и-мсон | Meaning: intense crimson | Casual: кр-и-мсн | Hard: кон | Type: midfix
+crimson-before — кри-а-мсон | Meaning: crimson before | Casual: кр-а-мсн | Hard: кон | Type: midfix
+uncrimson — кри-э-мсон | Meaning: not crimson | Casual: кр-э-мсн | Hard: кон | Type: midfix
+scarlet — скарлет | Meaning: scarlet | Casual: скрлт | Hard: сет | Type: root
+scarlet-intense — ска-и-рлет | Meaning: intense scarlet | Casual: ск-и-рлт | Hard: сет | Type: midfix
+scarlet-before — ска-а-рлет | Meaning: scarlet before | Casual: ск-а-рлт | Hard: сет | Type: midfix
+unscarlet — ска-э-рлет | Meaning: not scarlet | Casual: ск-э-рлт | Hard: сет | Type: midfix
+vermillion — вермиллион | Meaning: vermillion | Casual: вермиллин | Hard: вон | Type: root
+vermillion-intense — ве-и-рмиллион | Meaning: intense vermillion | Casual: ве-и-рмиллин | Hard: вон | Type: midfix
+vermillion-before — ве-а-рмиллион | Meaning: vermillion before | Casual: ве-а-рмиллин | Hard: вон | Type: midfix
+unvermillion — ве-э-рмиллион | Meaning: not vermillion | Casual: ве-э-рмиллин | Hard: вон | Type: midfix
+ivory — иворй | Meaning: ivory | Casual: иврй | Hard: ирй | Type: root
+ivory-intense — и-и-ворй | Meaning: intense ivory | Casual: и--врй | Hard: ирй | Type: midfix
+ivory-before — и-а-ворй | Meaning: ivory before | Casual: и--врй | Hard: ирй | Type: midfix
+univory — и-э-ворй | Meaning: not ivory | Casual: и--врй | Hard: ирй | Type: midfix
+obsidian — обсидиан | Meaning: obsidian | Casual: обсидан | Hard: оан | Type: root
+obsidian-intense — о-и-бсидиан | Meaning: intense obsidian | Casual: о--бсидан | Hard: оан | Type: midfix
+obsidian-before — о-а-бсидиан | Meaning: obsidian before | Casual: о--бсидан | Hard: оан | Type: midfix
+unobsidian — о-э-бсидиан | Meaning: not obsidian | Casual: о--бсидан | Hard: оан | Type: midfix
+trillion — триллион | Meaning: trillion | Casual: трллон | Hard: тон | Type: root
+trillion-intense — три-и-ллион | Meaning: intense trillion | Casual: тр-и-ллон | Hard: тон | Type: midfix
+trillion-before — три-а-ллион | Meaning: trillion before | Casual: тр-а-ллон | Hard: тон | Type: midfix
+untrillion — три-э-ллион | Meaning: not trillion | Casual: тр-э-ллон | Hard: тон | Type: midfix
+quadrillion — кууадриллион | Meaning: quadrillion | Casual: куадриллион | Hard: кон | Type: root
+quadrillion-intense — ку-и-уадриллион | Meaning: intense quadrillion | Casual: ку-и-адриллион | Hard: кон | Type: midfix
+quadrillion-before — ку-а-уадриллион | Meaning: quadrillion before | Casual: ку-а-адриллион | Hard: кон | Type: midfix
+unquadrillion — ку-э-уадриллион | Meaning: not quadrillion | Casual: ку-э-адриллион | Hard: кон | Type: midfix
+quintillion — кууинтиллион | Meaning: quintillion | Casual: куинтиллион | Hard: кон | Type: root
+quintillion-intense — ку-и-уинтиллион | Meaning: intense quintillion | Casual: ку-и-интиллион | Hard: кон | Type: midfix
+quintillion-before — ку-а-уинтиллион | Meaning: quintillion before | Casual: ку-а-интиллион | Hard: кон | Type: midfix
+unquintillion — ку-э-уинтиллион | Meaning: not quintillion | Casual: ку-э-интиллион | Hard: кон | Type: midfix
+decade — декаде | Meaning: decade | Casual: декад | Hard: дде | Type: root
+decade-intense — де-и-каде | Meaning: intense decade | Casual: де-и-кад | Hard: дде | Type: midfix
+decade-before — де-а-каде | Meaning: decade before | Casual: де-а-кад | Hard: дде | Type: midfix
+undecade — де-э-каде | Meaning: not decade | Casual: де-э-кад | Hard: дде | Type: midfix
+millennium — милленниум | Meaning: millennium | Casual: милленним | Hard: мум | Type: root
+millennium-intense — ми-и-лленниум | Meaning: intense millennium | Casual: ми-и-лленним | Hard: мум | Type: midfix
+millennium-before — ми-а-лленниум | Meaning: millennium before | Casual: ми-а-лленним | Hard: мум | Type: midfix
+unmillennium — ми-э-лленниум | Meaning: not millennium | Casual: ми-э-лленним | Hard: мум | Type: midfix
+epoch — епокх | Meaning: epoch | Casual: епкх | Hard: екх | Type: root
+epoch-intense — е-и-покх | Meaning: intense epoch | Casual: е--пкх | Hard: екх | Type: midfix
+epoch-before — е-а-покх | Meaning: epoch before | Casual: е--пкх | Hard: екх | Type: midfix
+unepoch — е-э-покх | Meaning: not epoch | Casual: е--пкх | Hard: екх | Type: midfix
+cycle — кйкле | Meaning: cycle | Casual: кйкле | Hard: кле | Type: root
+cycle-intense — кйкле-и- | Meaning: intense cycle | Casual: кйкле-и- | Hard: ки- | Type: midfix
+cycle-before — кйкле-а- | Meaning: cycle before | Casual: кйкле-а- | Hard: ка- | Type: midfix
+uncycle — кйкле-э- | Meaning: not cycle | Casual: кйкле-э- | Hard: кэ- | Type: midfix
+void — воид | Meaning: void | Casual: вод | Hard: воид | Type: root
+void-intense — во-и-ид | Meaning: intense void | Casual: во-и-д | Hard: вид | Type: midfix
+void-before — во-а-ид | Meaning: void before | Casual: во-а-д | Hard: вид | Type: midfix
+unvoid — во-э-ид | Meaning: not void | Casual: во-э-д | Hard: вид | Type: midfix
+lepton — лептон | Meaning: lepton | Casual: лептон | Hard: лон | Type: root
+lepton-intense — ле-и-птон | Meaning: intense lepton | Casual: ле-и-птон | Hard: лон | Type: midfix
+lepton-before — ле-а-птон | Meaning: lepton before | Casual: ле-а-птон | Hard: лон | Type: midfix
+unlepton — ле-э-птон | Meaning: not lepton | Casual: ле-э-птон | Hard: лон | Type: midfix
+boson — босон | Meaning: boson | Casual: босон | Hard: бон | Type: root
+boson-intense — бо-и-сон | Meaning: intense boson | Casual: бо-и-сон | Hard: бон | Type: midfix
+boson-before — бо-а-сон | Meaning: boson before | Casual: бо-а-сон | Hard: бон | Type: midfix
+unboson — бо-э-сон | Meaning: not boson | Casual: бо-э-сон | Hard: бон | Type: midfix
+fermion — фермион | Meaning: fermion | Casual: фермин | Hard: фон | Type: root
+fermion-intense — фе-и-рмион | Meaning: intense fermion | Casual: фе-и-рмин | Hard: фон | Type: midfix
+fermion-before — фе-а-рмион | Meaning: fermion before | Casual: фе-а-рмин | Hard: фон | Type: midfix
+unfermion — фе-э-рмион | Meaning: not fermion | Casual: фе-э-рмин | Hard: фон | Type: midfix
+hadron — хадрон | Meaning: hadron | Casual: хадрон | Hard: хон | Type: root
+hadron-intense — ха-и-дрон | Meaning: intense hadron | Casual: ха-и-дрон | Hard: хон | Type: midfix
+hadron-before — ха-а-дрон | Meaning: hadron before | Casual: ха-а-дрон | Hard: хон | Type: midfix
+unhadron — ха-э-дрон | Meaning: not hadron | Casual: ха-э-дрон | Hard: хон | Type: midfix
+meson — месон | Meaning: meson | Casual: месон | Hard: мон | Type: root
+meson-intense — ме-и-сон | Meaning: intense meson | Casual: ме-и-сон | Hard: мон | Type: midfix
+meson-before — ме-а-сон | Meaning: meson before | Casual: ме-а-сон | Hard: мон | Type: midfix
+unmeson — ме-э-сон | Meaning: not meson | Casual: ме-э-сон | Hard: мон | Type: midfix
+palace — палаке | Meaning: palace | Casual: палак | Hard: пке | Type: root
+palace-intense — па-и-лаке | Meaning: intense palace | Casual: па-и-лак | Hard: пке | Type: midfix
+palace-before — па-а-лаке | Meaning: palace before | Casual: па-а-лак | Hard: пке | Type: midfix
+unpalace — па-э-лаке | Meaning: not palace | Casual: па-э-лак | Hard: пке | Type: midfix
+fortress — фортресс | Meaning: fortress | Casual: фортрсс | Hard: фсс | Type: root
+fortress-intense — фо-и-ртресс | Meaning: intense fortress | Casual: фо-и-ртрсс | Hard: фсс | Type: midfix
+fortress-before — фо-а-ртресс | Meaning: fortress before | Casual: фо-а-ртрсс | Hard: фсс | Type: midfix
+unfortress — фо-э-ртресс | Meaning: not fortress | Casual: фо-э-ртрсс | Hard: фсс | Type: midfix
+shrine — схрине | Meaning: shrine | Casual: схрин | Hard: сне | Type: root
+shrine-intense — схри-и-не | Meaning: intense shrine | Casual: схри--н | Hard: сне | Type: midfix
+shrine-before — схри-а-не | Meaning: shrine before | Casual: схри--н | Hard: сне | Type: midfix
+unshrine — схри-э-не | Meaning: not shrine | Casual: схри--н | Hard: сне | Type: midfix
+living room — ливинг роом | Meaning: living room | Casual: ливинг ром | Hard: лом | Type: root
+living room-intense — ли-и-винг роом | Meaning: intense living room | Casual: ли-и-винг ром | Hard: лом | Type: midfix
+living room-before — ли-а-винг роом | Meaning: living room before | Casual: ли-а-винг ром | Hard: лом | Type: midfix
+unliving room — ли-э-винг роом | Meaning: not living room | Casual: ли-э-винг ром | Hard: лом | Type: midfix
+dining room — дининг роом | Meaning: dining room | Casual: дининг ром | Hard: дом | Type: root
+dining room-intense — ди-и-нинг роом | Meaning: intense dining room | Casual: ди-и-нинг ром | Hard: дом | Type: midfix
+dining room-before — ди-а-нинг роом | Meaning: dining room before | Casual: ди-а-нинг ром | Hard: дом | Type: midfix
+undining room — ди-э-нинг роом | Meaning: not dining room | Casual: ди-э-нинг ром | Hard: дом | Type: midfix
+helicopter — хеликоптер | Meaning: helicopter | Casual: хеликптр | Hard: хер | Type: root
+helicopter-intense — хе-и-ликоптер | Meaning: intense helicopter | Casual: хе-и-ликптр | Hard: хер | Type: midfix
+helicopter-before — хе-а-ликоптер | Meaning: helicopter before | Casual: хе-а-ликптр | Hard: хер | Type: midfix
+unhelicopter — хе-э-ликоптер | Meaning: not helicopter | Casual: хе-э-ликптр | Hard: хер | Type: midfix
+submarine — субмарине | Meaning: submarine | Casual: субмарин | Hard: сне | Type: root
+submarine-intense — су-и-бмарине | Meaning: intense submarine | Casual: су-и-бмарин | Hard: сне | Type: midfix
+submarine-before — су-а-бмарине | Meaning: submarine before | Casual: су-а-бмарин | Hard: сне | Type: midfix
+unsubmarine — су-э-бмарине | Meaning: not submarine | Casual: су-э-бмарин | Hard: сне | Type: midfix
+ferry — феррй | Meaning: ferry | Casual: феррй | Hard: фрй | Type: root
+ferry-intense — фе-и-ррй | Meaning: intense ferry | Casual: фе-и-ррй | Hard: фрй | Type: midfix
+ferry-before — фе-а-ррй | Meaning: ferry before | Casual: фе-а-ррй | Hard: фрй | Type: midfix
+unferry — фе-э-ррй | Meaning: not ferry | Casual: фе-э-ррй | Hard: фрй | Type: midfix
+yacht — йакхт | Meaning: yacht | Casual: йакхт | Hard: йхт | Type: root
+yacht-intense — йа-и-кхт | Meaning: intense yacht | Casual: йа-и-кхт | Hard: йхт | Type: midfix
+yacht-before — йа-а-кхт | Meaning: yacht before | Casual: йа-а-кхт | Hard: йхт | Type: midfix
+unyacht — йа-э-кхт | Meaning: not yacht | Casual: йа-э-кхт | Hard: йхт | Type: midfix
+flail — флаил | Meaning: flail | Casual: флил | Hard: фил | Type: root
+flail-intense — фла-и-ил | Meaning: intense flail | Casual: фл-и-ил | Hard: фил | Type: midfix
+flail-before — фла-а-ил | Meaning: flail before | Casual: фл-а-ил | Hard: фил | Type: midfix
+unflail — фла-э-ил | Meaning: not flail | Casual: фл-э-ил | Hard: фил | Type: midfix
+whip — вхип | Meaning: whip | Casual: вхп | Hard: вхип | Type: root
+whip-intense — вхи-и-п | Meaning: intense whip | Casual: вх-и-п | Hard: в-п | Type: midfix
+whip-before — вхи-а-п | Meaning: whip before | Casual: вх-а-п | Hard: в-п | Type: midfix
+unwhip — вхи-э-п | Meaning: not whip | Casual: вх-э-п | Hard: в-п | Type: midfix
+lance — ланке | Meaning: lance | Casual: ланке | Hard: лке | Type: root
+lance-intense — ла-и-нке | Meaning: intense lance | Casual: ла-и-нке | Hard: лке | Type: midfix
+lance-before — ла-а-нке | Meaning: lance before | Casual: ла-а-нке | Hard: лке | Type: midfix
+unlance — ла-э-нке | Meaning: not lance | Casual: ла-э-нке | Hard: лке | Type: midfix
+javelin — йавелин | Meaning: javelin | Casual: йавелн | Hard: йин | Type: root
+javelin-intense — йа-и-велин | Meaning: intense javelin | Casual: йа-и-велн | Hard: йин | Type: midfix
+javelin-before — йа-а-велин | Meaning: javelin before | Casual: йа-а-велн | Hard: йин | Type: midfix
+unjavelin — йа-э-велин | Meaning: not javelin | Casual: йа-э-велн | Hard: йин | Type: midfix
+slingshot — слингсхот | Meaning: slingshot | Casual: слнгсхот | Hard: сот | Type: root
+slingshot-intense — сли-и-нгсхот | Meaning: intense slingshot | Casual: сл-и-нгсхот | Hard: сот | Type: midfix
+slingshot-before — сли-а-нгсхот | Meaning: slingshot before | Casual: сл-а-нгсхот | Hard: сот | Type: midfix
+unslingshot — сли-э-нгсхот | Meaning: not slingshot | Casual: сл-э-нгсхот | Hard: сот | Type: midfix
+crossbow — кроссбов | Meaning: crossbow | Casual: крссбов | Hard: ков | Type: root
+crossbow-intense — кро-и-ссбов | Meaning: intense crossbow | Casual: кр-и-ссбов | Hard: ков | Type: midfix
+crossbow-before — кро-а-ссбов | Meaning: crossbow before | Casual: кр-а-ссбов | Hard: ков | Type: midfix
+uncrossbow — кро-э-ссбов | Meaning: not crossbow | Casual: кр-э-ссбов | Hard: ков | Type: midfix
+musket — мускет | Meaning: musket | Casual: мускет | Hard: мет | Type: root
+musket-intense — му-и-скет | Meaning: intense musket | Casual: му-и-скет | Hard: мет | Type: midfix
+musket-before — му-а-скет | Meaning: musket before | Casual: му-а-скет | Hard: мет | Type: midfix
+unmusket — му-э-скет | Meaning: not musket | Casual: му-э-скет | Hard: мет | Type: midfix
+pistol — пистол | Meaning: pistol | Casual: пистол | Hard: пол | Type: root
+pistol-intense — пи-и-стол | Meaning: intense pistol | Casual: пи-и-стол | Hard: пол | Type: midfix
+pistol-before — пи-а-стол | Meaning: pistol before | Casual: пи-а-стол | Hard: пол | Type: midfix
+unpistol — пи-э-стол | Meaning: not pistol | Casual: пи-э-стол | Hard: пол | Type: midfix
+shotgun — схотгун | Meaning: shotgun | Casual: схтгн | Hard: сун | Type: root
+shotgun-intense — схо-и-тгун | Meaning: intense shotgun | Casual: сх-и-тгн | Hard: сун | Type: midfix
+shotgun-before — схо-а-тгун | Meaning: shotgun before | Casual: сх-а-тгн | Hard: сун | Type: midfix
+unshotgun — схо-э-тгун | Meaning: not shotgun | Casual: сх-э-тгн | Hard: сун | Type: midfix
+spell — спелл | Meaning: spell | Casual: сплл | Hard: слл | Type: root
+spell-intense — спе-и-лл | Meaning: intense spell | Casual: сп-и-лл | Hard: слл | Type: midfix
+spell-before — спе-а-лл | Meaning: spell before | Casual: сп-а-лл | Hard: слл | Type: midfix
+unspell — спе-э-лл | Meaning: not spell | Casual: сп-э-лл | Hard: слл | Type: midfix
+curse — курсе | Meaning: curse | Casual: курсе | Hard: ксе | Type: root
+curse-intense — ку-и-рсе | Meaning: intense curse | Casual: ку-и-рсе | Hard: ксе | Type: midfix
+curse-before — ку-а-рсе | Meaning: curse before | Casual: ку-а-рсе | Hard: ксе | Type: midfix
+uncurse — ку-э-рсе | Meaning: not curse | Casual: ку-э-рсе | Hard: ксе | Type: midfix
+enchantment — енкхантмент | Meaning: enchantment | Casual: енкхантмнт | Hard: ент | Type: root
+enchantment-intense — е-и-нкхантмент | Meaning: intense enchantment | Casual: е--нкхантмнт | Hard: ент | Type: midfix
+enchantment-before — е-а-нкхантмент | Meaning: enchantment before | Casual: е--нкхантмнт | Hard: ент | Type: midfix
+unenchantment — е-э-нкхантмент | Meaning: not enchantment | Casual: е--нкхантмнт | Hard: ент | Type: midfix
+illusion — иллусион | Meaning: illusion | Casual: иллусон | Hard: ион | Type: root
+illusion-intense — и-и-ллусион | Meaning: intense illusion | Casual: и--ллусон | Hard: ион | Type: midfix
+illusion-before — и-а-ллусион | Meaning: illusion before | Casual: и--ллусон | Hard: ион | Type: midfix
+unillusion — и-э-ллусион | Meaning: not illusion | Casual: и--ллусон | Hard: ион | Type: midfix
+summon — суммон | Meaning: summon | Casual: суммон | Hard: сон | Type: root
+summon-intense — су-и-ммон | Meaning: intense summon | Casual: су-и-ммон | Hard: сон | Type: midfix
+summon-before — су-а-ммон | Meaning: summon before | Casual: су-а-ммон | Hard: сон | Type: midfix
+unsummon — су-э-ммон | Meaning: not summon | Casual: су-э-ммон | Hard: сон | Type: midfix
+teleport — телепорт | Meaning: teleport | Casual: телепрт | Hard: трт | Type: root
+teleport-intense — те-и-лепорт | Meaning: intense teleport | Casual: те-и-лепрт | Hard: трт | Type: midfix
+teleport-before — те-а-лепорт | Meaning: teleport before | Casual: те-а-лепрт | Hard: трт | Type: midfix
+unteleport — те-э-лепорт | Meaning: not teleport | Casual: те-э-лепрт | Hard: трт | Type: midfix
+resurrect — ресуррект | Meaning: resurrect | Casual: ресуррект | Hard: ркт | Type: root
+resurrect-intense — ре-и-суррект | Meaning: intense resurrect | Casual: ре-и-суррект | Hard: ркт | Type: midfix
+resurrect-before — ре-а-суррект | Meaning: resurrect before | Casual: ре-а-суррект | Hard: ркт | Type: midfix
+unresurrect — ре-э-суррект | Meaning: not resurrect | Casual: ре-э-суррект | Hard: ркт | Type: midfix
+sigil — сигил | Meaning: sigil | Casual: сигил | Hard: сил | Type: root
+sigil-intense — си-и-гил | Meaning: intense sigil | Casual: си-и-гил | Hard: сил | Type: midfix
+sigil-before — си-а-гил | Meaning: sigil before | Casual: си-а-гил | Hard: сил | Type: midfix
+unsigil — си-э-гил | Meaning: not sigil | Casual: си-э-гил | Hard: сил | Type: midfix
+talisman — талисман | Meaning: talisman | Casual: талисман | Hard: тан | Type: root
+talisman-intense — та-и-лисман | Meaning: intense talisman | Casual: та-и-лисман | Hard: тан | Type: midfix
+talisman-before — та-а-лисман | Meaning: talisman before | Casual: та-а-лисман | Hard: тан | Type: midfix
+untalisman — та-э-лисман | Meaning: not talisman | Casual: та-э-лисман | Hard: тан | Type: midfix
+pendant — пендант | Meaning: pendant | Casual: пендант | Hard: пнт | Type: root
+pendant-intense — пе-и-ндант | Meaning: intense pendant | Casual: пе-и-ндант | Hard: пнт | Type: midfix
+pendant-before — пе-а-ндант | Meaning: pendant before | Casual: пе-а-ндант | Hard: пнт | Type: midfix
+unpendant — пе-э-ндант | Meaning: not pendant | Casual: пе-э-ндант | Hard: пнт | Type: midfix
+relic — релик | Meaning: relic | Casual: релик | Hard: рик | Type: root
+relic-intense — ре-и-лик | Meaning: intense relic | Casual: ре-и-лик | Hard: рик | Type: midfix
+relic-before — ре-а-лик | Meaning: relic before | Casual: ре-а-лик | Hard: рик | Type: midfix
+unrelic — ре-э-лик | Meaning: not relic | Casual: ре-э-лик | Hard: рик | Type: midfix
+totem — тотем | Meaning: totem | Casual: тотем | Hard: тем | Type: root
+totem-intense — то-и-тем | Meaning: intense totem | Casual: то-и-тем | Hard: тем | Type: midfix
+totem-before — то-а-тем | Meaning: totem before | Casual: то-а-тем | Hard: тем | Type: midfix
+untotem — то-э-тем | Meaning: not totem | Casual: то-э-тем | Hard: тем | Type: midfix
+dominate — доминате | Meaning: dominate | Casual: доминте | Hard: дте | Type: root
+dominate-intense — до-и-минате | Meaning: intense dominate | Casual: до-и-минте | Hard: дте | Type: midfix
+dominate-before — до-а-минате | Meaning: dominate before | Casual: до-а-минте | Hard: дте | Type: midfix
+undominate — до-э-минате | Meaning: not dominate | Casual: до-э-минте | Hard: дте | Type: midfix
+obliterate — облитерате | Meaning: obliterate | Casual: облитрате | Hard: оте | Type: root
+obliterate-intense — о-и-блитерате | Meaning: intense obliterate | Casual: о--блитрате | Hard: оте | Type: midfix
+obliterate-before — о-а-блитерате | Meaning: obliterate before | Casual: о--блитрате | Hard: оте | Type: midfix
+unobliterate — о-э-блитерате | Meaning: not obliterate | Casual: о--блитрате | Hard: оте | Type: midfix
+devastate — девастате | Meaning: devastate | Casual: девастат | Hard: дте | Type: root
+devastate-intense — де-и-вастате | Meaning: intense devastate | Casual: де-и-вастат | Hard: дте | Type: midfix
+devastate-before — де-а-вастате | Meaning: devastate before | Casual: де-а-вастат | Hard: дте | Type: midfix
+undevastate — де-э-вастате | Meaning: not devastate | Casual: де-э-вастат | Hard: дте | Type: midfix
+enhance — енханке | Meaning: enhance | Casual: енханке | Hard: еке | Type: root
+enhance-intense — е-и-нханке | Meaning: intense enhance | Casual: е--нханке | Hard: еке | Type: midfix
+enhance-before — е-а-нханке | Meaning: enhance before | Casual: е--нханке | Hard: еке | Type: midfix
+unenhance — е-э-нханке | Meaning: not enhance | Casual: е--нханке | Hard: еке | Type: midfix
+magnify — магнифй | Meaning: magnify | Casual: магнифй | Hard: мфй | Type: root
+magnify-intense — ма-и-гнифй | Meaning: intense magnify | Casual: ма-и-гнифй | Hard: мфй | Type: midfix
+magnify-before — ма-а-гнифй | Meaning: magnify before | Casual: ма-а-гнифй | Hard: мфй | Type: midfix
+unmagnify — ма-э-гнифй | Meaning: not magnify | Casual: ма-э-гнифй | Hard: мфй | Type: midfix
+intensify — интенсифй | Meaning: intensify | Casual: интенсифй | Hard: ифй | Type: root
+intensify-intense — и-и-нтенсифй | Meaning: intense intensify | Casual: и--нтенсифй | Hard: ифй | Type: midfix
+intensify-before — и-а-нтенсифй | Meaning: intensify before | Casual: и--нтенсифй | Hard: ифй | Type: midfix
+unintensify — и-э-нтенсифй | Meaning: not intensify | Casual: и--нтенсифй | Hard: ифй | Type: midfix
+weaken — веакен | Meaning: weaken | Casual: векен | Hard: вен | Type: root
+weaken-intense — ве-и-акен | Meaning: intense weaken | Casual: ве-и-кен | Hard: вен | Type: midfix
+weaken-before — ве-а-акен | Meaning: weaken before | Casual: ве-а-кен | Hard: вен | Type: midfix
+unweaken — ве-э-акен | Meaning: not weaken | Casual: ве-э-кен | Hard: вен | Type: midfix
+diminish — диминисх | Meaning: diminish | Casual: диминсх | Hard: дсх | Type: root
+diminish-intense — ди-и-минисх | Meaning: intense diminish | Casual: ди-и-минсх | Hard: дсх | Type: midfix
+diminish-before — ди-а-минисх | Meaning: diminish before | Casual: ди-а-минсх | Hard: дсх | Type: midfix
+undiminish — ди-э-минисх | Meaning: not diminish | Casual: ди-э-минсх | Hard: дсх | Type: midfix
+enlarge — енларге | Meaning: enlarge | Casual: енларге | Hard: еге | Type: root
+enlarge-intense — е-и-нларге | Meaning: intense enlarge | Casual: е--нларге | Hard: еге | Type: midfix
+enlarge-before — е-а-нларге | Meaning: enlarge before | Casual: е--нларге | Hard: еге | Type: midfix
+unenlarge — е-э-нларге | Meaning: not enlarge | Casual: е--нларге | Hard: еге | Type: midfix
+multiply — мултиплй | Meaning: multiply | Casual: мултиплй | Hard: млй | Type: root
+multiply-intense — му-и-лтиплй | Meaning: intense multiply | Casual: му-и-лтиплй | Hard: млй | Type: midfix
+multiply-before — му-а-лтиплй | Meaning: multiply before | Casual: му-а-лтиплй | Hard: млй | Type: midfix
+unmultiply — му-э-лтиплй | Meaning: not multiply | Casual: му-э-лтиплй | Hard: млй | Type: midfix
+proliferate — пролиферате | Meaning: proliferate | Casual: прлиферте | Hard: пте | Type: root
+proliferate-intense — про-и-лиферате | Meaning: intense proliferate | Casual: пр-и-лиферте | Hard: пте | Type: midfix
+proliferate-before — про-а-лиферате | Meaning: proliferate before | Casual: пр-а-лиферте | Hard: пте | Type: midfix
+unproliferate — про-э-лиферате | Meaning: not proliferate | Casual: пр-э-лиферте | Hard: пте | Type: midfix
+mighty — мигхтй | Meaning: mighty | Casual: мигхтй | Hard: мтй | Type: root
+mighty-intense — ми-и-гхтй | Meaning: intense mighty | Casual: ми-и-гхтй | Hard: мтй | Type: midfix
+mighty-before — ми-а-гхтй | Meaning: mighty before | Casual: ми-а-гхтй | Hard: мтй | Type: midfix
+unmighty — ми-э-гхтй | Meaning: not mighty | Casual: ми-э-гхтй | Hard: мтй | Type: midfix
+powerful — поверфул | Meaning: powerful | Casual: поверфул | Hard: пул | Type: root
+powerful-intense — по-и-верфул | Meaning: intense powerful | Casual: по-и-верфул | Hard: пул | Type: midfix
+powerful-before — по-а-верфул | Meaning: powerful before | Casual: по-а-верфул | Hard: пул | Type: midfix
+unpowerful — по-э-верфул | Meaning: not powerful | Casual: по-э-верфул | Hard: пул | Type: midfix
+fragile — фрагиле | Meaning: fragile | Casual: фргиле | Hard: фле | Type: root
+fragile-intense — фра-и-гиле | Meaning: intense fragile | Casual: фр-и-гиле | Hard: фле | Type: midfix
+fragile-before — фра-а-гиле | Meaning: fragile before | Casual: фр-а-гиле | Hard: фле | Type: midfix
+unfragile — фра-э-гиле | Meaning: not fragile | Casual: фр-э-гиле | Hard: фле | Type: midfix
+
 PATCH AUDIT
 ================================================================================
-Base file: v6.63.938_PATCHED
+Base file: v6.63.939_PATCHED
 New English headwords: 500
 New duplicate English headwords: 0
 New Ш rules: 350
-Version: v6.63.938
+Version: v6.63.939
