@@ -12,6 +12,21 @@ Full version history of ДЖН1-LANGUAGE.
 - Cleaned up affixes section
 - Updated language concept description
 
+## v6.63.943 — August 26, 2026
+
+- Added 2,090 new entries: 160 profanity + 58 anatomy + 200 general + 1,672 midfix
+- Added 30 new prefixes (PR1-PR30): пре-, из-, вз-, с-, по-, за-, etc.
+- Added 30 new midfixes (MF21-MF50): reflexive, emotional, diminutive, augmentative, etc.
+- Added 30 new suffixes (SF51-SF80): -азия, -ура, -ент, -ист, -ик, etc.
+- Profanity section: fuck, shit, damn, hell, bastard, etc. (DXN1 invented)
+- Anatomy section: penis, vagina, clitoris, testicles, etc. (medical terms)
+- Sexual acts: sex, oral, anal, handjob, etc. (clinical + slang)
+- General vocabulary: mirror, glass, window, door, furniture, food, etc.
+- All entries have 4 midfix variants: -и-, -а-, -э-, -у-
+- Zero duplicates verified against 41,000+ existing headwords
+- File renamed to DXN1-LANGUAGE-v6.63.943.txt
+- Version bumped to v6.63.943
+
 ## v6.63.942 — August 26, 2026
 
 - Added 4,700 new entries (940 roots + 3,760 midfix variants)
