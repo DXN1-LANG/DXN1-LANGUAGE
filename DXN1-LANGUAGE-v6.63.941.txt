@@ -1,4 +1,4 @@
-ДЖН1-LANGUAGE WORD & RULE BOOK v6.63.940
+ДЖН1-LANGUAGE WORD & RULE BOOK v6.63.941
 ========================================================================================
 
 LANGUAGE CONCEPT
@@ -41459,7 +41459,7 @@ unfragile — фра-э-гиле | Meaning: not fragile | Casual: фр-э-гил
 
 
 ================================================================================
-NEW GRAMMAR RULES v6.63.940 (GR21–GR30)
+NEW GRAMMAR RULES v6.63.941 (GR21–GR30)
 ================================================================================
 
 GR21. Midfix -у- adds questioning/doubt to any root.
@@ -41979,10 +41979,1112 @@ snare drum-before — сна-а-редрум | Meaning: before snare drum | Casu
 snare drum-un — сна-э-редрум | Meaning: not snare drum | Casual: сн-э-редрум | Hard: сум | Type: midfix
 snare drum-question — сна-у-редрум | Meaning: questioning snare drum | Casual: сн-у-редрум | Hard: сум | Type: midfix
 
+
+================================================================================
+NEW GRAMMAR RULES v6.63.941 (GR31–GR40)
+================================================================================
+
+GR31. Midfix -у- may stack with ли for double-question emphasis.
+GR32. A midfix root may receive gender marking on the OUTSIDE only.
+GR33. Casual mode may compress 4 midfix vowels to 2: -и-/-э- → -и-.
+GR34. Hard mode may drop the midfix entirely if root is 4+ letters.
+GR35. Nightmare mode uses dot notation: root·и·suffix.
+GR36. Midfix forms may be used as standalone interjections.
+GR37. A midfix may not create a triple-consonant cluster.
+GR38. When two midfixes are needed, use Hard mode with hyphen separator.
+GR39. Midfix + prefix stacking follows: prefix + midfix + root.
+GR40. A midfix on a borrowed word preserves the original vowel pattern.
+
+================================================================================
+NEW ROOT WORD BANK — 1,080 MIDFIX ENTRIES
+================================================================================
+Format: English — ДЖН1 | Meaning: English gloss | Casual: short form | Hard: compressed form | Type: root/midfix
+
+plug — плуг | Meaning: plug | Casual: плг | Hard: плуг | Type: root
+plug-intense — плу-и-г | Meaning: intense plug | Casual: пл-и-г | Hard: п-г | Type: midfix
+plug-before — плу-а-г | Meaning: before plug | Casual: пл-а-г | Hard: п-г | Type: midfix
+plug-un — плу-э-г | Meaning: not plug | Casual: пл-э-г | Hard: п-г | Type: midfix
+plug-question — плу-у-г | Meaning: questioning plug | Casual: пл-у-г | Hard: п-г | Type: midfix
+hinge — хинге | Meaning: hinge | Casual: хинге | Hard: хге | Type: root
+hinge-intense — хи-и-нге | Meaning: intense hinge | Casual: хи-и-нге | Hard: хге | Type: midfix
+hinge-before — хи-а-нге | Meaning: before hinge | Casual: хи-а-нге | Hard: хге | Type: midfix
+hinge-un — хи-э-нге | Meaning: not hinge | Casual: хи-э-нге | Hard: хге | Type: midfix
+hinge-question — хи-у-нге | Meaning: questioning hinge | Casual: хи-у-нге | Hard: хге | Type: midfix
+string — стринг | Meaning: string | Casual: стринг | Hard: снг | Type: root
+string-intense — стри-и-нг | Meaning: intense string | Casual: стри--нг | Hard: снг | Type: midfix
+string-before — стри-а-нг | Meaning: before string | Casual: стри--нг | Hard: снг | Type: midfix
+string-un — стри-э-нг | Meaning: not string | Casual: стри--нг | Hard: снг | Type: midfix
+string-question — стри-у-нг | Meaning: questioning string | Casual: стри--нг | Hard: снг | Type: midfix
+tape — тапе | Meaning: tape | Casual: тапе | Hard: тапе | Type: root
+tape-intense — та-и-пе | Meaning: intense tape | Casual: та-и-пе | Hard: тпе | Type: midfix
+tape-before — та-а-пе | Meaning: before tape | Casual: та-а-пе | Hard: тпе | Type: midfix
+tape-un — та-э-пе | Meaning: not tape | Casual: та-э-пе | Hard: тпе | Type: midfix
+tape-question — та-у-пе | Meaning: questioning tape | Casual: та-у-пе | Hard: тпе | Type: midfix
+strap — страп | Meaning: strap | Casual: страп | Hard: сап | Type: root
+strap-intense — стра-и-п | Meaning: intense strap | Casual: стра--п | Hard: с-п | Type: midfix
+strap-before — стра-а-п | Meaning: before strap | Casual: стра--п | Hard: с-п | Type: midfix
+strap-un — стра-э-п | Meaning: not strap | Casual: стра--п | Hard: с-п | Type: midfix
+strap-question — стра-у-п | Meaning: questioning strap | Casual: стра--п | Hard: с-п | Type: midfix
+sneeze — снеезе | Meaning: sneeze | Casual: снез | Hard: сзе | Type: root
+sneeze-intense — сне-и-езе | Meaning: intense sneeze | Casual: сн-и-ез | Hard: сзе | Type: midfix
+sneeze-before — сне-а-езе | Meaning: before sneeze | Casual: сн-а-ез | Hard: сзе | Type: midfix
+sneeze-un — сне-э-езе | Meaning: not sneeze | Casual: сн-э-ез | Hard: сзе | Type: midfix
+sneeze-question — сне-у-езе | Meaning: questioning sneeze | Casual: сн-у-ез | Hard: сзе | Type: midfix
+yawn — йавн | Meaning: yawn | Casual: йавн | Hard: йавн | Type: root
+yawn-intense — йа-и-вн | Meaning: intense yawn | Casual: йа-и-вн | Hard: йвн | Type: midfix
+yawn-before — йа-а-вн | Meaning: before yawn | Casual: йа-а-вн | Hard: йвн | Type: midfix
+yawn-un — йа-э-вн | Meaning: not yawn | Casual: йа-э-вн | Hard: йвн | Type: midfix
+yawn-question — йа-у-вн | Meaning: questioning yawn | Casual: йа-у-вн | Hard: йвн | Type: midfix
+squat — скууат | Meaning: squat | Casual: скуат | Hard: сат | Type: root
+squat-intense — ску-и-уат | Meaning: intense squat | Casual: ск-и-уат | Hard: сат | Type: midfix
+squat-before — ску-а-уат | Meaning: before squat | Casual: ск-а-уат | Hard: сат | Type: midfix
+squat-un — ску-э-уат | Meaning: not squat | Casual: ск-э-уат | Hard: сат | Type: midfix
+squat-question — ску-у-уат | Meaning: questioning squat | Casual: ск-у-уат | Hard: сат | Type: midfix
+stroll — стролл | Meaning: stroll | Casual: стролл | Hard: слл | Type: root
+stroll-intense — стро-и-лл | Meaning: intense stroll | Casual: стро--лл | Hard: слл | Type: midfix
+stroll-before — стро-а-лл | Meaning: before stroll | Casual: стро--лл | Hard: слл | Type: midfix
+stroll-un — стро-э-лл | Meaning: not stroll | Casual: стро--лл | Hard: слл | Type: midfix
+stroll-question — стро-у-лл | Meaning: questioning stroll | Casual: стро--лл | Hard: слл | Type: midfix
+tumble — тумбле | Meaning: tumble | Casual: тумбл | Hard: тле | Type: root
+tumble-intense — ту-и-мбле | Meaning: intense tumble | Casual: ту-и-мбл | Hard: тле | Type: midfix
+tumble-before — ту-а-мбле | Meaning: before tumble | Casual: ту-а-мбл | Hard: тле | Type: midfix
+tumble-un — ту-э-мбле | Meaning: not tumble | Casual: ту-э-мбл | Hard: тле | Type: midfix
+tumble-question — ту-у-мбле | Meaning: questioning tumble | Casual: ту-у-мбл | Hard: тле | Type: midfix
+crack — кракк | Meaning: crack | Casual: кркк | Hard: ккк | Type: root
+crack-intense — кра-и-кк | Meaning: intense crack | Casual: кр-и-кк | Hard: ккк | Type: midfix
+crack-before — кра-а-кк | Meaning: before crack | Casual: кр-а-кк | Hard: ккк | Type: midfix
+crack-un — кра-э-кк | Meaning: not crack | Casual: кр-э-кк | Hard: ккк | Type: midfix
+crack-question — кра-у-кк | Meaning: questioning crack | Casual: кр-у-кк | Hard: ккк | Type: midfix
+creak — креак | Meaning: creak | Casual: крак | Hard: как | Type: root
+creak-intense — кре-и-ак | Meaning: intense creak | Casual: кр-и-ак | Hard: как | Type: midfix
+creak-before — кре-а-ак | Meaning: before creak | Casual: кр-а-ак | Hard: как | Type: midfix
+creak-un — кре-э-ак | Meaning: not creak | Casual: кр-э-ак | Hard: как | Type: midfix
+creak-question — кре-у-ак | Meaning: questioning creak | Casual: кр-у-ак | Hard: как | Type: midfix
+snap — снап | Meaning: snap | Casual: снп | Hard: снап | Type: root
+snap-intense — сна-и-п | Meaning: intense snap | Casual: сн-и-п | Hard: с-п | Type: midfix
+snap-before — сна-а-п | Meaning: before snap | Casual: сн-а-п | Hard: с-п | Type: midfix
+snap-un — сна-э-п | Meaning: not snap | Casual: сн-э-п | Hard: с-п | Type: midfix
+snap-question — сна-у-п | Meaning: questioning snap | Casual: сн-у-п | Hard: с-п | Type: midfix
+pop — поп | Meaning: pop | Casual: поп | Hard: поп | Type: root
+pop-intense — по-и-п | Meaning: intense pop | Casual: по-и-п | Hard: п-п | Type: midfix
+pop-before — по-а-п | Meaning: before pop | Casual: по-а-п | Hard: п-п | Type: midfix
+pop-un — по-э-п | Meaning: not pop | Casual: по-э-п | Hard: п-п | Type: midfix
+pop-question — по-у-п | Meaning: questioning pop | Casual: по-у-п | Hard: п-п | Type: midfix
+rattle — раттле | Meaning: rattle | Casual: раттл | Hard: рле | Type: root
+rattle-intense — ра-и-ттле | Meaning: intense rattle | Casual: ра-и-ттл | Hard: рле | Type: midfix
+rattle-before — ра-а-ттле | Meaning: before rattle | Casual: ра-а-ттл | Hard: рле | Type: midfix
+rattle-un — ра-э-ттле | Meaning: not rattle | Casual: ра-э-ттл | Hard: рле | Type: midfix
+rattle-question — ра-у-ттле | Meaning: questioning rattle | Casual: ра-у-ттл | Hard: рле | Type: midfix
+rustle — рустле | Meaning: rustle | Casual: рустл | Hard: рле | Type: root
+rustle-intense — ру-и-стле | Meaning: intense rustle | Casual: ру-и-стл | Hard: рле | Type: midfix
+rustle-before — ру-а-стле | Meaning: before rustle | Casual: ру-а-стл | Hard: рле | Type: midfix
+rustle-un — ру-э-стле | Meaning: not rustle | Casual: ру-э-стл | Hard: рле | Type: midfix
+rustle-question — ру-у-стле | Meaning: questioning rustle | Casual: ру-у-стл | Hard: рле | Type: midfix
+swish — свисх | Meaning: swish | Casual: свсх | Hard: ссх | Type: root
+swish-intense — сви-и-сх | Meaning: intense swish | Casual: св-и-сх | Hard: ссх | Type: midfix
+swish-before — сви-а-сх | Meaning: before swish | Casual: св-а-сх | Hard: ссх | Type: midfix
+swish-un — сви-э-сх | Meaning: not swish | Casual: св-э-сх | Hard: ссх | Type: midfix
+swish-question — сви-у-сх | Meaning: questioning swish | Casual: св-у-сх | Hard: ссх | Type: midfix
+swoosh — своосх | Meaning: swoosh | Casual: свосх | Hard: ссх | Type: root
+swoosh-intense — сво-и-осх | Meaning: intense swoosh | Casual: св-и-осх | Hard: ссх | Type: midfix
+swoosh-before — сво-а-осх | Meaning: before swoosh | Casual: св-а-осх | Hard: ссх | Type: midfix
+swoosh-un — сво-э-осх | Meaning: not swoosh | Casual: св-э-осх | Hard: ссх | Type: midfix
+swoosh-question — сво-у-осх | Meaning: questioning swoosh | Casual: св-у-осх | Hard: ссх | Type: midfix
+whoosh — вхоосх | Meaning: whoosh | Casual: вхосх | Hard: всх | Type: root
+whoosh-intense — вхо-и-осх | Meaning: intense whoosh | Casual: вх-и-осх | Hard: всх | Type: midfix
+whoosh-before — вхо-а-осх | Meaning: before whoosh | Casual: вх-а-осх | Hard: всх | Type: midfix
+whoosh-un — вхо-э-осх | Meaning: not whoosh | Casual: вх-э-осх | Hard: всх | Type: midfix
+whoosh-question — вхо-у-осх | Meaning: questioning whoosh | Casual: вх-у-осх | Hard: всх | Type: midfix
+toll — толл | Meaning: toll | Casual: толл | Hard: толл | Type: root
+toll-intense — то-и-лл | Meaning: intense toll | Casual: то-и-лл | Hard: тлл | Type: midfix
+toll-before — то-а-лл | Meaning: before toll | Casual: то-а-лл | Hard: тлл | Type: midfix
+toll-un — то-э-лл | Meaning: not toll | Casual: то-э-лл | Hard: тлл | Type: midfix
+toll-question — то-у-лл | Meaning: questioning toll | Casual: то-у-лл | Hard: тлл | Type: midfix
+murmur — мурмур | Meaning: murmur | Casual: мурмур | Hard: мур | Type: root
+murmur-intense — му-и-рмур | Meaning: intense murmur | Casual: му-и-рмур | Hard: мур | Type: midfix
+murmur-before — му-а-рмур | Meaning: before murmur | Casual: му-а-рмур | Hard: мур | Type: midfix
+murmur-un — му-э-рмур | Meaning: not murmur | Casual: му-э-рмур | Hard: мур | Type: midfix
+murmur-question — му-у-рмур | Meaning: questioning murmur | Casual: му-у-рмур | Hard: мур | Type: midfix
+mumble — мумбле | Meaning: mumble | Casual: мумбл | Hard: мле | Type: root
+mumble-intense — му-и-мбле | Meaning: intense mumble | Casual: му-и-мбл | Hard: мле | Type: midfix
+mumble-before — му-а-мбле | Meaning: before mumble | Casual: му-а-мбл | Hard: мле | Type: midfix
+mumble-un — му-э-мбле | Meaning: not mumble | Casual: му-э-мбл | Hard: мле | Type: midfix
+mumble-question — му-у-мбле | Meaning: questioning mumble | Casual: му-у-мбл | Hard: мле | Type: midfix
+spray — спрай | Meaning: spray | Casual: спрай | Hard: сай | Type: root
+spray-intense — спра-и-й | Meaning: intense spray | Casual: спра--й | Hard: с-й | Type: midfix
+spray-before — спра-а-й | Meaning: before spray | Casual: спра--й | Hard: с-й | Type: midfix
+spray-un — спра-э-й | Meaning: not spray | Casual: спра--й | Hard: с-й | Type: midfix
+spray-question — спра-у-й | Meaning: questioning spray | Casual: спра--й | Hard: с-й | Type: midfix
+singe — синге | Meaning: singe | Casual: синге | Hard: сге | Type: root
+singe-intense — си-и-нге | Meaning: intense singe | Casual: си-и-нге | Hard: сге | Type: midfix
+singe-before — си-а-нге | Meaning: before singe | Casual: си-а-нге | Hard: сге | Type: midfix
+singe-un — си-э-нге | Meaning: not singe | Casual: си-э-нге | Hard: сге | Type: midfix
+singe-question — си-у-нге | Meaning: questioning singe | Casual: си-у-нге | Hard: сге | Type: midfix
+shine — схине | Meaning: shine | Casual: схне | Hard: сне | Type: root
+shine-intense — схи-и-не | Meaning: intense shine | Casual: сх-и-не | Hard: сне | Type: midfix
+shine-before — схи-а-не | Meaning: before shine | Casual: сх-а-не | Hard: сне | Type: midfix
+shine-un — схи-э-не | Meaning: not shine | Casual: сх-э-не | Hard: сне | Type: midfix
+shine-question — схи-у-не | Meaning: questioning shine | Casual: сх-у-не | Hard: сне | Type: midfix
+gleam — глеам | Meaning: gleam | Casual: глам | Hard: гам | Type: root
+gleam-intense — гле-и-ам | Meaning: intense gleam | Casual: гл-и-ам | Hard: гам | Type: midfix
+gleam-before — гле-а-ам | Meaning: before gleam | Casual: гл-а-ам | Hard: гам | Type: midfix
+gleam-un — гле-э-ам | Meaning: not gleam | Casual: гл-э-ам | Hard: гам | Type: midfix
+gleam-question — гле-у-ам | Meaning: questioning gleam | Casual: гл-у-ам | Hard: гам | Type: midfix
+glint — глинт | Meaning: glint | Casual: глнт | Hard: гнт | Type: root
+glint-intense — гли-и-нт | Meaning: intense glint | Casual: гл-и-нт | Hard: гнт | Type: midfix
+glint-before — гли-а-нт | Meaning: before glint | Casual: гл-а-нт | Hard: гнт | Type: midfix
+glint-un — гли-э-нт | Meaning: not glint | Casual: гл-э-нт | Hard: гнт | Type: midfix
+glint-question — гли-у-нт | Meaning: questioning glint | Casual: гл-у-нт | Hard: гнт | Type: midfix
+sparkle — спаркле | Meaning: sparkle | Casual: спркле | Hard: сле | Type: root
+sparkle-intense — спа-и-ркле | Meaning: intense sparkle | Casual: сп-и-ркле | Hard: сле | Type: midfix
+sparkle-before — спа-а-ркле | Meaning: before sparkle | Casual: сп-а-ркле | Hard: сле | Type: midfix
+sparkle-un — спа-э-ркле | Meaning: not sparkle | Casual: сп-э-ркле | Hard: сле | Type: midfix
+sparkle-question — спа-у-ркле | Meaning: questioning sparkle | Casual: сп-у-ркле | Hard: сле | Type: midfix
+flare — фларе | Meaning: flare | Casual: флре | Hard: фре | Type: root
+flare-intense — фла-и-ре | Meaning: intense flare | Casual: фл-и-ре | Hard: фре | Type: midfix
+flare-before — фла-а-ре | Meaning: before flare | Casual: фл-а-ре | Hard: фре | Type: midfix
+flare-un — фла-э-ре | Meaning: not flare | Casual: фл-э-ре | Hard: фре | Type: midfix
+flare-question — фла-у-ре | Meaning: questioning flare | Casual: фл-у-ре | Hard: фре | Type: midfix
+dazzle — даззле | Meaning: dazzle | Casual: даззл | Hard: дле | Type: root
+dazzle-intense — да-и-ззле | Meaning: intense dazzle | Casual: да-и-ззл | Hard: дле | Type: midfix
+dazzle-before — да-а-ззле | Meaning: before dazzle | Casual: да-а-ззл | Hard: дле | Type: midfix
+dazzle-un — да-э-ззле | Meaning: not dazzle | Casual: да-э-ззл | Hard: дле | Type: midfix
+dazzle-question — да-у-ззле | Meaning: questioning dazzle | Casual: да-у-ззл | Hard: дле | Type: midfix
+rinse — ринсе | Meaning: rinse | Casual: ринсе | Hard: рсе | Type: root
+rinse-intense — ри-и-нсе | Meaning: intense rinse | Casual: ри-и-нсе | Hard: рсе | Type: midfix
+rinse-before — ри-а-нсе | Meaning: before rinse | Casual: ри-а-нсе | Hard: рсе | Type: midfix
+rinse-un — ри-э-нсе | Meaning: not rinse | Casual: ри-э-нсе | Hard: рсе | Type: midfix
+rinse-question — ри-у-нсе | Meaning: questioning rinse | Casual: ри-у-нсе | Hard: рсе | Type: midfix
+drain — драин | Meaning: drain | Casual: дрин | Hard: дин | Type: root
+drain-intense — дра-и-ин | Meaning: intense drain | Casual: др-и-ин | Hard: дин | Type: midfix
+drain-before — дра-а-ин | Meaning: before drain | Casual: др-а-ин | Hard: дин | Type: midfix
+drain-un — дра-э-ин | Meaning: not drain | Casual: др-э-ин | Hard: дин | Type: midfix
+drain-question — дра-у-ин | Meaning: questioning drain | Casual: др-у-ин | Hard: дин | Type: midfix
+glaze — глазе | Meaning: glaze | Casual: глзе | Hard: гзе | Type: root
+glaze-intense — гла-и-зе | Meaning: intense glaze | Casual: гл-и-зе | Hard: гзе | Type: midfix
+glaze-before — гла-а-зе | Meaning: before glaze | Casual: гл-а-зе | Hard: гзе | Type: midfix
+glaze-un — гла-э-зе | Meaning: not glaze | Casual: гл-э-зе | Hard: гзе | Type: midfix
+glaze-question — гла-у-зе | Meaning: questioning glaze | Casual: гл-у-зе | Hard: гзе | Type: midfix
+stew — стев | Meaning: stew | Casual: ств | Hard: стев | Type: root
+stew-intense — сте-и-в | Meaning: intense stew | Casual: ст-и-в | Hard: с-в | Type: midfix
+stew-before — сте-а-в | Meaning: before stew | Casual: ст-а-в | Hard: с-в | Type: midfix
+stew-un — сте-э-в | Meaning: not stew | Casual: ст-э-в | Hard: с-в | Type: midfix
+stew-question — сте-у-в | Meaning: questioning stew | Casual: ст-у-в | Hard: с-в | Type: midfix
+embroider — емброидер | Meaning: embroider | Casual: ембродер | Hard: еер | Type: root
+embroider-intense — е-и-мброидер | Meaning: intense embroider | Casual: е--мбродер | Hard: еер | Type: midfix
+embroider-before — е-а-мброидер | Meaning: before embroider | Casual: е--мбродер | Hard: еер | Type: midfix
+embroider-un — е-э-мброидер | Meaning: not embroider | Casual: е--мбродер | Hard: еер | Type: midfix
+embroider-question — е-у-мброидер | Meaning: questioning embroider | Casual: е--мбродер | Hard: еер | Type: midfix
+stain — стаин | Meaning: stain | Casual: стин | Hard: син | Type: root
+stain-intense — ста-и-ин | Meaning: intense stain | Casual: ст-и-ин | Hard: син | Type: midfix
+stain-before — ста-а-ин | Meaning: before stain | Casual: ст-а-ин | Hard: син | Type: midfix
+stain-un — ста-э-ин | Meaning: not stain | Casual: ст-э-ин | Hard: син | Type: midfix
+stain-question — ста-у-ин | Meaning: questioning stain | Casual: ст-у-ин | Hard: син | Type: midfix
+paint — паинт | Meaning: paint | Casual: пант | Hard: пнт | Type: root
+paint-intense — па-и-инт | Meaning: intense paint | Casual: па-и-нт | Hard: пнт | Type: midfix
+paint-before — па-а-инт | Meaning: before paint | Casual: па-а-нт | Hard: пнт | Type: midfix
+paint-un — па-э-инт | Meaning: not paint | Casual: па-э-нт | Hard: пнт | Type: midfix
+paint-question — па-у-инт | Meaning: questioning paint | Casual: па-у-нт | Hard: пнт | Type: midfix
+trace — траке | Meaning: trace | Casual: трке | Hard: тке | Type: root
+trace-intense — тра-и-ке | Meaning: intense trace | Casual: тр-и-ке | Hard: тке | Type: midfix
+trace-before — тра-а-ке | Meaning: before trace | Casual: тр-а-ке | Hard: тке | Type: midfix
+trace-un — тра-э-ке | Meaning: not trace | Casual: тр-э-ке | Hard: тке | Type: midfix
+trace-question — тра-у-ке | Meaning: questioning trace | Casual: тр-у-ке | Hard: тке | Type: midfix
+sculpt — скулпт | Meaning: sculpt | Casual: склпт | Hard: спт | Type: root
+sculpt-intense — ску-и-лпт | Meaning: intense sculpt | Casual: ск-и-лпт | Hard: спт | Type: midfix
+sculpt-before — ску-а-лпт | Meaning: before sculpt | Casual: ск-а-лпт | Hard: спт | Type: midfix
+sculpt-un — ску-э-лпт | Meaning: not sculpt | Casual: ск-э-лпт | Hard: спт | Type: midfix
+sculpt-question — ску-у-лпт | Meaning: questioning sculpt | Casual: ск-у-лпт | Hard: спт | Type: midfix
+forge — форге | Meaning: forge | Casual: форге | Hard: фге | Type: root
+forge-intense — фо-и-рге | Meaning: intense forge | Casual: фо-и-рге | Hard: фге | Type: midfix
+forge-before — фо-а-рге | Meaning: before forge | Casual: фо-а-рге | Hard: фге | Type: midfix
+forge-un — фо-э-рге | Meaning: not forge | Casual: фо-э-рге | Hard: фге | Type: midfix
+forge-question — фо-у-рге | Meaning: questioning forge | Casual: фо-у-рге | Hard: фге | Type: midfix
+weld — велд | Meaning: weld | Casual: велд | Hard: велд | Type: root
+weld-intense — ве-и-лд | Meaning: intense weld | Casual: ве-и-лд | Hard: влд | Type: midfix
+weld-before — ве-а-лд | Meaning: before weld | Casual: ве-а-лд | Hard: влд | Type: midfix
+weld-un — ве-э-лд | Meaning: not weld | Casual: ве-э-лд | Hard: влд | Type: midfix
+weld-question — ве-у-лд | Meaning: questioning weld | Casual: ве-у-лд | Hard: влд | Type: midfix
+polish — полисх | Meaning: polish | Casual: полисх | Hard: псх | Type: root
+polish-intense — по-и-лисх | Meaning: intense polish | Casual: по-и-лисх | Hard: псх | Type: midfix
+polish-before — по-а-лисх | Meaning: before polish | Casual: по-а-лисх | Hard: псх | Type: midfix
+polish-un — по-э-лисх | Meaning: not polish | Casual: по-э-лисх | Hard: псх | Type: midfix
+polish-question — по-у-лисх | Meaning: questioning polish | Casual: по-у-лисх | Hard: псх | Type: midfix
+sharpen — схарпен | Meaning: sharpen | Casual: схрпн | Hard: сен | Type: root
+sharpen-intense — сха-и-рпен | Meaning: intense sharpen | Casual: сх-и-рпн | Hard: сен | Type: midfix
+sharpen-before — сха-а-рпен | Meaning: before sharpen | Casual: сх-а-рпн | Hard: сен | Type: midfix
+sharpen-un — сха-э-рпен | Meaning: not sharpen | Casual: сх-э-рпн | Hard: сен | Type: midfix
+sharpen-question — сха-у-рпен | Meaning: questioning sharpen | Casual: сх-у-рпн | Hard: сен | Type: midfix
+strop — строп | Meaning: strop | Casual: строп | Hard: соп | Type: root
+strop-intense — стро-и-п | Meaning: intense strop | Casual: стро--п | Hard: с-п | Type: midfix
+strop-before — стро-а-п | Meaning: before strop | Casual: стро--п | Hard: с-п | Type: midfix
+strop-un — стро-э-п | Meaning: not strop | Casual: стро--п | Hard: с-п | Type: midfix
+strop-question — стро-у-п | Meaning: questioning strop | Casual: стро--п | Hard: с-п | Type: midfix
+tighten — тигхтен | Meaning: tighten | Casual: тигхтн | Hard: тен | Type: root
+tighten-intense — ти-и-гхтен | Meaning: intense tighten | Casual: ти-и-гхтн | Hard: тен | Type: midfix
+tighten-before — ти-а-гхтен | Meaning: before tighten | Casual: ти-а-гхтн | Hard: тен | Type: midfix
+tighten-un — ти-э-гхтен | Meaning: not tighten | Casual: ти-э-гхтн | Hard: тен | Type: midfix
+tighten-question — ти-у-гхтен | Meaning: questioning tighten | Casual: ти-у-гхтн | Hard: тен | Type: midfix
+loosen — лоосен | Meaning: loosen | Casual: лосен | Hard: лен | Type: root
+loosen-intense — ло-и-осен | Meaning: intense loosen | Casual: ло-и-сен | Hard: лен | Type: midfix
+loosen-before — ло-а-осен | Meaning: before loosen | Casual: ло-а-сен | Hard: лен | Type: midfix
+loosen-un — ло-э-осен | Meaning: not loosen | Casual: ло-э-сен | Hard: лен | Type: midfix
+loosen-question — ло-у-осен | Meaning: questioning loosen | Casual: ло-у-сен | Hard: лен | Type: midfix
+fasten — фастен | Meaning: fasten | Casual: фастен | Hard: фен | Type: root
+fasten-intense — фа-и-стен | Meaning: intense fasten | Casual: фа-и-стен | Hard: фен | Type: midfix
+fasten-before — фа-а-стен | Meaning: before fasten | Casual: фа-а-стен | Hard: фен | Type: midfix
+fasten-un — фа-э-стен | Meaning: not fasten | Casual: фа-э-стен | Hard: фен | Type: midfix
+fasten-question — фа-у-стен | Meaning: questioning fasten | Casual: фа-у-стен | Hard: фен | Type: midfix
+vise — висе | Meaning: vise | Casual: висе | Hard: висе | Type: root
+vise-intense — ви-и-се | Meaning: intense vise | Casual: ви-и-се | Hard: все | Type: midfix
+vise-before — ви-а-се | Meaning: before vise | Casual: ви-а-се | Hard: все | Type: midfix
+vise-un — ви-э-се | Meaning: not vise | Casual: ви-э-се | Hard: все | Type: midfix
+vise-question — ви-у-се | Meaning: questioning vise | Casual: ви-у-се | Hard: все | Type: midfix
+tune — туне | Meaning: tune | Casual: туне | Hard: туне | Type: root
+tune-intense — ту-и-не | Meaning: intense tune | Casual: ту-и-не | Hard: тне | Type: midfix
+tune-before — ту-а-не | Meaning: before tune | Casual: ту-а-не | Hard: тне | Type: midfix
+tune-un — ту-э-не | Meaning: not tune | Casual: ту-э-не | Hard: тне | Type: midfix
+tune-question — ту-у-не | Meaning: questioning tune | Casual: ту-у-не | Hard: тне | Type: midfix
+execute — ексекуте | Meaning: execute | Casual: ексекте | Hard: ете | Type: root
+execute-intense — е-и-ксекуте | Meaning: intense execute | Casual: е--ксекте | Hard: ете | Type: midfix
+execute-before — е-а-ксекуте | Meaning: before execute | Casual: е--ксекте | Hard: ете | Type: midfix
+execute-un — е-э-ксекуте | Meaning: not execute | Casual: е--ксекте | Hard: ете | Type: midfix
+execute-question — е-у-ксекуте | Meaning: questioning execute | Casual: е--ксекте | Hard: ете | Type: midfix
+fetch — феткх | Meaning: fetch | Casual: феткх | Hard: фкх | Type: root
+fetch-intense — фе-и-ткх | Meaning: intense fetch | Casual: фе-и-ткх | Hard: фкх | Type: midfix
+fetch-before — фе-а-ткх | Meaning: before fetch | Casual: фе-а-ткх | Hard: фкх | Type: midfix
+fetch-un — фе-э-ткх | Meaning: not fetch | Casual: фе-э-ткх | Hard: фкх | Type: midfix
+fetch-question — фе-у-ткх | Meaning: questioning fetch | Casual: фе-у-ткх | Hard: фкх | Type: midfix
+strum — струм | Meaning: strum | Casual: струм | Hard: сум | Type: root
+strum-intense — стру-и-м | Meaning: intense strum | Casual: стру--м | Hard: с-м | Type: midfix
+strum-before — стру-а-м | Meaning: before strum | Casual: стру--м | Hard: с-м | Type: midfix
+strum-un — стру-э-м | Meaning: not strum | Casual: стру--м | Hard: с-м | Type: midfix
+strum-question — стру-у-м | Meaning: questioning strum | Casual: стру--м | Hard: с-м | Type: midfix
+pluck — плукк | Meaning: pluck | Casual: плкк | Hard: пкк | Type: root
+pluck-intense — плу-и-кк | Meaning: intense pluck | Casual: пл-и-кк | Hard: пкк | Type: midfix
+pluck-before — плу-а-кк | Meaning: before pluck | Casual: пл-а-кк | Hard: пкк | Type: midfix
+pluck-un — плу-э-кк | Meaning: not pluck | Casual: пл-э-кк | Hard: пкк | Type: midfix
+pluck-question — плу-у-кк | Meaning: questioning pluck | Casual: пл-у-кк | Hard: пкк | Type: midfix
+croon — кроон | Meaning: croon | Casual: крон | Hard: кон | Type: root
+croon-intense — кро-и-он | Meaning: intense croon | Casual: кр-и-он | Hard: кон | Type: midfix
+croon-before — кро-а-он | Meaning: before croon | Casual: кр-а-он | Hard: кон | Type: midfix
+croon-un — кро-э-он | Meaning: not croon | Casual: кр-э-он | Hard: кон | Type: midfix
+croon-question — кро-у-он | Meaning: questioning croon | Casual: кр-у-он | Hard: кон | Type: midfix
+warble — варбле | Meaning: warble | Casual: варбл | Hard: вле | Type: root
+warble-intense — ва-и-рбле | Meaning: intense warble | Casual: ва-и-рбл | Hard: вле | Type: midfix
+warble-before — ва-а-рбле | Meaning: before warble | Casual: ва-а-рбл | Hard: вле | Type: midfix
+warble-un — ва-э-рбле | Meaning: not warble | Casual: ва-э-рбл | Hard: вле | Type: midfix
+warble-question — ва-у-рбле | Meaning: questioning warble | Casual: ва-у-рбл | Hard: вле | Type: midfix
+trill — трилл | Meaning: trill | Casual: трлл | Hard: тлл | Type: root
+trill-intense — три-и-лл | Meaning: intense trill | Casual: тр-и-лл | Hard: тлл | Type: midfix
+trill-before — три-а-лл | Meaning: before trill | Casual: тр-а-лл | Hard: тлл | Type: midfix
+trill-un — три-э-лл | Meaning: not trill | Casual: тр-э-лл | Hard: тлл | Type: midfix
+trill-question — три-у-лл | Meaning: questioning trill | Casual: тр-у-лл | Hard: тлл | Type: midfix
+tremolo — тремоло | Meaning: tremolo | Casual: трмоло | Hard: тло | Type: root
+tremolo-intense — тре-и-моло | Meaning: intense tremolo | Casual: тр-и-моло | Hard: тло | Type: midfix
+tremolo-before — тре-а-моло | Meaning: before tremolo | Casual: тр-а-моло | Hard: тло | Type: midfix
+tremolo-un — тре-э-моло | Meaning: not tremolo | Casual: тр-э-моло | Hard: тло | Type: midfix
+tremolo-question — тре-у-моло | Meaning: questioning tremolo | Casual: тр-у-моло | Hard: тло | Type: midfix
+glissando — глиссандо | Meaning: glissando | Casual: глсснд | Hard: гдо | Type: root
+glissando-intense — гли-и-ссандо | Meaning: intense glissando | Casual: гл-и-сснд | Hard: гдо | Type: midfix
+glissando-before — гли-а-ссандо | Meaning: before glissando | Casual: гл-а-сснд | Hard: гдо | Type: midfix
+glissando-un — гли-э-ссандо | Meaning: not glissando | Casual: гл-э-сснд | Hard: гдо | Type: midfix
+glissando-question — гли-у-ссандо | Meaning: questioning glissando | Casual: гл-у-сснд | Hard: гдо | Type: midfix
+arpeggio — арпеггио | Meaning: arpeggio | Casual: арпеггио | Hard: аио | Type: root
+arpeggio-intense — а-и-рпеггио | Meaning: intense arpeggio | Casual: а--рпеггио | Hard: аио | Type: midfix
+arpeggio-before — а-а-рпеггио | Meaning: before arpeggio | Casual: а--рпеггио | Hard: аио | Type: midfix
+arpeggio-un — а-э-рпеггио | Meaning: not arpeggio | Casual: а--рпеггио | Hard: аио | Type: midfix
+arpeggio-question — а-у-рпеггио | Meaning: questioning arpeggio | Casual: а--рпеггио | Hard: аио | Type: midfix
+scowl — сковл | Meaning: scowl | Casual: сквл | Hard: свл | Type: root
+scowl-intense — ско-и-вл | Meaning: intense scowl | Casual: ск-и-вл | Hard: свл | Type: midfix
+scowl-before — ско-а-вл | Meaning: before scowl | Casual: ск-а-вл | Hard: свл | Type: midfix
+scowl-un — ско-э-вл | Meaning: not scowl | Casual: ск-э-вл | Hard: свл | Type: midfix
+scowl-question — ско-у-вл | Meaning: questioning scowl | Casual: ск-у-вл | Hard: свл | Type: midfix
+glare — гларе | Meaning: glare | Casual: глре | Hard: гре | Type: root
+glare-intense — гла-и-ре | Meaning: intense glare | Casual: гл-и-ре | Hard: гре | Type: midfix
+glare-before — гла-а-ре | Meaning: before glare | Casual: гл-а-ре | Hard: гре | Type: midfix
+glare-un — гла-э-ре | Meaning: not glare | Casual: гл-э-ре | Hard: гре | Type: midfix
+glare-question — гла-у-ре | Meaning: questioning glare | Casual: гл-у-ре | Hard: гре | Type: midfix
+squint — скууинт | Meaning: squint | Casual: скуинт | Hard: снт | Type: root
+squint-intense — ску-и-уинт | Meaning: intense squint | Casual: ск-и-уинт | Hard: снт | Type: midfix
+squint-before — ску-а-уинт | Meaning: before squint | Casual: ск-а-уинт | Hard: снт | Type: midfix
+squint-un — ску-э-уинт | Meaning: not squint | Casual: ск-э-уинт | Hard: снт | Type: midfix
+squint-question — ску-у-уинт | Meaning: questioning squint | Casual: ск-у-уинт | Hard: снт | Type: midfix
+wince — винке | Meaning: wince | Casual: винке | Hard: вке | Type: root
+wince-intense — ви-и-нке | Meaning: intense wince | Casual: ви-и-нке | Hard: вке | Type: midfix
+wince-before — ви-а-нке | Meaning: before wince | Casual: ви-а-нке | Hard: вке | Type: midfix
+wince-un — ви-э-нке | Meaning: not wince | Casual: ви-э-нке | Hard: вке | Type: midfix
+wince-question — ви-у-нке | Meaning: questioning wince | Casual: ви-у-нке | Hard: вке | Type: midfix
+flinch — флинкх | Meaning: flinch | Casual: флнкх | Hard: фкх | Type: root
+flinch-intense — фли-и-нкх | Meaning: intense flinch | Casual: фл-и-нкх | Hard: фкх | Type: midfix
+flinch-before — фли-а-нкх | Meaning: before flinch | Casual: фл-а-нкх | Hard: фкх | Type: midfix
+flinch-un — фли-э-нкх | Meaning: not flinch | Casual: фл-э-нкх | Hard: фкх | Type: midfix
+flinch-question — фли-у-нкх | Meaning: questioning flinch | Casual: фл-у-нкх | Hard: фкх | Type: midfix
+shiver — схивер | Meaning: shiver | Casual: схвер | Hard: сер | Type: root
+shiver-intense — схи-и-вер | Meaning: intense shiver | Casual: сх-и-вер | Hard: сер | Type: midfix
+shiver-before — схи-а-вер | Meaning: before shiver | Casual: сх-а-вер | Hard: сер | Type: midfix
+shiver-un — схи-э-вер | Meaning: not shiver | Casual: сх-э-вер | Hard: сер | Type: midfix
+shiver-question — схи-у-вер | Meaning: questioning shiver | Casual: сх-у-вер | Hard: сер | Type: midfix
+quake — кууаке | Meaning: quake | Casual: куак | Hard: кке | Type: root
+quake-intense — ку-и-уаке | Meaning: intense quake | Casual: ку-и-ак | Hard: кке | Type: midfix
+quake-before — ку-а-уаке | Meaning: before quake | Casual: ку-а-ак | Hard: кке | Type: midfix
+quake-un — ку-э-уаке | Meaning: not quake | Casual: ку-э-ак | Hard: кке | Type: midfix
+quake-question — ку-у-уаке | Meaning: questioning quake | Casual: ку-у-ак | Hard: кке | Type: midfix
+quiver — кууивер | Meaning: quiver | Casual: куивр | Hard: кер | Type: root
+quiver-intense — ку-и-уивер | Meaning: intense quiver | Casual: ку-и-ивр | Hard: кер | Type: midfix
+quiver-before — ку-а-уивер | Meaning: before quiver | Casual: ку-а-ивр | Hard: кер | Type: midfix
+quiver-un — ку-э-уивер | Meaning: not quiver | Casual: ку-э-ивр | Hard: кер | Type: midfix
+quiver-question — ку-у-уивер | Meaning: questioning quiver | Casual: ку-у-ивр | Hard: кер | Type: midfix
+vibrate — вибрате | Meaning: vibrate | Casual: вибрате | Hard: вте | Type: root
+vibrate-intense — ви-и-брате | Meaning: intense vibrate | Casual: ви-и-брате | Hard: вте | Type: midfix
+vibrate-before — ви-а-брате | Meaning: before vibrate | Casual: ви-а-брате | Hard: вте | Type: midfix
+vibrate-un — ви-э-брате | Meaning: not vibrate | Casual: ви-э-брате | Hard: вте | Type: midfix
+vibrate-question — ви-у-брате | Meaning: questioning vibrate | Casual: ви-у-брате | Hard: вте | Type: midfix
+wheeze — вхеезе | Meaning: wheeze | Casual: вхез | Hard: взе | Type: root
+wheeze-intense — вхе-и-езе | Meaning: intense wheeze | Casual: вх-и-ез | Hard: взе | Type: midfix
+wheeze-before — вхе-а-езе | Meaning: before wheeze | Casual: вх-а-ез | Hard: взе | Type: midfix
+wheeze-un — вхе-э-езе | Meaning: not wheeze | Casual: вх-э-ез | Hard: взе | Type: midfix
+wheeze-question — вхе-у-езе | Meaning: questioning wheeze | Casual: вх-у-ез | Hard: взе | Type: midfix
+gag — гаг | Meaning: gag | Casual: гаг | Hard: гаг | Type: root
+gag-intense — га-и-г | Meaning: intense gag | Casual: га-и-г | Hard: г-г | Type: midfix
+gag-before — га-а-г | Meaning: before gag | Casual: га-а-г | Hard: г-г | Type: midfix
+gag-un — га-э-г | Meaning: not gag | Casual: га-э-г | Hard: г-г | Type: midfix
+gag-question — га-у-г | Meaning: questioning gag | Casual: га-у-г | Hard: г-г | Type: midfix
+spill — спилл | Meaning: spill | Casual: сплл | Hard: слл | Type: root
+spill-intense — спи-и-лл | Meaning: intense spill | Casual: сп-и-лл | Hard: слл | Type: midfix
+spill-before — спи-а-лл | Meaning: before spill | Casual: сп-а-лл | Hard: слл | Type: midfix
+spill-un — спи-э-лл | Meaning: not spill | Casual: сп-э-лл | Hard: слл | Type: midfix
+spill-question — спи-у-лл | Meaning: questioning spill | Casual: сп-у-лл | Hard: слл | Type: midfix
+gush — гусх | Meaning: gush | Casual: гусх | Hard: гусх | Type: root
+gush-intense — гу-и-сх | Meaning: intense gush | Casual: гу-и-сх | Hard: гсх | Type: midfix
+gush-before — гу-а-сх | Meaning: before gush | Casual: гу-а-сх | Hard: гсх | Type: midfix
+gush-un — гу-э-сх | Meaning: not gush | Casual: гу-э-сх | Hard: гсх | Type: midfix
+gush-question — гу-у-сх | Meaning: questioning gush | Casual: гу-у-сх | Hard: гсх | Type: midfix
+trickle — триккле | Meaning: trickle | Casual: трккле | Hard: тле | Type: root
+trickle-intense — три-и-ккле | Meaning: intense trickle | Casual: тр-и-ккле | Hard: тле | Type: midfix
+trickle-before — три-а-ккле | Meaning: before trickle | Casual: тр-а-ккле | Hard: тле | Type: midfix
+trickle-un — три-э-ккле | Meaning: not trickle | Casual: тр-э-ккле | Hard: тле | Type: midfix
+trickle-question — три-у-ккле | Meaning: questioning trickle | Casual: тр-у-ккле | Hard: тле | Type: midfix
+gurgle — гургле | Meaning: gurgle | Casual: гургл | Hard: гле | Type: root
+gurgle-intense — гу-и-ргле | Meaning: intense gurgle | Casual: гу-и-ргл | Hard: гле | Type: midfix
+gurgle-before — гу-а-ргле | Meaning: before gurgle | Casual: гу-а-ргл | Hard: гле | Type: midfix
+gurgle-un — гу-э-ргле | Meaning: not gurgle | Casual: гу-э-ргл | Hard: гле | Type: midfix
+gurgle-question — гу-у-ргле | Meaning: questioning gurgle | Casual: гу-у-ргл | Hard: гле | Type: midfix
+froth — фротх | Meaning: froth | Casual: фртх | Hard: фтх | Type: root
+froth-intense — фро-и-тх | Meaning: intense froth | Casual: фр-и-тх | Hard: фтх | Type: midfix
+froth-before — фро-а-тх | Meaning: before froth | Casual: фр-а-тх | Hard: фтх | Type: midfix
+froth-un — фро-э-тх | Meaning: not froth | Casual: фр-э-тх | Hard: фтх | Type: midfix
+froth-question — фро-у-тх | Meaning: questioning froth | Casual: фр-у-тх | Hard: фтх | Type: midfix
+suds — судс | Meaning: suds | Casual: судс | Hard: судс | Type: root
+suds-intense — су-и-дс | Meaning: intense suds | Casual: су-и-дс | Hard: сдс | Type: midfix
+suds-before — су-а-дс | Meaning: before suds | Casual: су-а-дс | Hard: сдс | Type: midfix
+suds-un — су-э-дс | Meaning: not suds | Casual: су-э-дс | Hard: сдс | Type: midfix
+suds-question — су-у-дс | Meaning: questioning suds | Casual: су-у-дс | Hard: сдс | Type: midfix
+scum — скум | Meaning: scum | Casual: скм | Hard: скум | Type: root
+scum-intense — ску-и-м | Meaning: intense scum | Casual: ск-и-м | Hard: с-м | Type: midfix
+scum-before — ску-а-м | Meaning: before scum | Casual: ск-а-м | Hard: с-м | Type: midfix
+scum-un — ску-э-м | Meaning: not scum | Casual: ск-э-м | Hard: с-м | Type: midfix
+scum-question — ску-у-м | Meaning: questioning scum | Casual: ск-у-м | Hard: с-м | Type: midfix
+cushion — кусхион | Meaning: cushion | Casual: кусхин | Hard: кон | Type: root
+cushion-intense — ку-и-схион | Meaning: intense cushion | Casual: ку-и-схин | Hard: кон | Type: midfix
+cushion-before — ку-а-схион | Meaning: before cushion | Casual: ку-а-схин | Hard: кон | Type: midfix
+cushion-un — ку-э-схион | Meaning: not cushion | Casual: ку-э-схин | Hard: кон | Type: midfix
+cushion-question — ку-у-схион | Meaning: questioning cushion | Casual: ку-у-схин | Hard: кон | Type: midfix
+sprout — спроут | Meaning: sprout | Casual: спроут | Hard: сут | Type: root
+sprout-intense — спро-и-ут | Meaning: intense sprout | Casual: спро--ут | Hard: сут | Type: midfix
+sprout-before — спро-а-ут | Meaning: before sprout | Casual: спро--ут | Hard: сут | Type: midfix
+sprout-un — спро-э-ут | Meaning: not sprout | Casual: спро--ут | Hard: сут | Type: midfix
+sprout-question — спро-у-ут | Meaning: questioning sprout | Casual: спро--ут | Hard: сут | Type: midfix
+germinate — герминате | Meaning: germinate | Casual: герминат | Hard: гте | Type: root
+germinate-intense — ге-и-рминате | Meaning: intense germinate | Casual: ге-и-рминат | Hard: гте | Type: midfix
+germinate-before — ге-а-рминате | Meaning: before germinate | Casual: ге-а-рминат | Hard: гте | Type: midfix
+germinate-un — ге-э-рминате | Meaning: not germinate | Casual: ге-э-рминат | Hard: гте | Type: midfix
+germinate-question — ге-у-рминате | Meaning: questioning germinate | Casual: ге-у-рминат | Hard: гте | Type: midfix
+wilt — вилт | Meaning: wilt | Casual: вилт | Hard: вилт | Type: root
+wilt-intense — ви-и-лт | Meaning: intense wilt | Casual: ви-и-лт | Hard: влт | Type: midfix
+wilt-before — ви-а-лт | Meaning: before wilt | Casual: ви-а-лт | Hard: влт | Type: midfix
+wilt-un — ви-э-лт | Meaning: not wilt | Casual: ви-э-лт | Hard: влт | Type: midfix
+wilt-question — ви-у-лт | Meaning: questioning wilt | Casual: ви-у-лт | Hard: влт | Type: midfix
+droop — дрооп | Meaning: droop | Casual: дроп | Hard: доп | Type: root
+droop-intense — дро-и-оп | Meaning: intense droop | Casual: др-и-оп | Hard: доп | Type: midfix
+droop-before — дро-а-оп | Meaning: before droop | Casual: др-а-оп | Hard: доп | Type: midfix
+droop-un — дро-э-оп | Meaning: not droop | Casual: др-э-оп | Hard: доп | Type: midfix
+droop-question — дро-у-оп | Meaning: questioning droop | Casual: др-у-оп | Hard: доп | Type: midfix
+curve — курве | Meaning: curve | Casual: курве | Hard: кве | Type: root
+curve-intense — ку-и-рве | Meaning: intense curve | Casual: ку-и-рве | Hard: кве | Type: midfix
+curve-before — ку-а-рве | Meaning: before curve | Casual: ку-а-рве | Hard: кве | Type: midfix
+curve-un — ку-э-рве | Meaning: not curve | Casual: ку-э-рве | Hard: кве | Type: midfix
+curve-question — ку-у-рве | Meaning: questioning curve | Casual: ку-у-рве | Hard: кве | Type: midfix
+helix — хеликс | Meaning: helix | Casual: хеликс | Hard: хкс | Type: root
+helix-intense — хе-и-ликс | Meaning: intense helix | Casual: хе-и-ликс | Hard: хкс | Type: midfix
+helix-before — хе-а-ликс | Meaning: before helix | Casual: хе-а-ликс | Hard: хкс | Type: midfix
+helix-un — хе-э-ликс | Meaning: not helix | Casual: хе-э-ликс | Hard: хкс | Type: midfix
+helix-question — хе-у-ликс | Meaning: questioning helix | Casual: хе-у-ликс | Hard: хкс | Type: midfix
+twitch — твиткх | Meaning: twitch | Casual: твткх | Hard: ткх | Type: root
+twitch-intense — тви-и-ткх | Meaning: intense twitch | Casual: тв-и-ткх | Hard: ткх | Type: midfix
+twitch-before — тви-а-ткх | Meaning: before twitch | Casual: тв-а-ткх | Hard: ткх | Type: midfix
+twitch-un — тви-э-ткх | Meaning: not twitch | Casual: тв-э-ткх | Hard: ткх | Type: midfix
+twitch-question — тви-у-ткх | Meaning: questioning twitch | Casual: тв-у-ткх | Hard: ткх | Type: midfix
+spasm — спасм | Meaning: spasm | Casual: спсм | Hard: ссм | Type: root
+spasm-intense — спа-и-см | Meaning: intense spasm | Casual: сп-и-см | Hard: ссм | Type: midfix
+spasm-before — спа-а-см | Meaning: before spasm | Casual: сп-а-см | Hard: ссм | Type: midfix
+spasm-un — спа-э-см | Meaning: not spasm | Casual: сп-э-см | Hard: ссм | Type: midfix
+spasm-question — спа-у-см | Meaning: questioning spasm | Casual: сп-у-см | Hard: ссм | Type: midfix
+cramp — крамп | Meaning: cramp | Casual: крмп | Hard: кмп | Type: root
+cramp-intense — кра-и-мп | Meaning: intense cramp | Casual: кр-и-мп | Hard: кмп | Type: midfix
+cramp-before — кра-а-мп | Meaning: before cramp | Casual: кр-а-мп | Hard: кмп | Type: midfix
+cramp-un — кра-э-мп | Meaning: not cramp | Casual: кр-э-мп | Hard: кмп | Type: midfix
+cramp-question — кра-у-мп | Meaning: questioning cramp | Casual: кр-у-мп | Hard: кмп | Type: midfix
+pound — поунд | Meaning: pound | Casual: понд | Hard: пнд | Type: root
+pound-intense — по-и-унд | Meaning: intense pound | Casual: по-и-нд | Hard: пнд | Type: midfix
+pound-before — по-а-унд | Meaning: before pound | Casual: по-а-нд | Hard: пнд | Type: midfix
+pound-un — по-э-унд | Meaning: not pound | Casual: по-э-нд | Hard: пнд | Type: midfix
+pound-question — по-у-унд | Meaning: questioning pound | Casual: по-у-нд | Hard: пнд | Type: midfix
+tingle — тингле | Meaning: tingle | Casual: тингл | Hard: тле | Type: root
+tingle-intense — ти-и-нгле | Meaning: intense tingle | Casual: ти-и-нгл | Hard: тле | Type: midfix
+tingle-before — ти-а-нгле | Meaning: before tingle | Casual: ти-а-нгл | Hard: тле | Type: midfix
+tingle-un — ти-э-нгле | Meaning: not tingle | Casual: ти-э-нгл | Hard: тле | Type: midfix
+tingle-question — ти-у-нгле | Meaning: questioning tingle | Casual: ти-у-нгл | Hard: тле | Type: midfix
+prickle — приккле | Meaning: prickle | Casual: прккле | Hard: пле | Type: root
+prickle-intense — при-и-ккле | Meaning: intense prickle | Casual: пр-и-ккле | Hard: пле | Type: midfix
+prickle-before — при-а-ккле | Meaning: before prickle | Casual: пр-а-ккле | Hard: пле | Type: midfix
+prickle-un — при-э-ккле | Meaning: not prickle | Casual: пр-э-ккле | Hard: пле | Type: midfix
+prickle-question — при-у-ккле | Meaning: questioning prickle | Casual: пр-у-ккле | Hard: пле | Type: midfix
+eyelet — ейелет | Meaning: eyelet | Casual: ейлет | Hard: еет | Type: root
+eyelet-intense — е-и-йелет | Meaning: intense eyelet | Casual: е--йлет | Hard: еет | Type: midfix
+eyelet-before — е-а-йелет | Meaning: before eyelet | Casual: е--йлет | Hard: еет | Type: midfix
+eyelet-un — е-э-йелет | Meaning: not eyelet | Casual: е--йлет | Hard: еет | Type: midfix
+eyelet-question — е-у-йелет | Meaning: questioning eyelet | Casual: е--йлет | Hard: еет | Type: midfix
+grommet — громмет | Meaning: grommet | Casual: грммт | Hard: гет | Type: root
+grommet-intense — гро-и-ммет | Meaning: intense grommet | Casual: гр-и-ммт | Hard: гет | Type: midfix
+grommet-before — гро-а-ммет | Meaning: before grommet | Casual: гр-а-ммт | Hard: гет | Type: midfix
+grommet-un — гро-э-ммет | Meaning: not grommet | Casual: гр-э-ммт | Hard: гет | Type: midfix
+grommet-question — гро-у-ммет | Meaning: questioning grommet | Casual: гр-у-ммт | Hard: гет | Type: midfix
+rivet — ривет | Meaning: rivet | Casual: ривет | Hard: рет | Type: root
+rivet-intense — ри-и-вет | Meaning: intense rivet | Casual: ри-и-вет | Hard: рет | Type: midfix
+rivet-before — ри-а-вет | Meaning: before rivet | Casual: ри-а-вет | Hard: рет | Type: midfix
+rivet-un — ри-э-вет | Meaning: not rivet | Casual: ри-э-вет | Hard: рет | Type: midfix
+rivet-question — ри-у-вет | Meaning: questioning rivet | Casual: ри-у-вет | Hard: рет | Type: midfix
+stud — студ | Meaning: stud | Casual: стд | Hard: студ | Type: root
+stud-intense — сту-и-д | Meaning: intense stud | Casual: ст-и-д | Hard: с-д | Type: midfix
+stud-before — сту-а-д | Meaning: before stud | Casual: ст-а-д | Hard: с-д | Type: midfix
+stud-un — сту-э-д | Meaning: not stud | Casual: ст-э-д | Hard: с-д | Type: midfix
+stud-question — сту-у-д | Meaning: questioning stud | Casual: ст-у-д | Hard: с-д | Type: midfix
+sequin — секууин | Meaning: sequin | Casual: секуун | Hard: син | Type: root
+sequin-intense — се-и-кууин | Meaning: intense sequin | Casual: се-и-куун | Hard: син | Type: midfix
+sequin-before — се-а-кууин | Meaning: before sequin | Casual: се-а-куун | Hard: син | Type: midfix
+sequin-un — се-э-кууин | Meaning: not sequin | Casual: се-э-куун | Hard: син | Type: midfix
+sequin-question — се-у-кууин | Meaning: questioning sequin | Casual: се-у-куун | Hard: син | Type: midfix
+rhinestone — рхинестоне | Meaning: rhinestone | Casual: рхнестоне | Hard: рне | Type: root
+rhinestone-intense — рхи-и-нестоне | Meaning: intense rhinestone | Casual: рх-и-нестоне | Hard: рне | Type: midfix
+rhinestone-before — рхи-а-нестоне | Meaning: before rhinestone | Casual: рх-а-нестоне | Hard: рне | Type: midfix
+rhinestone-un — рхи-э-нестоне | Meaning: not rhinestone | Casual: рх-э-нестоне | Hard: рне | Type: midfix
+rhinestone-question — рхи-у-нестоне | Meaning: questioning rhinestone | Casual: рх-у-нестоне | Hard: рне | Type: midfix
+fur — фур | Meaning: fur | Casual: фур | Hard: фур | Type: root
+fur-intense — фу-и-р | Meaning: intense fur | Casual: фу-и-р | Hard: ф-р | Type: midfix
+fur-before — фу-а-р | Meaning: before fur | Casual: фу-а-р | Hard: ф-р | Type: midfix
+fur-un — фу-э-р | Meaning: not fur | Casual: фу-э-р | Hard: ф-р | Type: midfix
+fur-question — фу-у-р | Meaning: questioning fur | Casual: фу-у-р | Hard: ф-р | Type: midfix
+suede — суеде | Meaning: suede | Casual: суде | Hard: сде | Type: root
+suede-intense — су-и-еде | Meaning: intense suede | Casual: су-и-де | Hard: сде | Type: midfix
+suede-before — су-а-еде | Meaning: before suede | Casual: су-а-де | Hard: сде | Type: midfix
+suede-un — су-э-еде | Meaning: not suede | Casual: су-э-де | Hard: сде | Type: midfix
+suede-question — су-у-еде | Meaning: questioning suede | Casual: су-у-де | Hard: сде | Type: midfix
+velvet — велвет | Meaning: velvet | Casual: велвет | Hard: вет | Type: root
+velvet-intense — ве-и-лвет | Meaning: intense velvet | Casual: ве-и-лвет | Hard: вет | Type: midfix
+velvet-before — ве-а-лвет | Meaning: before velvet | Casual: ве-а-лвет | Hard: вет | Type: midfix
+velvet-un — ве-э-лвет | Meaning: not velvet | Casual: ве-э-лвет | Hard: вет | Type: midfix
+velvet-question — ве-у-лвет | Meaning: questioning velvet | Casual: ве-у-лвет | Hard: вет | Type: midfix
+wool — воол | Meaning: wool | Casual: вол | Hard: воол | Type: root
+wool-intense — во-и-ол | Meaning: intense wool | Casual: во-и-л | Hard: вол | Type: midfix
+wool-before — во-а-ол | Meaning: before wool | Casual: во-а-л | Hard: вол | Type: midfix
+wool-un — во-э-ол | Meaning: not wool | Casual: во-э-л | Hard: вол | Type: midfix
+wool-question — во-у-ол | Meaning: questioning wool | Casual: во-у-л | Hard: вол | Type: midfix
+linen — линен | Meaning: linen | Casual: линен | Hard: лен | Type: root
+linen-intense — ли-и-нен | Meaning: intense linen | Casual: ли-и-нен | Hard: лен | Type: midfix
+linen-before — ли-а-нен | Meaning: before linen | Casual: ли-а-нен | Hard: лен | Type: midfix
+linen-un — ли-э-нен | Meaning: not linen | Casual: ли-э-нен | Hard: лен | Type: midfix
+linen-question — ли-у-нен | Meaning: questioning linen | Casual: ли-у-нен | Hard: лен | Type: midfix
+nylon — нйлон | Meaning: nylon | Casual: нйлон | Hard: нон | Type: root
+nylon-intense — нйло-и-н | Meaning: intense nylon | Casual: нйло--н | Hard: н-н | Type: midfix
+nylon-before — нйло-а-н | Meaning: before nylon | Casual: нйло--н | Hard: н-н | Type: midfix
+nylon-un — нйло-э-н | Meaning: not nylon | Casual: нйло--н | Hard: н-н | Type: midfix
+nylon-question — нйло-у-н | Meaning: questioning nylon | Casual: нйло--н | Hard: н-н | Type: midfix
+polyester — полйестер | Meaning: polyester | Casual: полйестер | Hard: пер | Type: root
+polyester-intense — по-и-лйестер | Meaning: intense polyester | Casual: по-и-лйестер | Hard: пер | Type: midfix
+polyester-before — по-а-лйестер | Meaning: before polyester | Casual: по-а-лйестер | Hard: пер | Type: midfix
+polyester-un — по-э-лйестер | Meaning: not polyester | Casual: по-э-лйестер | Hard: пер | Type: midfix
+polyester-question — по-у-лйестер | Meaning: questioning polyester | Casual: по-у-лйестер | Hard: пер | Type: midfix
+spandex — спандекс | Meaning: spandex | Casual: спндкс | Hard: скс | Type: root
+spandex-intense — спа-и-ндекс | Meaning: intense spandex | Casual: сп-и-ндкс | Hard: скс | Type: midfix
+spandex-before — спа-а-ндекс | Meaning: before spandex | Casual: сп-а-ндкс | Hard: скс | Type: midfix
+spandex-un — спа-э-ндекс | Meaning: not spandex | Casual: сп-э-ндкс | Hard: скс | Type: midfix
+spandex-question — спа-у-ндекс | Meaning: questioning spandex | Casual: сп-у-ндкс | Hard: скс | Type: midfix
+sweep — свееп | Meaning: sweep | Casual: свеп | Hard: сеп | Type: root
+sweep-intense — све-и-еп | Meaning: intense sweep | Casual: св-и-еп | Hard: сеп | Type: midfix
+sweep-before — све-а-еп | Meaning: before sweep | Casual: св-а-еп | Hard: сеп | Type: midfix
+sweep-un — све-э-еп | Meaning: not sweep | Casual: св-э-еп | Hard: сеп | Type: midfix
+sweep-question — све-у-еп | Meaning: questioning sweep | Casual: св-у-еп | Hard: сеп | Type: midfix
+vacuum — вакуум | Meaning: vacuum | Casual: вакуум | Hard: вум | Type: root
+vacuum-intense — ва-и-куум | Meaning: intense vacuum | Casual: ва-и-куум | Hard: вум | Type: midfix
+vacuum-before — ва-а-куум | Meaning: before vacuum | Casual: ва-а-куум | Hard: вум | Type: midfix
+vacuum-un — ва-э-куум | Meaning: not vacuum | Casual: ва-э-куум | Hard: вум | Type: midfix
+vacuum-question — ва-у-куум | Meaning: questioning vacuum | Casual: ва-у-куум | Hard: вум | Type: midfix
+wipe — випе | Meaning: wipe | Casual: випе | Hard: випе | Type: root
+wipe-intense — ви-и-пе | Meaning: intense wipe | Casual: ви-и-пе | Hard: впе | Type: midfix
+wipe-before — ви-а-пе | Meaning: before wipe | Casual: ви-а-пе | Hard: впе | Type: midfix
+wipe-un — ви-э-пе | Meaning: not wipe | Casual: ви-э-пе | Hard: впе | Type: midfix
+wipe-question — ви-у-пе | Meaning: questioning wipe | Casual: ви-у-пе | Hard: впе | Type: midfix
+scrub — скруб | Meaning: scrub | Casual: скруб | Hard: суб | Type: root
+scrub-intense — скру-и-б | Meaning: intense scrub | Casual: скру--б | Hard: с-б | Type: midfix
+scrub-before — скру-а-б | Meaning: before scrub | Casual: скру--б | Hard: с-б | Type: midfix
+scrub-un — скру-э-б | Meaning: not scrub | Casual: скру--б | Hard: с-б | Type: midfix
+scrub-question — скру-у-б | Meaning: questioning scrub | Casual: скру--б | Hard: с-б | Type: midfix
+stack — стакк | Meaning: stack | Casual: сткк | Hard: скк | Type: root
+stack-intense — ста-и-кк | Meaning: intense stack | Casual: ст-и-кк | Hard: скк | Type: midfix
+stack-before — ста-а-кк | Meaning: before stack | Casual: ст-а-кк | Hard: скк | Type: midfix
+stack-un — ста-э-кк | Meaning: not stack | Casual: ст-э-кк | Hard: скк | Type: midfix
+stack-question — ста-у-кк | Meaning: questioning stack | Casual: ст-у-кк | Hard: скк | Type: midfix
+drape — драпе | Meaning: drape | Casual: дрпе | Hard: дпе | Type: root
+drape-intense — дра-и-пе | Meaning: intense drape | Casual: др-и-пе | Hard: дпе | Type: midfix
+drape-before — дра-а-пе | Meaning: before drape | Casual: др-а-пе | Hard: дпе | Type: midfix
+drape-un — дра-э-пе | Meaning: not drape | Casual: др-э-пе | Hard: дпе | Type: midfix
+drape-question — дра-у-пе | Meaning: questioning drape | Casual: др-у-пе | Hard: дпе | Type: midfix
+nibble — ниббле | Meaning: nibble | Casual: ниббл | Hard: нле | Type: root
+nibble-intense — ни-и-ббле | Meaning: intense nibble | Casual: ни-и-ббл | Hard: нле | Type: midfix
+nibble-before — ни-а-ббле | Meaning: before nibble | Casual: ни-а-ббл | Hard: нле | Type: midfix
+nibble-un — ни-э-ббле | Meaning: not nibble | Casual: ни-э-ббл | Hard: нле | Type: midfix
+nibble-question — ни-у-ббле | Meaning: questioning nibble | Casual: ни-у-ббл | Hard: нле | Type: midfix
+suck — сукк | Meaning: suck | Casual: сукк | Hard: сукк | Type: root
+suck-intense — су-и-кк | Meaning: intense suck | Casual: су-и-кк | Hard: скк | Type: midfix
+suck-before — су-а-кк | Meaning: before suck | Casual: су-а-кк | Hard: скк | Type: midfix
+suck-un — су-э-кк | Meaning: not suck | Casual: су-э-кк | Hard: скк | Type: midfix
+suck-question — су-у-кк | Meaning: questioning suck | Casual: су-у-кк | Hard: скк | Type: midfix
+slurp — слурп | Meaning: slurp | Casual: слрп | Hard: срп | Type: root
+slurp-intense — слу-и-рп | Meaning: intense slurp | Casual: сл-и-рп | Hard: срп | Type: midfix
+slurp-before — слу-а-рп | Meaning: before slurp | Casual: сл-а-рп | Hard: срп | Type: midfix
+slurp-un — слу-э-рп | Meaning: not slurp | Casual: сл-э-рп | Hard: срп | Type: midfix
+slurp-question — слу-у-рп | Meaning: questioning slurp | Casual: сл-у-рп | Hard: срп | Type: midfix
+gulp — гулп | Meaning: gulp | Casual: гулп | Hard: гулп | Type: root
+gulp-intense — гу-и-лп | Meaning: intense gulp | Casual: гу-и-лп | Hard: глп | Type: midfix
+gulp-before — гу-а-лп | Meaning: before gulp | Casual: гу-а-лп | Hard: глп | Type: midfix
+gulp-un — гу-э-лп | Meaning: not gulp | Casual: гу-э-лп | Hard: глп | Type: midfix
+gulp-question — гу-у-лп | Meaning: questioning gulp | Casual: гу-у-лп | Hard: глп | Type: midfix
+digest — дигест | Meaning: digest | Casual: дигест | Hard: дст | Type: root
+digest-intense — ди-и-гест | Meaning: intense digest | Casual: ди-и-гест | Hard: дст | Type: midfix
+digest-before — ди-а-гест | Meaning: before digest | Casual: ди-а-гест | Hard: дст | Type: midfix
+digest-un — ди-э-гест | Meaning: not digest | Casual: ди-э-гест | Hard: дст | Type: midfix
+digest-question — ди-у-гест | Meaning: questioning digest | Casual: ди-у-гест | Hard: дст | Type: midfix
+savor — савор | Meaning: savor | Casual: савор | Hard: сор | Type: root
+savor-intense — са-и-вор | Meaning: intense savor | Casual: са-и-вор | Hard: сор | Type: midfix
+savor-before — са-а-вор | Meaning: before savor | Casual: са-а-вор | Hard: сор | Type: midfix
+savor-un — са-э-вор | Meaning: not savor | Casual: са-э-вор | Hard: сор | Type: midfix
+savor-question — са-у-вор | Meaning: questioning savor | Casual: са-у-вор | Hard: сор | Type: midfix
+relish — релисх | Meaning: relish | Casual: релисх | Hard: рсх | Type: root
+relish-intense — ре-и-лисх | Meaning: intense relish | Casual: ре-и-лисх | Hard: рсх | Type: midfix
+relish-before — ре-а-лисх | Meaning: before relish | Casual: ре-а-лисх | Hard: рсх | Type: midfix
+relish-un — ре-э-лисх | Meaning: not relish | Casual: ре-э-лисх | Hard: рсх | Type: midfix
+relish-question — ре-у-лисх | Meaning: questioning relish | Casual: ре-у-лисх | Hard: рсх | Type: midfix
+devour — девоур | Meaning: devour | Casual: девоур | Hard: дур | Type: root
+devour-intense — де-и-воур | Meaning: intense devour | Casual: де-и-воур | Hard: дур | Type: midfix
+devour-before — де-а-воур | Meaning: before devour | Casual: де-а-воур | Hard: дур | Type: midfix
+devour-un — де-э-воур | Meaning: not devour | Casual: де-э-воур | Hard: дур | Type: midfix
+devour-question — де-у-воур | Meaning: questioning devour | Casual: де-у-воур | Hard: дур | Type: midfix
+consume — консуме | Meaning: consume | Casual: консуме | Hard: кме | Type: root
+consume-intense — ко-и-нсуме | Meaning: intense consume | Casual: ко-и-нсуме | Hard: кме | Type: midfix
+consume-before — ко-а-нсуме | Meaning: before consume | Casual: ко-а-нсуме | Hard: кме | Type: midfix
+consume-un — ко-э-нсуме | Meaning: not consume | Casual: ко-э-нсуме | Hard: кме | Type: midfix
+consume-question — ко-у-нсуме | Meaning: questioning consume | Casual: ко-у-нсуме | Hard: кме | Type: midfix
+embark — ембарк | Meaning: embark | Casual: ембарк | Hard: ерк | Type: root
+embark-intense — е-и-мбарк | Meaning: intense embark | Casual: е--мбарк | Hard: ерк | Type: midfix
+embark-before — е-а-мбарк | Meaning: before embark | Casual: е--мбарк | Hard: ерк | Type: midfix
+embark-un — е-э-мбарк | Meaning: not embark | Casual: е--мбарк | Hard: ерк | Type: midfix
+embark-question — е-у-мбарк | Meaning: questioning embark | Casual: е--мбарк | Hard: ерк | Type: midfix
+disembark — дисембарк | Meaning: disembark | Casual: дисембарк | Hard: дрк | Type: root
+disembark-intense — ди-и-сембарк | Meaning: intense disembark | Casual: ди-и-сембарк | Hard: дрк | Type: midfix
+disembark-before — ди-а-сембарк | Meaning: before disembark | Casual: ди-а-сембарк | Hard: дрк | Type: midfix
+disembark-un — ди-э-сембарк | Meaning: not disembark | Casual: ди-э-сембарк | Hard: дрк | Type: midfix
+disembark-question — ди-у-сембарк | Meaning: questioning disembark | Casual: ди-у-сембарк | Hard: дрк | Type: midfix
+takeoff — такеофф | Meaning: takeoff | Casual: такеофф | Hard: тфф | Type: root
+takeoff-intense — та-и-кеофф | Meaning: intense takeoff | Casual: та-и-кеофф | Hard: тфф | Type: midfix
+takeoff-before — та-а-кеофф | Meaning: before takeoff | Casual: та-а-кеофф | Hard: тфф | Type: midfix
+takeoff-un — та-э-кеофф | Meaning: not takeoff | Casual: та-э-кеофф | Hard: тфф | Type: midfix
+takeoff-question — та-у-кеофф | Meaning: questioning takeoff | Casual: та-у-кеофф | Hard: тфф | Type: midfix
+navigate — навигате | Meaning: navigate | Casual: навигте | Hard: нте | Type: root
+navigate-intense — на-и-вигате | Meaning: intense navigate | Casual: на-и-вигте | Hard: нте | Type: midfix
+navigate-before — на-а-вигате | Meaning: before navigate | Casual: на-а-вигте | Hard: нте | Type: midfix
+navigate-un — на-э-вигате | Meaning: not navigate | Casual: на-э-вигте | Hard: нте | Type: midfix
+navigate-question — на-у-вигате | Meaning: questioning navigate | Casual: на-у-вигте | Hard: нте | Type: midfix
+crystallize — крйсталлизе | Meaning: crystallize | Casual: крйстллзе | Hard: кзе | Type: root
+crystallize-intense — крйста-и-ллизе | Meaning: intense crystallize | Casual: крйст-и-ллзе | Hard: кзе | Type: midfix
+crystallize-before — крйста-а-ллизе | Meaning: before crystallize | Casual: крйст-а-ллзе | Hard: кзе | Type: midfix
+crystallize-un — крйста-э-ллизе | Meaning: not crystallize | Casual: крйст-э-ллзе | Hard: кзе | Type: midfix
+crystallize-question — крйста-у-ллизе | Meaning: questioning crystallize | Casual: крйст-у-ллзе | Hard: кзе | Type: midfix
+sublime — сублиме | Meaning: sublime | Casual: сублиме | Hard: сме | Type: root
+sublime-intense — су-и-блиме | Meaning: intense sublime | Casual: су-и-блиме | Hard: сме | Type: midfix
+sublime-before — су-а-блиме | Meaning: before sublime | Casual: су-а-блиме | Hard: сме | Type: midfix
+sublime-un — су-э-блиме | Meaning: not sublime | Casual: су-э-блиме | Hard: сме | Type: midfix
+sublime-question — су-у-блиме | Meaning: questioning sublime | Casual: су-у-блиме | Hard: сме | Type: midfix
+erode — ероде | Meaning: erode | Casual: ерде | Hard: еде | Type: root
+erode-intense — е-и-роде | Meaning: intense erode | Casual: е--рде | Hard: еде | Type: midfix
+erode-before — е-а-роде | Meaning: before erode | Casual: е--рде | Hard: еде | Type: midfix
+erode-un — е-э-роде | Meaning: not erode | Casual: е--рде | Hard: еде | Type: midfix
+erode-question — е-у-роде | Meaning: questioning erode | Casual: е--рде | Hard: еде | Type: midfix
+gossip — госсип | Meaning: gossip | Casual: госсип | Hard: гип | Type: root
+gossip-intense — го-и-ссип | Meaning: intense gossip | Casual: го-и-ссип | Hard: гип | Type: midfix
+gossip-before — го-а-ссип | Meaning: before gossip | Casual: го-а-ссип | Hard: гип | Type: midfix
+gossip-un — го-э-ссип | Meaning: not gossip | Casual: го-э-ссип | Hard: гип | Type: midfix
+gossip-question — го-у-ссип | Meaning: questioning gossip | Casual: го-у-ссип | Hard: гип | Type: midfix
+scream — скреам | Meaning: scream | Casual: скреам | Hard: сам | Type: root
+scream-intense — скре-и-ам | Meaning: intense scream | Casual: скре--ам | Hard: сам | Type: midfix
+scream-before — скре-а-ам | Meaning: before scream | Casual: скре--ам | Hard: сам | Type: midfix
+scream-un — скре-э-ам | Meaning: not scream | Casual: скре--ам | Hard: сам | Type: midfix
+scream-question — скре-у-ам | Meaning: questioning scream | Casual: скре--ам | Hard: сам | Type: midfix
+wail — ваил | Meaning: wail | Casual: вал | Hard: ваил | Type: root
+wail-intense — ва-и-ил | Meaning: intense wail | Casual: ва-и-л | Hard: вил | Type: midfix
+wail-before — ва-а-ил | Meaning: before wail | Casual: ва-а-л | Hard: вил | Type: midfix
+wail-un — ва-э-ил | Meaning: not wail | Casual: ва-э-л | Hard: вил | Type: midfix
+wail-question — ва-у-ил | Meaning: questioning wail | Casual: ва-у-л | Hard: вил | Type: midfix
+groan — гроан | Meaning: groan | Casual: гран | Hard: ган | Type: root
+groan-intense — гро-и-ан | Meaning: intense groan | Casual: гр-и-ан | Hard: ган | Type: midfix
+groan-before — гро-а-ан | Meaning: before groan | Casual: гр-а-ан | Hard: ган | Type: midfix
+groan-un — гро-э-ан | Meaning: not groan | Casual: гр-э-ан | Hard: ган | Type: midfix
+groan-question — гро-у-ан | Meaning: questioning groan | Casual: гр-у-ан | Hard: ган | Type: midfix
+grumble — грумбле | Meaning: grumble | Casual: грмбле | Hard: гле | Type: root
+grumble-intense — гру-и-мбле | Meaning: intense grumble | Casual: гр-и-мбле | Hard: гле | Type: midfix
+grumble-before — гру-а-мбле | Meaning: before grumble | Casual: гр-а-мбле | Hard: гле | Type: midfix
+grumble-un — гру-э-мбле | Meaning: not grumble | Casual: гр-э-мбле | Hard: гле | Type: midfix
+grumble-question — гру-у-мбле | Meaning: questioning grumble | Casual: гр-у-мбле | Hard: гле | Type: midfix
+enunciate — енункиате | Meaning: enunciate | Casual: еннкат | Hard: ете | Type: root
+enunciate-intense — е-и-нункиате | Meaning: intense enunciate | Casual: е--ннкат | Hard: ете | Type: midfix
+enunciate-before — е-а-нункиате | Meaning: before enunciate | Casual: е--ннкат | Hard: ете | Type: midfix
+enunciate-un — е-э-нункиате | Meaning: not enunciate | Casual: е--ннкат | Hard: ете | Type: midfix
+enunciate-question — е-у-нункиате | Meaning: questioning enunciate | Casual: е--ннкат | Hard: ете | Type: midfix
+pronounce — проноунке | Meaning: pronounce | Casual: прнонк | Hard: пке | Type: root
+pronounce-intense — про-и-ноунке | Meaning: intense pronounce | Casual: пр-и-нонк | Hard: пке | Type: midfix
+pronounce-before — про-а-ноунке | Meaning: before pronounce | Casual: пр-а-нонк | Hard: пке | Type: midfix
+pronounce-un — про-э-ноунке | Meaning: not pronounce | Casual: пр-э-нонк | Hard: пке | Type: midfix
+pronounce-question — про-у-ноунке | Meaning: questioning pronounce | Casual: пр-у-нонк | Hard: пке | Type: midfix
+ialect — иалект | Meaning: ialect | Casual: иалект | Hard: икт | Type: root
+ialect-intense — и-и-алект | Meaning: intense ialect | Casual: и--алект | Hard: икт | Type: midfix
+ialect-before — и-а-алект | Meaning: before ialect | Casual: и--алект | Hard: икт | Type: midfix
+ialect-un — и-э-алект | Meaning: not ialect | Casual: и--алект | Hard: икт | Type: midfix
+ialect-question — и-у-алект | Meaning: questioning ialect | Casual: и--алект | Hard: икт | Type: midfix
+decrypt — декрйпт | Meaning: decrypt | Casual: декрйпт | Hard: дпт | Type: root
+decrypt-intense — де-и-крйпт | Meaning: intense decrypt | Casual: де-и-крйпт | Hard: дпт | Type: midfix
+decrypt-before — де-а-крйпт | Meaning: before decrypt | Casual: де-а-крйпт | Hard: дпт | Type: midfix
+decrypt-un — де-э-крйпт | Meaning: not decrypt | Casual: де-э-крйпт | Hard: дпт | Type: midfix
+decrypt-question — де-у-крйпт | Meaning: questioning decrypt | Casual: де-у-крйпт | Hard: дпт | Type: midfix
+verify — верифй | Meaning: verify | Casual: верифй | Hard: вфй | Type: root
+verify-intense — ве-и-рифй | Meaning: intense verify | Casual: ве-и-рифй | Hard: вфй | Type: midfix
+verify-before — ве-а-рифй | Meaning: before verify | Casual: ве-а-рифй | Hard: вфй | Type: midfix
+verify-un — ве-э-рифй | Meaning: not verify | Casual: ве-э-рифй | Hard: вфй | Type: midfix
+verify-question — ве-у-рифй | Meaning: questioning verify | Casual: ве-у-рифй | Hard: вфй | Type: midfix
+grant — грант | Meaning: grant | Casual: грнт | Hard: гнт | Type: root
+grant-intense — гра-и-нт | Meaning: intense grant | Casual: гр-и-нт | Hard: гнт | Type: midfix
+grant-before — гра-а-нт | Meaning: before grant | Casual: гр-а-нт | Hard: гнт | Type: midfix
+grant-un — гра-э-нт | Meaning: not grant | Casual: гр-э-нт | Hard: гнт | Type: midfix
+grant-question — гра-у-нт | Meaning: questioning grant | Casual: гр-у-нт | Hard: гнт | Type: midfix
+revoke — ревоке | Meaning: revoke | Casual: ревок | Hard: рке | Type: root
+revoke-intense — ре-и-воке | Meaning: intense revoke | Casual: ре-и-вок | Hard: рке | Type: midfix
+revoke-before — ре-а-воке | Meaning: before revoke | Casual: ре-а-вок | Hard: рке | Type: midfix
+revoke-un — ре-э-воке | Meaning: not revoke | Casual: ре-э-вок | Hard: рке | Type: midfix
+revoke-question — ре-у-воке | Meaning: questioning revoke | Casual: ре-у-вок | Hard: рке | Type: midfix
+suspend — суспенд | Meaning: suspend | Casual: суспенд | Hard: снд | Type: root
+suspend-intense — су-и-спенд | Meaning: intense suspend | Casual: су-и-спенд | Hard: снд | Type: midfix
+suspend-before — су-а-спенд | Meaning: before suspend | Casual: су-а-спенд | Hard: снд | Type: midfix
+suspend-un — су-э-спенд | Meaning: not suspend | Casual: су-э-спенд | Hard: снд | Type: midfix
+suspend-question — су-у-спенд | Meaning: questioning suspend | Casual: су-у-спенд | Hard: снд | Type: midfix
+deactivate — деактивате | Meaning: deactivate | Casual: дектвате | Hard: дте | Type: root
+deactivate-intense — де-и-активате | Meaning: intense deactivate | Casual: де-и-ктвате | Hard: дте | Type: midfix
+deactivate-before — де-а-активате | Meaning: before deactivate | Casual: де-а-ктвате | Hard: дте | Type: midfix
+deactivate-un — де-э-активате | Meaning: not deactivate | Casual: де-э-ктвате | Hard: дте | Type: midfix
+deactivate-question — де-у-активате | Meaning: questioning deactivate | Casual: де-у-ктвате | Hard: дте | Type: midfix
+toggle — тоггле | Meaning: toggle | Casual: тоггл | Hard: тле | Type: root
+toggle-intense — то-и-ггле | Meaning: intense toggle | Casual: то-и-ггл | Hard: тле | Type: midfix
+toggle-before — то-а-ггле | Meaning: before toggle | Casual: то-а-ггл | Hard: тле | Type: midfix
+toggle-un — то-э-ггле | Meaning: not toggle | Casual: то-э-ггл | Hard: тле | Type: midfix
+toggle-question — то-у-ггле | Meaning: questioning toggle | Casual: то-у-ггл | Hard: тле | Type: midfix
+erupt — ерупт | Meaning: erupt | Casual: ерпт | Hard: епт | Type: root
+erupt-intense — е-и-рупт | Meaning: intense erupt | Casual: е--рпт | Hard: епт | Type: midfix
+erupt-before — е-а-рупт | Meaning: before erupt | Casual: е--рпт | Hard: епт | Type: midfix
+erupt-un — е-э-рупт | Meaning: not erupt | Casual: е--рпт | Hard: епт | Type: midfix
+erupt-question — е-у-рупт | Meaning: questioning erupt | Casual: е--рпт | Hard: епт | Type: midfix
+spew — спев | Meaning: spew | Casual: спв | Hard: спев | Type: root
+spew-intense — спе-и-в | Meaning: intense spew | Casual: сп-и-в | Hard: с-в | Type: midfix
+spew-before — спе-а-в | Meaning: before spew | Casual: сп-а-в | Hard: с-в | Type: midfix
+spew-un — спе-э-в | Meaning: not spew | Casual: сп-э-в | Hard: с-в | Type: midfix
+spew-question — спе-у-в | Meaning: questioning spew | Casual: сп-у-в | Hard: с-в | Type: midfix
+spout — споут | Meaning: spout | Casual: спут | Hard: сут | Type: root
+spout-intense — спо-и-ут | Meaning: intense spout | Casual: сп-и-ут | Hard: сут | Type: midfix
+spout-before — спо-а-ут | Meaning: before spout | Casual: сп-а-ут | Hard: сут | Type: midfix
+spout-un — спо-э-ут | Meaning: not spout | Casual: сп-э-ут | Hard: сут | Type: midfix
+spout-question — спо-у-ут | Meaning: questioning spout | Casual: сп-у-ут | Hard: сут | Type: midfix
+fountain — фоунтаин | Meaning: fountain | Casual: фонтин | Hard: фин | Type: root
+fountain-intense — фо-и-унтаин | Meaning: intense fountain | Casual: фо-и-нтин | Hard: фин | Type: midfix
+fountain-before — фо-а-унтаин | Meaning: before fountain | Casual: фо-а-нтин | Hard: фин | Type: midfix
+fountain-un — фо-э-унтаин | Meaning: not fountain | Casual: фо-э-нтин | Hard: фин | Type: midfix
+fountain-question — фо-у-унтаин | Meaning: questioning fountain | Casual: фо-у-нтин | Hard: фин | Type: midfix
+well — велл | Meaning: well | Casual: велл | Hard: велл | Type: root
+well-intense — ве-и-лл | Meaning: intense well | Casual: ве-и-лл | Hard: влл | Type: midfix
+well-before — ве-а-лл | Meaning: before well | Casual: ве-а-лл | Hard: влл | Type: midfix
+well-un — ве-э-лл | Meaning: not well | Casual: ве-э-лл | Hard: влл | Type: midfix
+well-question — ве-у-лл | Meaning: questioning well | Casual: ве-у-лл | Hard: влл | Type: midfix
+puddle — пуддле | Meaning: puddle | Casual: пуддл | Hard: пле | Type: root
+puddle-intense — пу-и-ддле | Meaning: intense puddle | Casual: пу-и-ддл | Hard: пле | Type: midfix
+puddle-before — пу-а-ддле | Meaning: before puddle | Casual: пу-а-ддл | Hard: пле | Type: midfix
+puddle-un — пу-э-ддле | Meaning: not puddle | Casual: пу-э-ддл | Hard: пле | Type: midfix
+puddle-question — пу-у-ддле | Meaning: questioning puddle | Casual: пу-у-ддл | Hard: пле | Type: midfix
+initiate — инитиате | Meaning: initiate | Casual: интите | Hard: ите | Type: root
+initiate-intense — и-и-нитиате | Meaning: intense initiate | Casual: и--нтите | Hard: ите | Type: midfix
+initiate-before — и-а-нитиате | Meaning: before initiate | Casual: и--нтите | Hard: ите | Type: midfix
+initiate-un — и-э-нитиате | Meaning: not initiate | Casual: и--нтите | Hard: ите | Type: midfix
+initiate-question — и-у-нитиате | Meaning: questioning initiate | Casual: и--нтите | Hard: ите | Type: midfix
+terminate — терминате | Meaning: terminate | Casual: терминат | Hard: тте | Type: root
+terminate-intense — те-и-рминате | Meaning: intense terminate | Casual: те-и-рминат | Hard: тте | Type: midfix
+terminate-before — те-а-рминате | Meaning: before terminate | Casual: те-а-рминат | Hard: тте | Type: midfix
+terminate-un — те-э-рминате | Meaning: not terminate | Casual: те-э-рминат | Hard: тте | Type: midfix
+terminate-question — те-у-рминате | Meaning: questioning terminate | Casual: те-у-рминат | Hard: тте | Type: midfix
+progress — прогресс | Meaning: progress | Casual: пргрсс | Hard: псс | Type: root
+progress-intense — про-и-гресс | Meaning: intense progress | Casual: пр-и-грсс | Hard: псс | Type: midfix
+progress-before — про-а-гресс | Meaning: before progress | Casual: пр-а-грсс | Hard: псс | Type: midfix
+progress-un — про-э-гресс | Meaning: not progress | Casual: пр-э-грсс | Hard: псс | Type: midfix
+progress-question — про-у-гресс | Meaning: questioning progress | Casual: пр-у-грсс | Hard: псс | Type: midfix
+prowl — провл | Meaning: prowl | Casual: првл | Hard: пвл | Type: root
+prowl-intense — про-и-вл | Meaning: intense prowl | Casual: пр-и-вл | Hard: пвл | Type: midfix
+prowl-before — про-а-вл | Meaning: before prowl | Casual: пр-а-вл | Hard: пвл | Type: midfix
+prowl-un — про-э-вл | Meaning: not prowl | Casual: пр-э-вл | Hard: пвл | Type: midfix
+prowl-question — про-у-вл | Meaning: questioning prowl | Casual: пр-у-вл | Hard: пвл | Type: midfix
+pursue — пурсуе | Meaning: pursue | Casual: пурсу | Hard: пуе | Type: root
+pursue-intense — пу-и-рсуе | Meaning: intense pursue | Casual: пу-и-рсу | Hard: пуе | Type: midfix
+pursue-before — пу-а-рсуе | Meaning: before pursue | Casual: пу-а-рсу | Hard: пуе | Type: midfix
+pursue-un — пу-э-рсуе | Meaning: not pursue | Casual: пу-э-рсу | Hard: пуе | Type: midfix
+pursue-question — пу-у-рсуе | Meaning: questioning pursue | Casual: пу-у-рсу | Hard: пуе | Type: midfix
+direct — директ | Meaning: direct | Casual: директ | Hard: дкт | Type: root
+direct-intense — ди-и-рект | Meaning: intense direct | Casual: ди-и-рект | Hard: дкт | Type: midfix
+direct-before — ди-а-рект | Meaning: before direct | Casual: ди-а-рект | Hard: дкт | Type: midfix
+direct-un — ди-э-рект | Meaning: not direct | Casual: ди-э-рект | Hard: дкт | Type: midfix
+direct-question — ди-у-рект | Meaning: questioning direct | Casual: ди-у-рект | Hard: дкт | Type: midfix
+flock — флокк | Meaning: flock | Casual: флкк | Hard: фкк | Type: root
+flock-intense — фло-и-кк | Meaning: intense flock | Casual: фл-и-кк | Hard: фкк | Type: midfix
+flock-before — фло-а-кк | Meaning: before flock | Casual: фл-а-кк | Hard: фкк | Type: midfix
+flock-un — фло-э-кк | Meaning: not flock | Casual: фл-э-кк | Hard: фкк | Type: midfix
+flock-question — фло-у-кк | Meaning: questioning flock | Casual: фл-у-кк | Hard: фкк | Type: midfix
+swarm — сварм | Meaning: swarm | Casual: сврм | Hard: срм | Type: root
+swarm-intense — сва-и-рм | Meaning: intense swarm | Casual: св-и-рм | Hard: срм | Type: midfix
+swarm-before — сва-а-рм | Meaning: before swarm | Casual: св-а-рм | Hard: срм | Type: midfix
+swarm-un — сва-э-рм | Meaning: not swarm | Casual: св-э-рм | Hard: срм | Type: midfix
+swarm-question — сва-у-рм | Meaning: questioning swarm | Casual: св-у-рм | Hard: срм | Type: midfix
+thrash — тхрасх | Meaning: thrash | Casual: тхрасх | Hard: тсх | Type: root
+thrash-intense — тхра-и-сх | Meaning: intense thrash | Casual: тхра--сх | Hard: тсх | Type: midfix
+thrash-before — тхра-а-сх | Meaning: before thrash | Casual: тхра--сх | Hard: тсх | Type: midfix
+thrash-un — тхра-э-сх | Meaning: not thrash | Casual: тхра--сх | Hard: тсх | Type: midfix
+thrash-question — тхра-у-сх | Meaning: questioning thrash | Casual: тхра--сх | Hard: тсх | Type: midfix
+toss — тосс | Meaning: toss | Casual: тосс | Hard: тосс | Type: root
+toss-intense — то-и-сс | Meaning: intense toss | Casual: то-и-сс | Hard: тсс | Type: midfix
+toss-before — то-а-сс | Meaning: before toss | Casual: то-а-сс | Hard: тсс | Type: midfix
+toss-un — то-э-сс | Meaning: not toss | Casual: то-э-сс | Hard: тсс | Type: midfix
+toss-question — то-у-сс | Meaning: questioning toss | Casual: то-у-сс | Hard: тсс | Type: midfix
+heave — хеаве | Meaning: heave | Casual: хеве | Hard: хве | Type: root
+heave-intense — хе-и-аве | Meaning: intense heave | Casual: хе-и-ве | Hard: хве | Type: midfix
+heave-before — хе-а-аве | Meaning: before heave | Casual: хе-а-ве | Hard: хве | Type: midfix
+heave-un — хе-э-аве | Meaning: not heave | Casual: хе-э-ве | Hard: хве | Type: midfix
+heave-question — хе-у-аве | Meaning: questioning heave | Casual: хе-у-ве | Hard: хве | Type: midfix
+swell — свелл | Meaning: swell | Casual: свлл | Hard: слл | Type: root
+swell-intense — све-и-лл | Meaning: intense swell | Casual: св-и-лл | Hard: слл | Type: midfix
+swell-before — све-а-лл | Meaning: before swell | Casual: св-а-лл | Hard: слл | Type: midfix
+swell-un — све-э-лл | Meaning: not swell | Casual: св-э-лл | Hard: слл | Type: midfix
+swell-question — све-у-лл | Meaning: questioning swell | Casual: св-у-лл | Hard: слл | Type: midfix
+surge — сурге | Meaning: surge | Casual: сурге | Hard: сге | Type: root
+surge-intense — су-и-рге | Meaning: intense surge | Casual: су-и-рге | Hard: сге | Type: midfix
+surge-before — су-а-рге | Meaning: before surge | Casual: су-а-рге | Hard: сге | Type: midfix
+surge-un — су-э-рге | Meaning: not surge | Casual: су-э-рге | Hard: сге | Type: midfix
+surge-question — су-у-рге | Meaning: questioning surge | Casual: су-у-рге | Hard: сге | Type: midfix
+trough — троугх | Meaning: trough | Casual: тругх | Hard: тгх | Type: root
+trough-intense — тро-и-угх | Meaning: intense trough | Casual: тр-и-угх | Hard: тгх | Type: midfix
+trough-before — тро-а-угх | Meaning: before trough | Casual: тр-а-угх | Hard: тгх | Type: midfix
+trough-un — тро-э-угх | Meaning: not trough | Casual: тр-э-угх | Hard: тгх | Type: midfix
+trough-question — тро-у-угх | Meaning: questioning trough | Casual: тр-у-угх | Hard: тгх | Type: midfix
+distill — дистилл | Meaning: distill | Casual: дистилл | Hard: длл | Type: root
+distill-intense — ди-и-стилл | Meaning: intense distill | Casual: ди-и-стилл | Hard: длл | Type: midfix
+distill-before — ди-а-стилл | Meaning: before distill | Casual: ди-а-стилл | Hard: длл | Type: midfix
+distill-un — ди-э-стилл | Meaning: not distill | Casual: ди-э-стилл | Hard: длл | Type: midfix
+distill-question — ди-у-стилл | Meaning: questioning distill | Casual: ди-у-стилл | Hard: длл | Type: midfix
+mature — матуре | Meaning: mature | Casual: матур | Hard: мре | Type: root
+mature-intense — ма-и-туре | Meaning: intense mature | Casual: ма-и-тур | Hard: мре | Type: midfix
+mature-before — ма-а-туре | Meaning: before mature | Casual: ма-а-тур | Hard: мре | Type: midfix
+mature-un — ма-э-туре | Meaning: not mature | Casual: ма-э-тур | Hard: мре | Type: midfix
+mature-question — ма-у-туре | Meaning: questioning mature | Casual: ма-у-тур | Hard: мре | Type: midfix
+ripen — рипен | Meaning: ripen | Casual: рипен | Hard: рен | Type: root
+ripen-intense — ри-и-пен | Meaning: intense ripen | Casual: ри-и-пен | Hard: рен | Type: midfix
+ripen-before — ри-а-пен | Meaning: before ripen | Casual: ри-а-пен | Hard: рен | Type: midfix
+ripen-un — ри-э-пен | Meaning: not ripen | Casual: ри-э-пен | Hard: рен | Type: midfix
+ripen-question — ри-у-пен | Meaning: questioning ripen | Casual: ри-у-пен | Hard: рен | Type: midfix
+spoil — споил | Meaning: spoil | Casual: спил | Hard: сил | Type: root
+spoil-intense — спо-и-ил | Meaning: intense spoil | Casual: сп-и-ил | Hard: сил | Type: midfix
+spoil-before — спо-а-ил | Meaning: before spoil | Casual: сп-а-ил | Hard: сил | Type: midfix
+spoil-un — спо-э-ил | Meaning: not spoil | Casual: сп-э-ил | Hard: сил | Type: midfix
+spoil-question — спо-у-ил | Meaning: questioning spoil | Casual: сп-у-ил | Hard: сил | Type: midfix
+sweeten — свеетен | Meaning: sweeten | Casual: светн | Hard: сен | Type: root
+sweeten-intense — све-и-етен | Meaning: intense sweeten | Casual: св-и-етн | Hard: сен | Type: midfix
+sweeten-before — све-а-етен | Meaning: before sweeten | Casual: св-а-етн | Hard: сен | Type: midfix
+sweeten-un — све-э-етен | Meaning: not sweeten | Casual: св-э-етн | Hard: сен | Type: midfix
+sweeten-question — све-у-етен | Meaning: questioning sweeten | Casual: св-у-етн | Hard: сен | Type: midfix
+scent — скент | Meaning: scent | Casual: скнт | Hard: снт | Type: root
+scent-intense — ске-и-нт | Meaning: intense scent | Casual: ск-и-нт | Hard: снт | Type: midfix
+scent-before — ске-а-нт | Meaning: before scent | Casual: ск-а-нт | Hard: снт | Type: midfix
+scent-un — ске-э-нт | Meaning: not scent | Casual: ск-э-нт | Hard: снт | Type: midfix
+scent-question — ске-у-нт | Meaning: questioning scent | Casual: ск-у-нт | Hard: снт | Type: midfix
+extend — екстенд | Meaning: extend | Casual: екстенд | Hard: енд | Type: root
+extend-intense — е-и-кстенд | Meaning: intense extend | Casual: е--кстенд | Hard: енд | Type: midfix
+extend-before — е-а-кстенд | Meaning: before extend | Casual: е--кстенд | Hard: енд | Type: midfix
+extend-un — е-э-кстенд | Meaning: not extend | Casual: е--кстенд | Hard: енд | Type: midfix
+extend-question — е-у-кстенд | Meaning: questioning extend | Casual: е--кстенд | Hard: енд | Type: midfix
+tense — тенсе | Meaning: tense | Casual: тенсе | Hard: тсе | Type: root
+tense-intense — те-и-нсе | Meaning: intense tense | Casual: те-и-нсе | Hard: тсе | Type: midfix
+tense-before — те-а-нсе | Meaning: before tense | Casual: те-а-нсе | Hard: тсе | Type: midfix
+tense-un — те-э-нсе | Meaning: not tense | Casual: те-э-нсе | Hard: тсе | Type: midfix
+tense-question — те-у-нсе | Meaning: questioning tense | Casual: те-у-нсе | Hard: тсе | Type: midfix
+grasp — грасп | Meaning: grasp | Casual: грсп | Hard: гсп | Type: root
+grasp-intense — гра-и-сп | Meaning: intense grasp | Casual: гр-и-сп | Hard: гсп | Type: midfix
+grasp-before — гра-а-сп | Meaning: before grasp | Casual: гр-а-сп | Hard: гсп | Type: midfix
+grasp-un — гра-э-сп | Meaning: not grasp | Casual: гр-э-сп | Hard: гсп | Type: midfix
+grasp-question — гра-у-сп | Meaning: questioning grasp | Casual: гр-у-сп | Hard: гсп | Type: midfix
+pinch — пинкх | Meaning: pinch | Casual: пинкх | Hard: пкх | Type: root
+pinch-intense — пи-и-нкх | Meaning: intense pinch | Casual: пи-и-нкх | Hard: пкх | Type: midfix
+pinch-before — пи-а-нкх | Meaning: before pinch | Casual: пи-а-нкх | Hard: пкх | Type: midfix
+pinch-un — пи-э-нкх | Meaning: not pinch | Casual: пи-э-нкх | Hard: пкх | Type: midfix
+pinch-question — пи-у-нкх | Meaning: questioning pinch | Casual: пи-у-нкх | Hard: пкх | Type: midfix
+tweak — твеак | Meaning: tweak | Casual: твак | Hard: так | Type: root
+tweak-intense — тве-и-ак | Meaning: intense tweak | Casual: тв-и-ак | Hard: так | Type: midfix
+tweak-before — тве-а-ак | Meaning: before tweak | Casual: тв-а-ак | Hard: так | Type: midfix
+tweak-un — тве-э-ак | Meaning: not tweak | Casual: тв-э-ак | Hard: так | Type: midfix
+tweak-question — тве-у-ак | Meaning: questioning tweak | Casual: тв-у-ак | Hard: так | Type: midfix
+weigh — веигх | Meaning: weigh | Casual: вегх | Hard: вгх | Type: root
+weigh-intense — ве-и-игх | Meaning: intense weigh | Casual: ве-и-гх | Hard: вгх | Type: midfix
+weigh-before — ве-а-игх | Meaning: before weigh | Casual: ве-а-гх | Hard: вгх | Type: midfix
+weigh-un — ве-э-игх | Meaning: not weigh | Casual: ве-э-гх | Hard: вгх | Type: midfix
+weigh-question — ве-у-игх | Meaning: questioning weigh | Casual: ве-у-гх | Hard: вгх | Type: midfix
+probe — пробе | Meaning: probe | Casual: прбе | Hard: пбе | Type: root
+probe-intense — про-и-бе | Meaning: intense probe | Casual: пр-и-бе | Hard: пбе | Type: midfix
+probe-before — про-а-бе | Meaning: before probe | Casual: пр-а-бе | Hard: пбе | Type: midfix
+probe-un — про-э-бе | Meaning: not probe | Casual: пр-э-бе | Hard: пбе | Type: midfix
+probe-question — про-у-бе | Meaning: questioning probe | Casual: пр-у-бе | Hard: пбе | Type: midfix
+straighten — страигхтен | Meaning: straighten | Casual: страигхтн | Hard: сен | Type: root
+straighten-intense — стра-и-игхтен | Meaning: intense straighten | Casual: стра--игхтн | Hard: сен | Type: midfix
+straighten-before — стра-а-игхтен | Meaning: before straighten | Casual: стра--игхтн | Hard: сен | Type: midfix
+straighten-un — стра-э-игхтен | Meaning: not straighten | Casual: стра--игхтн | Hard: сен | Type: midfix
+straighten-question — стра-у-игхтен | Meaning: questioning straighten | Casual: стра--игхтн | Hard: сен | Type: midfix
+demolish — демолисх | Meaning: demolish | Casual: демолсх | Hard: дсх | Type: root
+demolish-intense — де-и-молисх | Meaning: intense demolish | Casual: де-и-молсх | Hard: дсх | Type: midfix
+demolish-before — де-а-молисх | Meaning: before demolish | Casual: де-а-молсх | Hard: дсх | Type: midfix
+demolish-un — де-э-молисх | Meaning: not demolish | Casual: де-э-молсх | Hard: дсх | Type: midfix
+demolish-question — де-у-молисх | Meaning: questioning demolish | Casual: де-у-молсх | Hard: дсх | Type: midfix
+wreck — врекк | Meaning: wreck | Casual: вркк | Hard: вкк | Type: root
+wreck-intense — вре-и-кк | Meaning: intense wreck | Casual: вр-и-кк | Hard: вкк | Type: midfix
+wreck-before — вре-а-кк | Meaning: before wreck | Casual: вр-а-кк | Hard: вкк | Type: midfix
+wreck-un — вре-э-кк | Meaning: not wreck | Casual: вр-э-кк | Hard: вкк | Type: midfix
+wreck-question — вре-у-кк | Meaning: questioning wreck | Casual: вр-у-кк | Hard: вкк | Type: midfix
+obstruct — обструкт | Meaning: obstruct | Casual: обстркт | Hard: окт | Type: root
+obstruct-intense — о-и-бструкт | Meaning: intense obstruct | Casual: о--бстркт | Hard: окт | Type: midfix
+obstruct-before — о-а-бструкт | Meaning: before obstruct | Casual: о--бстркт | Hard: окт | Type: midfix
+obstruct-un — о-э-бструкт | Meaning: not obstruct | Casual: о--бстркт | Hard: окт | Type: midfix
+obstruct-question — о-у-бструкт | Meaning: questioning obstruct | Casual: о--бстркт | Hard: окт | Type: midfix
+soothe — соотхе | Meaning: soothe | Casual: сотх | Hard: схе | Type: root
+soothe-intense — со-и-отхе | Meaning: intense soothe | Casual: со-и-тх | Hard: схе | Type: midfix
+soothe-before — со-а-отхе | Meaning: before soothe | Casual: со-а-тх | Hard: схе | Type: midfix
+soothe-un — со-э-отхе | Meaning: not soothe | Casual: со-э-тх | Hard: схе | Type: midfix
+soothe-question — со-у-отхе | Meaning: questioning soothe | Casual: со-у-тх | Hard: схе | Type: midfix
+reassure — реассуре | Meaning: reassure | Casual: рессре | Hard: рре | Type: root
+reassure-intense — ре-и-ассуре | Meaning: intense reassure | Casual: ре-и-ссре | Hard: рре | Type: midfix
+reassure-before — ре-а-ассуре | Meaning: before reassure | Casual: ре-а-ссре | Hard: рре | Type: midfix
+reassure-un — ре-э-ассуре | Meaning: not reassure | Casual: ре-э-ссре | Hard: рре | Type: midfix
+reassure-question — ре-у-ассуре | Meaning: questioning reassure | Casual: ре-у-ссре | Hard: рре | Type: midfix
+inspire — инспире | Meaning: inspire | Casual: инспире | Hard: ире | Type: root
+inspire-intense — и-и-нспире | Meaning: intense inspire | Casual: и--нспире | Hard: ире | Type: midfix
+inspire-before — и-а-нспире | Meaning: before inspire | Casual: и--нспире | Hard: ире | Type: midfix
+inspire-un — и-э-нспире | Meaning: not inspire | Casual: и--нспире | Hard: ире | Type: midfix
+inspire-question — и-у-нспире | Meaning: questioning inspire | Casual: и--нспире | Hard: ире | Type: midfix
+stimulate — стимулате | Meaning: stimulate | Casual: стмулат | Hard: сте | Type: root
+stimulate-intense — сти-и-мулате | Meaning: intense stimulate | Casual: ст-и-мулат | Hard: сте | Type: midfix
+stimulate-before — сти-а-мулате | Meaning: before stimulate | Casual: ст-а-мулат | Hard: сте | Type: midfix
+stimulate-un — сти-э-мулате | Meaning: not stimulate | Casual: ст-э-мулат | Hard: сте | Type: midfix
+stimulate-question — сти-у-мулате | Meaning: questioning stimulate | Casual: ст-у-мулат | Hard: сте | Type: midfix
+excite — екските | Meaning: excite | Casual: екските | Hard: ете | Type: root
+excite-intense — е-и-кските | Meaning: intense excite | Casual: е--кските | Hard: ете | Type: midfix
+excite-before — е-а-кските | Meaning: before excite | Casual: е--кските | Hard: ете | Type: midfix
+excite-un — е-э-кските | Meaning: not excite | Casual: е--кските | Hard: ете | Type: midfix
+excite-question — е-у-кските | Meaning: questioning excite | Casual: е--кските | Hard: ете | Type: midfix
+thrill — тхрилл | Meaning: thrill | Casual: тхрилл | Hard: тлл | Type: root
+thrill-intense — тхри-и-лл | Meaning: intense thrill | Casual: тхри--лл | Hard: тлл | Type: midfix
+thrill-before — тхри-а-лл | Meaning: before thrill | Casual: тхри--лл | Hard: тлл | Type: midfix
+thrill-un — тхри-э-лл | Meaning: not thrill | Casual: тхри--лл | Hard: тлл | Type: midfix
+thrill-question — тхри-у-лл | Meaning: questioning thrill | Casual: тхри--лл | Hard: тлл | Type: midfix
+electrify — електрифй | Meaning: electrify | Casual: елктрифй | Hard: ефй | Type: root
+electrify-intense — е-и-лектрифй | Meaning: intense electrify | Casual: е--лктрифй | Hard: ефй | Type: midfix
+electrify-before — е-а-лектрифй | Meaning: before electrify | Casual: е--лктрифй | Hard: ефй | Type: midfix
+electrify-un — е-э-лектрифй | Meaning: not electrify | Casual: е--лктрифй | Hard: ефй | Type: midfix
+electrify-question — е-у-лектрифй | Meaning: questioning electrify | Casual: е--лктрифй | Hard: ефй | Type: midfix
+depress — депресс | Meaning: depress | Casual: депресс | Hard: дсс | Type: root
+depress-intense — де-и-пресс | Meaning: intense depress | Casual: де-и-пресс | Hard: дсс | Type: midfix
+depress-before — де-а-пресс | Meaning: before depress | Casual: де-а-пресс | Hard: дсс | Type: midfix
+depress-un — де-э-пресс | Meaning: not depress | Casual: де-э-пресс | Hard: дсс | Type: midfix
+depress-question — де-у-пресс | Meaning: questioning depress | Casual: де-у-пресс | Hard: дсс | Type: midfix
+discourage — дискоураге | Meaning: discourage | Casual: дискораге | Hard: дге | Type: root
+discourage-intense — ди-и-скоураге | Meaning: intense discourage | Casual: ди-и-скораге | Hard: дге | Type: midfix
+discourage-before — ди-а-скоураге | Meaning: before discourage | Casual: ди-а-скораге | Hard: дге | Type: midfix
+discourage-un — ди-э-скоураге | Meaning: not discourage | Casual: ди-э-скораге | Hard: дге | Type: midfix
+discourage-question — ди-у-скоураге | Meaning: questioning discourage | Casual: ди-у-скораге | Hard: дге | Type: midfix
+dishearten — дисхеартен | Meaning: dishearten | Casual: дисхертн | Hard: ден | Type: root
+dishearten-intense — ди-и-схеартен | Meaning: intense dishearten | Casual: ди-и-схертн | Hard: ден | Type: midfix
+dishearten-before — ди-а-схеартен | Meaning: before dishearten | Casual: ди-а-схертн | Hard: ден | Type: midfix
+dishearten-un — ди-э-схеартен | Meaning: not dishearten | Casual: ди-э-схертн | Hard: ден | Type: midfix
+dishearten-question — ди-у-схеартен | Meaning: questioning dishearten | Casual: ди-у-схертн | Hard: ден | Type: midfix
+daunt — даунт | Meaning: daunt | Casual: дант | Hard: днт | Type: root
+daunt-intense — да-и-унт | Meaning: intense daunt | Casual: да-и-нт | Hard: днт | Type: midfix
+daunt-before — да-а-унт | Meaning: before daunt | Casual: да-а-нт | Hard: днт | Type: midfix
+daunt-un — да-э-унт | Meaning: not daunt | Casual: да-э-нт | Hard: днт | Type: midfix
+daunt-question — да-у-унт | Meaning: questioning daunt | Casual: да-у-нт | Hard: днт | Type: midfix
+intimidate — интимидате | Meaning: intimidate | Casual: интимдате | Hard: ите | Type: root
+intimidate-intense — и-и-нтимидате | Meaning: intense intimidate | Casual: и--нтимдате | Hard: ите | Type: midfix
+intimidate-before — и-а-нтимидате | Meaning: before intimidate | Casual: и--нтимдате | Hard: ите | Type: midfix
+intimidate-un — и-э-нтимидате | Meaning: not intimidate | Casual: и--нтимдате | Hard: ите | Type: midfix
+intimidate-question — и-у-нтимидате | Meaning: questioning intimidate | Casual: и--нтимдате | Hard: ите | Type: midfix
+frighten — фригхтен | Meaning: frighten | Casual: фргхтен | Hard: фен | Type: root
+frighten-intense — фри-и-гхтен | Meaning: intense frighten | Casual: фр-и-гхтен | Hard: фен | Type: midfix
+frighten-before — фри-а-гхтен | Meaning: before frighten | Casual: фр-а-гхтен | Hard: фен | Type: midfix
+frighten-un — фри-э-гхтен | Meaning: not frighten | Casual: фр-э-гхтен | Hard: фен | Type: midfix
+frighten-question — фри-у-гхтен | Meaning: questioning frighten | Casual: фр-у-гхтен | Hard: фен | Type: midfix
+resonate — ресонате | Meaning: resonate | Casual: ресонте | Hard: рте | Type: root
+resonate-intense — ре-и-сонате | Meaning: intense resonate | Casual: ре-и-сонте | Hard: рте | Type: midfix
+resonate-before — ре-а-сонате | Meaning: before resonate | Casual: ре-а-сонте | Hard: рте | Type: midfix
+resonate-un — ре-э-сонате | Meaning: not resonate | Casual: ре-э-сонте | Hard: рте | Type: midfix
+resonate-question — ре-у-сонате | Meaning: questioning resonate | Casual: ре-у-сонте | Hard: рте | Type: midfix
+reverberate — реверберате | Meaning: reverberate | Casual: реверберте | Hard: рте | Type: root
+reverberate-intense — ре-и-верберате | Meaning: intense reverberate | Casual: ре-и-верберте | Hard: рте | Type: midfix
+reverberate-before — ре-а-верберате | Meaning: before reverberate | Casual: ре-а-верберте | Hard: рте | Type: midfix
+reverberate-un — ре-э-верберате | Meaning: not reverberate | Casual: ре-э-верберте | Hard: рте | Type: midfix
+reverberate-question — ре-у-верберате | Meaning: questioning reverberate | Casual: ре-у-верберте | Hard: рте | Type: midfix
+oscillate — оскиллате | Meaning: oscillate | Casual: оскиллат | Hard: оте | Type: root
+oscillate-intense — о-и-скиллате | Meaning: intense oscillate | Casual: о--скиллат | Hard: оте | Type: midfix
+oscillate-before — о-а-скиллате | Meaning: before oscillate | Casual: о--скиллат | Hard: оте | Type: midfix
+oscillate-un — о-э-скиллате | Meaning: not oscillate | Casual: о--скиллат | Hard: оте | Type: midfix
+oscillate-question — о-у-скиллате | Meaning: questioning oscillate | Casual: о--скиллат | Hard: оте | Type: midfix
+fluctuate — флуктуате | Meaning: fluctuate | Casual: флктат | Hard: фте | Type: root
+fluctuate-intense — флу-и-ктуате | Meaning: intense fluctuate | Casual: фл-и-ктат | Hard: фте | Type: midfix
+fluctuate-before — флу-а-ктуате | Meaning: before fluctuate | Casual: фл-а-ктат | Hard: фте | Type: midfix
+fluctuate-un — флу-э-ктуате | Meaning: not fluctuate | Casual: фл-э-ктат | Hard: фте | Type: midfix
+fluctuate-question — флу-у-ктуате | Meaning: questioning fluctuate | Casual: фл-у-ктат | Hard: фте | Type: midfix
+vary — варй | Meaning: vary | Casual: варй | Hard: варй | Type: root
+vary-intense — ва-и-рй | Meaning: intense vary | Casual: ва-и-рй | Hard: врй | Type: midfix
+vary-before — ва-а-рй | Meaning: before vary | Casual: ва-а-рй | Hard: врй | Type: midfix
+vary-un — ва-э-рй | Meaning: not vary | Casual: ва-э-рй | Hard: врй | Type: midfix
+vary-question — ва-у-рй | Meaning: questioning vary | Casual: ва-у-рй | Hard: врй | Type: midfix
+ramble — рамбле | Meaning: ramble | Casual: рамбл | Hard: рле | Type: root
+ramble-intense — ра-и-мбле | Meaning: intense ramble | Casual: ра-и-мбл | Hard: рле | Type: midfix
+ramble-before — ра-а-мбле | Meaning: before ramble | Casual: ра-а-мбл | Hard: рле | Type: midfix
+ramble-un — ра-э-мбле | Meaning: not ramble | Casual: ра-э-мбл | Hard: рле | Type: midfix
+ramble-question — ра-у-мбле | Meaning: questioning ramble | Casual: ра-у-мбл | Hard: рле | Type: midfix
+trek — трек | Meaning: trek | Casual: трк | Hard: трек | Type: root
+trek-intense — тре-и-к | Meaning: intense trek | Casual: тр-и-к | Hard: т-к | Type: midfix
+trek-before — тре-а-к | Meaning: before trek | Casual: тр-а-к | Hard: т-к | Type: midfix
+trek-un — тре-э-к | Meaning: not trek | Casual: тр-э-к | Hard: т-к | Type: midfix
+trek-question — тре-у-к | Meaning: questioning trek | Casual: тр-у-к | Hard: т-к | Type: midfix
+trudge — трудге | Meaning: trudge | Casual: трдг | Hard: тге | Type: root
+trudge-intense — тру-и-дге | Meaning: intense trudge | Casual: тр-и-дг | Hard: тге | Type: midfix
+trudge-before — тру-а-дге | Meaning: before trudge | Casual: тр-а-дг | Hard: тге | Type: midfix
+trudge-un — тру-э-дге | Meaning: not trudge | Casual: тр-э-дг | Hard: тге | Type: midfix
+trudge-question — тру-у-дге | Meaning: questioning trudge | Casual: тр-у-дг | Hard: тге | Type: midfix
+tramp — трамп | Meaning: tramp | Casual: трмп | Hard: тмп | Type: root
+tramp-intense — тра-и-мп | Meaning: intense tramp | Casual: тр-и-мп | Hard: тмп | Type: midfix
+tramp-before — тра-а-мп | Meaning: before tramp | Casual: тр-а-мп | Hard: тмп | Type: midfix
+tramp-un — тра-э-мп | Meaning: not tramp | Casual: тр-э-мп | Hard: тмп | Type: midfix
+tramp-question — тра-у-мп | Meaning: questioning tramp | Casual: тр-у-мп | Hard: тмп | Type: midfix
+explode — експлоде | Meaning: explode | Casual: експлде | Hard: еде | Type: root
+explode-intense — е-и-ксплоде | Meaning: intense explode | Casual: е--ксплде | Hard: еде | Type: midfix
+explode-before — е-а-ксплоде | Meaning: before explode | Casual: е--ксплде | Hard: еде | Type: midfix
+explode-un — е-э-ксплоде | Meaning: not explode | Casual: е--ксплде | Hard: еде | Type: midfix
+explode-question — е-у-ксплоде | Meaning: questioning explode | Casual: е--ксплде | Hard: еде | Type: midfix
+crumble — крумбле | Meaning: crumble | Casual: крмбле | Hard: кле | Type: root
+crumble-intense — кру-и-мбле | Meaning: intense crumble | Casual: кр-и-мбле | Hard: кле | Type: midfix
+crumble-before — кру-а-мбле | Meaning: before crumble | Casual: кр-а-мбле | Hard: кле | Type: midfix
+crumble-un — кру-э-мбле | Meaning: not crumble | Casual: кр-э-мбле | Hard: кле | Type: midfix
+crumble-question — кру-у-мбле | Meaning: questioning crumble | Casual: кр-у-мбле | Hard: кле | Type: midfix
+disintegrate — дисинтеграте | Meaning: disintegrate | Casual: дисинтеграт | Hard: дте | Type: root
+disintegrate-intense — ди-и-синтеграте | Meaning: intense disintegrate | Casual: ди-и-синтеграт | Hard: дте | Type: midfix
+disintegrate-before — ди-а-синтеграте | Meaning: before disintegrate | Casual: ди-а-синтеграт | Hard: дте | Type: midfix
+disintegrate-un — ди-э-синтеграте | Meaning: not disintegrate | Casual: ди-э-синтеграт | Hard: дте | Type: midfix
+disintegrate-question — ди-у-синтеграте | Meaning: questioning disintegrate | Casual: ди-у-синтеграт | Hard: дте | Type: midfix
+quantify — кууантифй | Meaning: quantify | Casual: куантифй | Hard: кфй | Type: root
+quantify-intense — ку-и-уантифй | Meaning: intense quantify | Casual: ку-и-антифй | Hard: кфй | Type: midfix
+quantify-before — ку-а-уантифй | Meaning: before quantify | Casual: ку-а-антифй | Hard: кфй | Type: midfix
+quantify-un — ку-э-уантифй | Meaning: not quantify | Casual: ку-э-антифй | Hard: кфй | Type: midfix
+quantify-question — ку-у-уантифй | Meaning: questioning quantify | Casual: ку-у-антифй | Hard: кфй | Type: midfix
+interpolate — интерполате | Meaning: interpolate | Casual: интерполте | Hard: ите | Type: root
+interpolate-intense — и-и-нтерполате | Meaning: intense interpolate | Casual: и--нтерполте | Hard: ите | Type: midfix
+interpolate-before — и-а-нтерполате | Meaning: before interpolate | Casual: и--нтерполте | Hard: ите | Type: midfix
+interpolate-un — и-э-нтерполате | Meaning: not interpolate | Casual: и--нтерполте | Hard: ите | Type: midfix
+interpolate-question — и-у-нтерполате | Meaning: questioning interpolate | Casual: и--нтерполте | Hard: ите | Type: midfix
+extrapolate — екстраполате | Meaning: extrapolate | Casual: екстрполат | Hard: ете | Type: root
+extrapolate-intense — е-и-кстраполате | Meaning: intense extrapolate | Casual: е--кстрполат | Hard: ете | Type: midfix
+extrapolate-before — е-а-кстраполате | Meaning: before extrapolate | Casual: е--кстрполат | Hard: ете | Type: midfix
+extrapolate-un — е-э-кстраполате | Meaning: not extrapolate | Casual: е--кстрполат | Hard: ете | Type: midfix
+extrapolate-question — е-у-кстраполате | Meaning: questioning extrapolate | Casual: е--кстрполат | Hard: ете | Type: midfix
+inhale — инхале | Meaning: inhale | Casual: инхал | Hard: иле | Type: root
+inhale-intense — и-и-нхале | Meaning: intense inhale | Casual: и--нхал | Hard: иле | Type: midfix
+inhale-before — и-а-нхале | Meaning: before inhale | Casual: и--нхал | Hard: иле | Type: midfix
+inhale-un — и-э-нхале | Meaning: not inhale | Casual: и--нхал | Hard: иле | Type: midfix
+inhale-question — и-у-нхале | Meaning: questioning inhale | Casual: и--нхал | Hard: иле | Type: midfix
+exhale — ексхале | Meaning: exhale | Casual: ексхале | Hard: еле | Type: root
+exhale-intense — е-и-ксхале | Meaning: intense exhale | Casual: е--ксхале | Hard: еле | Type: midfix
+exhale-before — е-а-ксхале | Meaning: before exhale | Casual: е--ксхале | Hard: еле | Type: midfix
+exhale-un — е-э-ксхале | Meaning: not exhale | Casual: е--ксхале | Hard: еле | Type: midfix
+exhale-question — е-у-ксхале | Meaning: questioning exhale | Casual: е--ксхале | Hard: еле | Type: midfix
+snore — сноре | Meaning: snore | Casual: снре | Hard: сре | Type: root
+snore-intense — сно-и-ре | Meaning: intense snore | Casual: сн-и-ре | Hard: сре | Type: midfix
+snore-before — сно-а-ре | Meaning: before snore | Casual: сн-а-ре | Hard: сре | Type: midfix
+snore-un — сно-э-ре | Meaning: not snore | Casual: сн-э-ре | Hard: сре | Type: midfix
+snore-question — сно-у-ре | Meaning: questioning snore | Casual: сн-у-ре | Hard: сре | Type: midfix
+hiccough — хиккоугх | Meaning: hiccough | Casual: хиккогх | Hard: хгх | Type: root
+hiccough-intense — хи-и-ккоугх | Meaning: intense hiccough | Casual: хи-и-ккогх | Hard: хгх | Type: midfix
+hiccough-before — хи-а-ккоугх | Meaning: before hiccough | Casual: хи-а-ккогх | Hard: хгх | Type: midfix
+hiccough-un — хи-э-ккоугх | Meaning: not hiccough | Casual: хи-э-ккогх | Hard: хгх | Type: midfix
+hiccough-question — хи-у-ккоугх | Meaning: questioning hiccough | Casual: хи-у-ккогх | Hard: хгх | Type: midfix
+decay — декай | Meaning: decay | Casual: декай | Hard: дай | Type: root
+decay-intense — де-и-кай | Meaning: intense decay | Casual: де-и-кай | Hard: дай | Type: midfix
+decay-before — де-а-кай | Meaning: before decay | Casual: де-а-кай | Hard: дай | Type: midfix
+decay-un — де-э-кай | Meaning: not decay | Casual: де-э-кай | Hard: дай | Type: midfix
+decay-question — де-у-кай | Meaning: questioning decay | Casual: де-у-кай | Hard: дай | Type: midfix
+undo — ундо | Meaning: undo | Casual: ундо | Hard: ундо | Type: root
+undo-intense — у-и-ндо | Meaning: intense undo | Casual: у--ндо | Hard: удо | Type: midfix
+undo-before — у-а-ндо | Meaning: before undo | Casual: у--ндо | Hard: удо | Type: midfix
+undo-un — у-э-ндо | Meaning: not undo | Casual: у--ндо | Hard: удо | Type: midfix
+undo-question — у-у-ндо | Meaning: questioning undo | Casual: у--ндо | Hard: удо | Type: midfix
+retry — ретрй | Meaning: retry | Casual: ретрй | Hard: ррй | Type: root
+retry-intense — ре-и-трй | Meaning: intense retry | Casual: ре-и-трй | Hard: ррй | Type: midfix
+retry-before — ре-а-трй | Meaning: before retry | Casual: ре-а-трй | Hard: ррй | Type: midfix
+retry-un — ре-э-трй | Meaning: not retry | Casual: ре-э-трй | Hard: ррй | Type: midfix
+retry-question — ре-у-трй | Meaning: questioning retry | Casual: ре-у-трй | Hard: ррй | Type: midfix
+disbelief — дисбелиеф | Meaning: disbelief | Casual: дисбелиеф | Hard: деф | Type: root
+disbelief-intense — ди-и-сбелиеф | Meaning: intense disbelief | Casual: ди-и-сбелиеф | Hard: деф | Type: midfix
+disbelief-before — ди-а-сбелиеф | Meaning: before disbelief | Casual: ди-а-сбелиеф | Hard: деф | Type: midfix
+disbelief-un — ди-э-сбелиеф | Meaning: not disbelief | Casual: ди-э-сбелиеф | Hard: деф | Type: midfix
+disbelief-question — ди-у-сбелиеф | Meaning: questioning disbelief | Casual: ди-у-сбелиеф | Hard: деф | Type: midfix
+sense — сенсе | Meaning: sense | Casual: сенсе | Hard: ссе | Type: root
+sense-intense — се-и-нсе | Meaning: intense sense | Casual: се-и-нсе | Hard: ссе | Type: midfix
+sense-before — се-а-нсе | Meaning: before sense | Casual: се-а-нсе | Hard: ссе | Type: midfix
+sense-un — се-э-нсе | Meaning: not sense | Casual: се-э-нсе | Hard: ссе | Type: midfix
+sense-question — се-у-нсе | Meaning: questioning sense | Casual: се-у-нсе | Hard: ссе | Type: midfix
+perceive — перкеиве | Meaning: perceive | Casual: перкеве | Hard: пве | Type: root
+perceive-intense — пе-и-ркеиве | Meaning: intense perceive | Casual: пе-и-ркеве | Hard: пве | Type: midfix
+perceive-before — пе-а-ркеиве | Meaning: before perceive | Casual: пе-а-ркеве | Hard: пве | Type: midfix
+perceive-un — пе-э-ркеиве | Meaning: not perceive | Casual: пе-э-ркеве | Hard: пве | Type: midfix
+perceive-question — пе-у-ркеиве | Meaning: questioning perceive | Casual: пе-у-ркеве | Hard: пве | Type: midfix
+
 PATCH AUDIT
 ================================================================================
-Base file: v6.63.940
+Base file: v6.63.941
 New English headwords: 500
 New duplicate English headwords: 0
 New Ш rules: 350
-Version: v6.63.940
+Version: v6.63.941
